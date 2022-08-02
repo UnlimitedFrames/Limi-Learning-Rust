@@ -1,5 +1,5 @@
 extern crate csv;
-use std::{collections::HashMap, hash::Hash};
+use std::{collections::HashMap};
 
 use csv::Error;
 type Record = HashMap<String,String>;
@@ -40,6 +40,7 @@ fn main() -> Result<(), Box<Error>> {
     let mut y2006_pop = 0.0;
     let mut y2013_pop = 0.0;
     let mut y2018_pop = 0.0;
+
     let mut y2006_raa = 0.0;
     let mut y2013_raa = 0.0;
     let mut y2018_raa = 0.0;
@@ -52,17 +53,32 @@ fn main() -> Result<(), Box<Error>> {
     for place in Combined{
         y2006_pop = y2006_pop + place["2006"].parse::<f64>().unwrap();
         y2013_pop = y2013_pop + place["2013"].parse::<f64>().unwrap();
-
-
         y2018_pop = y2018_pop + place["2018"].parse::<f64>().unwrap();
+
+
         y2018_raa = y2018_raa +  (place["2018"].parse::<f64>().unwrap()* place["lat"].parse::<f64>().unwrap() );
         y2018_roa = y2018_roa +  (place["2018"].parse::<f64>().unwrap()* place["long"].parse::<f64>().unwrap() );
         
+        
+        y2013_raa = y2013_raa +  (place["2013"].parse::<f64>().unwrap()* place["lat"].parse::<f64>().unwrap() );
+        y2013_roa = y2013_roa +  (place["2013"].parse::<f64>().unwrap()* place["long"].parse::<f64>().unwrap() );
+        
+        
+        y2006_raa = y2006_raa +  (place["2006"].parse::<f64>().unwrap()* place["lat"].parse::<f64>().unwrap() );
+        y2006_roa = y2006_roa +  (place["2006"].parse::<f64>().unwrap()* place["long"].parse::<f64>().unwrap() );
+        
     }   
 
-    let meaned_lat = y2018_raa/y2018_pop;
-    let meaned_long = y2018_roa/y2018_pop;
-    println!(" {meaned_lat},{meaned_long}");
+
+    let meaned_lat18 = y2018_raa/y2018_pop;
+    let meaned_long18 = y2018_roa/y2018_pop;
+    let meaned_lat13 = y2013_raa/y2013_pop;
+    let meaned_long13 = y2013_roa/y2013_pop;
+    let meaned_lat6 = y2006_raa/y2006_pop;
+    let meaned_long6 = y2006_roa/y2006_pop;
+    println!(" {meaned_lat6},{meaned_long6}");
+    println!(" {meaned_lat13},{meaned_long13}");
+    println!(" {meaned_lat18},{meaned_long18}");
 
 
     Ok(())
