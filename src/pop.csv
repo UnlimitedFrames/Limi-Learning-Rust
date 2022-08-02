@@ -1,2254 +1,2254 @@
-OBJECTID,SA22018_V1_NAME,Pop_Total_2006,Pop_Total_2013,Pop_Total_2018
-1,North Cape,1338,1371,1602
-2,Rangaunu Harbour,2010,2028,2310
-3,Inlets Far North District,63,63,45
-4,Karikari Peninsula,942,1164,1251
-5,Tangonge,1041,1131,1134
-6,Ahipara,1095,1032,1230
-7,Kaitaia East,2130,1983,2388
-8,Kaitaia West,3072,2904,3483
-9,Rangitihi,810,819,936
-10,Oruru-Parapara,690,687,846
-11,Taumarumaru,1680,1812,2193
-12,Herekino-Takahue,966,927,963
-13,Peria,1011,951,1107
-14,Taemaro-Oruaiti,729,666,867
-15,Whakapaku,705,708,744
-16,Hokianga North,813,744,795
-17,Kohukohu-Broadwood,747,624,726
-18,Whakarara,1104,1026,1344
-19,Kaeo,1077,1005,1191
-20,Omahuta Forest-Horeke,1017,888,1056
-21,Hokianga South,1065,1239,1236
-22,Lake Manuwai-Kapiro,1644,1896,2133
-23,Okaihau,1077,1131,1236
-24,Rangitane-Purerua,1182,1164,1506
-25,Waipapa,537,714,870
-26,Puketotara,1293,1380,1677
-27,Waima Forest,1029,873,1095
-28,Riverview,1776,1791,2109
-29,Waipoua Forest,1119,1035,1215
-30,Kerikeri Central,2049,2130,2502
-31,Kerikeri South,1665,2094,2553
-32,Ohaeawai-Waimate North,864,933,1140
-33,Puketona-Waitangi,1107,1140,1335
-34,Ngapuhi,1506,1371,1797
-35,Kaikohe,4041,3855,4437
-36,Pakaraka,507,555,666
-37,Haruru,786,867,1077
-38,Russell,786,702,762
-39,Paihia,1299,1290,1512
-40,Mataraua Forest,546,477,507
-41,Matawaia-Taumarere,1224,1146,1374
-42,Russell Peninsula,492,525,606
-43,Opua (Far North District),1107,1008,1137
-44,Russell Forest-Rawhiti,648,660,690
-45,Moerewa,1410,1344,1632
-46,Kawakawa,1326,1215,1464
-47,Maromaku,714,666,774
-48,Mangakahia-Hukerenui,1683,1641,1923
-49,Whangaruru,2067,2100,2520
-50,Inlets other Whangarei District,9,24,9
-51,Matarau,2277,2553,2979
-52,Hikurangi,1419,1410,1617
-53,Kauri,1338,1488,1746
-54,Maungatapere,2757,2994,3477
-55,Kamo West,1752,1983,2205
-56,Matapouri-Tutukaka,1203,1347,1692
-57,Kiripaka,717,888,993
-58,Kamo East,1926,2268,2871
-59,Granfield Reserve,2268,2856,3099
-60,Kamo Central,1530,1494,1680
-61,Whau Valley,2601,2538,2799
-62,Tikipunga North,2331,2097,3003
-63,Pukenui,1302,1638,2040
-64,Otangarei,2139,1635,2109
-65,Tikipunga South,3432,3387,3903
-66,Kensington (Whangarei District),3201,3012,3240
-67,Abbey Caves-Glenbervie,1002,1137,1329
-68,Mairtown,2205,2265,2475
-69,Maunu-Horahora,2931,3003,3276
-70,Woodhill-Vinetown,2490,2439,2847
-71,Whangarei Central,894,759,954
-72,Riverside,1947,1791,2085
-73,Raumanga,2994,2817,3330
-74,Tarewa,1749,1635,1962
-75,Morningside (Whangarei District),2127,2067,2340
-76,Ngunguru,879,918,1164
-77,Otaika-Portland,1107,1146,1338
-78,Oakleigh-Mangapai,2007,2205,2310
-79,Port-Limeburners,51,39,102
-80,Pataua,1131,1278,1584
-81,Onerahi Park,1248,1419,1584
-82,Sherwood Rise,2316,2226,2457
-83,Onerahi,2178,2145,2457
-84,Inlet Whangarei Harbour,36,6,12
-85,Parua Bay,1926,2013,2460
-86,Bream Bay,1494,1641,2073
-87,Marsden Bay,999,1494,2208
-88,Ruakaka,1917,2007,2586
-89,Bream Head,1062,1110,1392
-90,Waipu,1818,2082,2715
-91,Kaipara Coastal,3447,3429,3690
-92,Maungaru,1713,1686,1800
-93,Dargaville,4455,4251,4794
-94,Ruawai-Matakohe,2235,2289,2436
-95,Otamatea (Kaipara District),1407,1482,1713
-96,Maungaturoto,1113,1089,1269
-97,Kaiwaka,1452,1599,2139
-98,Mangawhai Rural,1032,1398,2100
-99,Mangawhai Heads,927,1239,1995
-100,Inlet Mangawhai Harbour,0,0,0
-101,Mangawhai,348,507,936
-102,Okahukura Peninsula,1380,1359,1491
-103,Inlet Kaipara Harbour South,0,0,0
-104,Cape Rodney,2760,3096,3525
-105,Wellsford,1671,1713,1929
-106,Oceanic Auckland Region East,33,21,9
-107,South Head,1878,2040,2595
-108,Kaipara Hills,1473,1686,1965
-109,Dome Valley-Matakana,1122,1284,1530
-110,Oceanic Auckland Region West,3,0,0
-111,Warkworth West,1464,1779,2481
-112,Puhoi Valley,2727,3141,3702
-113,Warkworth East,1998,2490,3105
-114,Sandspit,801,879,969
-115,Tawharanui Peninsula,1365,1620,1962
-116,Te Kuru,1695,2010,2484
-117,Snells Beach,2727,2931,3405
-118,Barrier Islands,867,933,930
-119,Algies Bay-Scotts Landing,933,1041,1185
-120,Inlets other Auckland,45,12,12
-121,Wainui-Waiwera,1326,1413,1674
-122,Parakai,831,1020,1098
-123,Helensville Rural,1209,1335,1524
-124,Helensville,2532,2643,2787
-125,Waitoki,1278,1320,1530
-126,Waikoukou Valley,1401,1518,1728
-127,Orewa North,1905,2766,4098
-128,Hatfields Beach,1194,1380,1554
-129,Orewa South,2796,2898,3048
-130,Orewa Central,2670,2925,3096
-131,Millwater North,42,732,3642
-132,Waipatukahu,1188,1239,1461
-133,Millwater South,57,135,2304
-134,Dairy Flat North,1452,1620,1788
-135,Dairy Flat West,1164,1287,1422
-136,Kingsway,1218,1830,2187
-137,Riverhead Forest,3,9,3
-138,Silverdale Central (Auckland),267,273,282
-139,Red Beach West,1581,1944,2136
-140,Red Beach East,3624,3777,4023
-141,Silverdale South (Auckland),1557,1812,2001
-142,Waimauku,1014,1173,1338
-143,Gulf Islands,141,120,111
-144,Vipond,2466,2766,2925
-145,Muriwai,1044,1131,1248
-146,Stanmore Bay West,2625,2550,2721
-147,Kumeu Rural West,1467,1530,1626
-148,Okura Bush,1125,1284,1332
-149,Whangaparoa Central,2688,3228,3786
-150,Kumeu-Huapai,1386,1410,3432
-151,Stanmore Bay East,2385,2562,2733
-152,Manly West,2196,2289,2349
-153,Muriwai Valley-Bethells Beach,825,945,1104
-154,Tindalls-Matakatia,1548,1749,1977
-155,Coatesville,1974,2223,2328
-156,Dairy Flat South,1140,1521,1617
-157,Gulf Harbour North,1977,2463,2934
-158,Manly East,3057,3354,3555
-159,Riverhead,1305,1362,2802
-160,Army Bay,1284,1410,1566
-161,Kumeu Rural East,1587,1785,2028
-162,Gulf Harbour South,1317,1839,2664
-163,Paremoremo West,675,804,978
-164,Taupaki,1452,1518,1617
-165,Long Bay,147,183,1365
-166,Paremoremo East,2019,2439,2382
-167,Albany Heights,1725,2277,3153
-168,Awaruku,4149,4185,4416
-169,Fairview Heights,1116,2931,3897
-170,Whenuapai,3639,3729,3888
-171,Waitakere Ranges North,1074,1140,1281
-172,Torbay,3942,4065,4305
-173,Albany Central,126,276,525
-174,Albany West,2088,2430,2811
-175,Glamorgan,3018,3108,3291
-176,Oteha East,2313,3042,3210
-177,Northcross,3132,3219,3276
-178,Oteha West,720,1467,1902
-179,Waiake,3615,3720,3885
-180,Waitakere,1755,1812,1935
-181,Albany South,3306,3267,3405
-182,Browns Bay South West,3909,3996,4221
-183,Browns Bay Central,2454,2688,2844
-184,Schnapper Rock,1431,3699,3939
-185,Pinehill,2700,3954,4275
-186,North Harbour,450,564,816
-187,Browns Bay South East,2427,2745,2931
-188,Westgate Central,87,78,42
-189,Greenhithe West,2997,3483,3501
-190,Rothesay Bay,2613,2706,2886
-191,Greenhithe East,1839,2787,3093
-192,Hobsonville,723,780,1173
-193,Inlet Waitemata Harbour,21,24,84
-194,Greenhithe South,1065,1413,1998
-195,Murrays Bay West,2532,2562,2628
-196,Westgate South,1299,1569,1770
-197,Windsor Park,1500,1614,1683
-198,West Harbour West,4086,4113,4332
-199,Unsworth Heights West,2079,2316,2322
-200,Murrays Bay East,2049,2142,2136
-201,Birdwood West,507,564,606
-202,Hobsonville Point,885,810,3765
-203,West Harbour Clearwater Cove,4068,4077,4344
-204,Unsworth Heights East,3171,3186,3567
-205,Mairangi Bay North,2697,2700,2901
-206,Massey Central,2880,2985,3363
-207,West Harbour Luckens Point,2673,2661,2697
-208,Mairangi Bay South,2580,2646,2745
-209,Massey Royal Road West,2664,2853,3021
-210,Bayview East,2976,3228,3618
-211,Swanson Rural,2037,2130,2355
-212,Sunnynook South,2382,2448,2673
-213,Sunnynook North,2652,2673,2865
-214,Bayview West,2151,2280,2376
-215,Totara Vale North,2898,2937,3174
-216,Royal Heights North,3306,3363,3501
-217,Massey West,579,1110,1428
-218,Beach Haven West,3111,3294,3417
-219,Totara Vale South,3405,3576,3867
-220,Swanson,1386,1650,2241
-221,Bayview South,2742,2898,3063
-222,Campbells Bay,2688,2835,2889
-223,Royal Heights South,3159,3405,3777
-224,Beach Haven East,3789,3816,3984
-225,Massey East,2991,3285,3540
-226,Forrest Hill North,2163,2325,2490
-227,Glenfield North,2892,3051,3333
-228,Birkdale North,3789,3996,4173
-229,Massey South,4020,4203,4554
-230,Ranui North,3744,3870,4053
-231,Glenfield West,2550,2760,3084
-232,Te Atatu Peninsula North West,2787,3048,3282
-233,Glenfield South West,3258,3618,4032
-234,Forrest Hill West,3432,3780,4014
-235,Wairau Valley,105,168,204
-236,Forrest Hill East,3117,3366,3516
-237,Castor Bay,4116,4305,4509
-238,Ranui Domain,3192,3297,3537
-239,Beach Haven South,2931,3027,3165
-240,Glenfield Central,3693,3888,4101
-241,Piha,822,858,984
-242,Ranui South West,1623,2163,2634
-243,Henderson Larnoch,3495,3840,4188
-244,Birkdale South,4107,4341,4725
-245,Te Atatu Peninsula Central,2877,2946,3351
-246,Glenfield East,1977,2097,2322
-247,Henderson Valley,1341,1353,1440
-248,Te Atatu Peninsula West,3225,3603,3780
-249,Henderson Lincoln West,2784,2955,3213
-250,Ranui South East,1770,2001,2925
-251,Henderson Lincoln East,306,309,138
-252,Birkenhead West,3900,4026,4653
-253,Te Atatu Peninsula East,2799,2889,2931
-254,Milford West,2823,2856,3072
-255,Westlake,2523,2796,2994
-256,Hillcrest North (Auckland),2979,3201,3387
-257,Henderson Lincoln South,2166,2268,2550
-258,Hillcrest West (Auckland),2898,2946,3240
-259,Milford Central,1950,1911,1947
-260,Summerland South,2298,3081,3213
-261,Summerland North,2256,2391,2580
-262,Hillcrest East (Auckland),3645,3669,3921
-263,Chatswood,3426,3402,3531
-264,Te Atatu South-Edmonton,3201,3459,3756
-265,Birkenhead North,2592,2748,2865
-266,Takapuna West,3402,4065,4509
-267,Henderson North,3060,3402,3771
-268,Takapuna Central,2046,2244,2370
-269,Western Heights (Auckland),3402,3861,4479
-270,Te Atatu South-Central,3765,3873,4257
-271,Northcote Central (Auckland),2427,2403,2358
-272,Akoranga,1143,1221,1167
-273,Northcote South (Auckland),2313,2340,2496
-274,Birkenhead South,2814,2868,3018
-275,Henderson Central,753,1131,1260
-276,Waiatarua,1989,2076,2148
-277,Te Atatu South-McLeod North,2382,3057,3312
-278,Henderson Valley Park,1704,1776,1914
-279,Henderson North East,2364,2409,2658
-280,Waitakere Ranges South,963,1011,1104
-281,Northcote Tuff Crater,1980,2070,2214
-282,Northcote Point (Auckland),2916,3009,3246
-283,McLaren Park,3894,4083,4350
-284,Henderson East,2208,2613,2874
-285,Te Atatu South-McLeod South,3111,3408,3813
-286,Takapuna South,1416,1440,1464
-287,Rosebank Peninsula,30,15,30
-288,Hauraki,3792,3969,4131
-289,Glendene North,4035,4224,4686
-290,Sunnyvale West-Parrs Park,1695,2340,2553
-291,Sunnyvale East,3723,3960,4773
-292,Point Chevalier West,3513,3765,3858
-293,Belmont (Auckland),2808,2946,3027
-294,Bayswater,2643,2823,2865
-295,Glendene South,2586,2697,2877
-296,Glen Eden West,3447,3573,3801
-297,Herne Bay,2982,2940,3036
-298,Westmere North,2148,2295,2343
-299,Point Chevalier East,4119,4404,4602
-300,Oratia,1839,2037,2151
-301,Glen Eden Rosier,2955,3138,3537
-302,Saint Marys Bay,2169,2286,2205
-303,Westmere South-Western Springs,2784,3039,3099
-304,Ponsonby West,2244,2265,2337
-305,Kelston North,2433,2541,2766
-306,Avondale Rosebank,3903,3927,4320
-307,Narrow Neck,3852,3984,4098
-308,Glen Eden North,2103,2373,2388
-309,Glen Eden Woodglen,3714,4041,4263
-310,Kelston South,2235,2361,2589
-311,Waterview,3345,3303,3375
-312,Ponsonby East,3243,3312,3393
-313,Wynyard-Viaduct,699,975,1008
-314,Stanley Point,2028,2040,2025
-315,Glen Eden Central,3177,3315,3573
-316,Grey Lynn North,2934,3078,3099
-317,Avondale West (Auckland),3795,3816,4017
-318,Freemans Bay,3831,4206,4407
-319,Mount Albert West,2502,2589,2685
-320,Avondale North (Auckland),3753,4020,4488
-321,Grey Lynn West,2613,2790,3156
-322,Mount Albert North,3864,3933,4044
-323,New Lynn North,2751,2946,3270
-324,Victoria Park,1050,1374,2070
-325,Konini,3393,3492,3555
-326,New Lynn North West,2472,2751,3120
-327,Hobson Ridge North,1827,2301,2475
-328,Grey Lynn Central,3315,3315,3588
-329,Fruitvale,2703,2745,2952
-330,Devonport,3417,3414,3348
-331,Avondale Central (Auckland),2379,2583,3030
-332,Queen Street,1074,1686,2193
-333,Quay Street-Customs Street,1104,2256,2274
-334,Hobson Ridge Central,1761,3210,3756
-335,Grey Lynn East,1380,1659,1890
-336,Morningside (Auckland),3606,3825,3981
-337,Shortland Street,816,1722,1602
-338,Hobson Ridge South,945,1587,1959
-339,New Lynn Central,243,150,543
-340,Cheltenham,2082,2073,2013
-341,Queen Street South West,1206,1482,1614
-342,Mount Albert Central,3378,3390,3669
-343,Karangahape,1413,1803,2307
-344,Kingsland,2967,3216,3372
-345,Anzac Avenue,2124,2568,2748
-346,Waima-Woodlands Park,2463,2526,2682
-347,Kaurilands,2970,3051,3177
-348,Auckland-University,96,111,105
-349,New Lynn Seabrook,2412,2634,2886
-350,Avondale South (Auckland),3735,3948,4227
-351,Symonds Street North West,2199,2622,2922
-352,Mount Albert South,2292,2316,2415
-353,Symonds Street West,1293,2292,2856
-354,West Lynn,2751,2871,3177
-355,Owairaka West,3096,2985,3222
-356,New Lynn Central South,2730,2841,2793
-357,The Strand,1188,1482,1353
-358,St Lukes,1653,2256,2391
-359,Symonds Street East,1209,2235,1980
-360,Eden Terrace,2898,3729,3933
-361,Grafton,1722,1878,1686
-362,Eden Park,1626,1659,1710
-363,Sandringham North,3552,3630,3897
-364,Parnell West,3270,3636,4158
-365,New Lynn South,3957,4167,4650
-366,New Windsor North,2976,3024,3249
-367,Titirangi South,3624,3771,4026
-368,Owairaka East,1845,1965,2046
-369,Eden Valley,2058,2022,2235
-370,Sandringham Central,2073,2202,2385
-371,Glenavon,2325,2787,2907
-372,Blockhouse Bay North,3156,3387,3873
-373,Green Bay North,1662,1683,1782
-374,Parnell East,3249,3456,3405
-375,Laingholm,2334,2265,2385
-376,Sandringham West,2028,2133,2337
-377,Mount Eden North East,1290,1035,1107
-378,Mount Eden North,3150,3180,3474
-379,Wesley West,3135,3240,3429
-380,Green Bay South,2688,2913,3006
-381,Balmoral,3015,3066,3204
-382,Sandringham East,3258,3273,3441
-383,New Windsor South,4119,4257,4509
-384,Mount Eden West,3162,3228,3279
-385,Newmarket,2262,3684,3993
-386,Blockhouse Bay North East,2007,2064,2181
-387,Epsom North,3213,3351,3420
-388,Wesley South,60,48,60
-389,Blockhouse Bay South,3648,3915,4236
-390,Mount Eden East,2832,2754,2892
-391,Wesley East,1968,2082,2163
-392,Orakei West,2718,2742,2787
-393,Maungawhau,2685,2850,3009
-394,Remuera West,2508,2544,2805
-395,Blockhouse Bay East,2211,2217,2550
-396,Lynfield North,2547,2712,3030
-397,Mount Roskill North,3537,3624,3813
-398,Mount Roskill White Swan,3918,4095,4596
-399,Mount Eden South,3687,3804,3951
-400,Remuera Waitaramoa,3888,3930,3969
-401,Orakei East,2634,2733,2838
-402,Epsom Central-North,3585,3783,3870
-403,Mount St John,3135,3735,3567
-404,Mount Roskill Central North,2943,3081,3324
-405,Remuera North,3426,3444,3582
-406,Three Kings West,2001,2049,2301
-407,Mount Roskill Central South,2268,2493,2412
-408,Epsom Central-South,3711,3903,3945
-409,Lynfield South,4023,4050,4473
-410,Remuera South,3879,3903,3915
-411,Mission Bay,4134,4191,4341
-412,Three Kings East,1272,1284,1344
-413,Mount Roskill South,2670,2838,3174
-414,Inlet Manukau Harbour,3,18,0
-415,Epsom East,2334,2445,2391
-416,Remuera Waiata,2706,2802,2802
-417,Epsom South,2127,2175,2235
-418,Kohimarama,4035,4143,4350
-419,Meadowbank West,2406,2556,2730
-420,Hillsborough North (Auckland),3270,3327,3768
-421,Hillsborough West (Auckland),3033,3330,3555
-422,Greenlane North,3993,4233,4392
-423,Waikowhai North,3198,3210,3402
-424,Remuera East,2805,2937,2739
-425,Waikowhai South,1635,1746,2037
-426,Royal Oak West (Auckland),2316,2349,2502
-427,Saint Heliers West,3291,3390,3525
-428,One Tree Hill,4125,4161,4506
-429,Hillsborough East (Auckland),1833,1992,2391
-430,Saint Heliers North,3645,3705,3924
-431,Remuera Abbotts Park,3456,3693,3774
-432,Meadowbank East,2289,2493,2598
-433,Ellerslie Central,2871,3087,3306
-434,Royal Oak East (Auckland),2415,2568,2832
-435,Saint Heliers South,3648,3903,4080
-436,Hillsborough South (Auckland),2439,2469,2775
-437,Saint Johns West,2832,2880,3078
-438,Greenlane South,3081,3309,3618
-439,Remuera Waiatarua,2073,2181,2307
-440,Glendowie North,4047,4302,4398
-441,Onehunga West,3351,3492,3855
-442,Ellerslie West,99,144,147
-443,Onehunga North,3276,3513,3798
-444,Ellerslie East,2853,3084,3153
-445,Saint Johns East,2610,2616,2838
-446,Oneroa West,1287,1425,1434
-447,Glen Innes West,3819,3603,4413
-448,Ellerslie South,2214,2415,2580
-449,Stonefields West,0,1473,1980
-450,Onehunga Central,2991,3204,3249
-451,Glendowie South,3924,4149,4434
-452,Oranga,2805,2952,3198
-453,Mount Wellington North West,2049,2904,3129
-454,Panmure Glen Innes Industrial,153,252,321
-455,Onehunga-Te Papapa Industrial,618,840,870
-456,Te Papapa,2877,3060,3237
-457,Stonefields East,0,570,1812
-458,Glen Innes East-Wai O Taiki Bay,3855,3537,3447
-459,Penrose,675,645,843
-460,Mount Wellington North East,1797,2022,2067
-461,Mangere Bridge Ambury,3255,3309,3510
-462,Mount Wellington Ferndale,3450,3672,4158
-463,Point England,4227,4305,4923
-464,Bucklands Beach North,2889,2943,3000
-465,Mount Wellington East,2343,2556,2676
-466,Mount Wellington West,2601,2862,2985
-467,Panmure West,216,204,225
-468,Mangere Bridge,2601,2589,3051
-469,Oneroa East-Palm Beach,1137,1179,1254
-470,Tamaki,3933,3954,4278
-471,Panmure East,2703,3054,3426
-472,Mount Wellington Central,3987,4299,4827
-473,Bays Waiheke Island,9,24,0
-474,Sylvia Park,96,129,132
-475,Mangere Mountain View,2946,3363,3735
-476,Surfdale,1698,1881,2067
-477,Mount Wellington Industrial,6,9,18
-478,Half Moon Bay West,2601,2793,2844
-479,Auckland Airport,810,567,630
-480,Eastern Beach,2181,2136,2190
-481,Sunnyhills West-Pakuranga North,3279,3348,3465
-482,Favona North,2292,2553,2736
-483,Bucklands Beach Central,1800,1857,1848
-484,Farm Cove,2472,2508,2583
-485,Mangere North,1971,2046,2349
-486,Favona West,2163,2670,3105
-487,Ostend,1617,1734,1905
-488,Half Moon Bay North East,1989,2082,2124
-489,Mangere West,3942,3978,4341
-490,Pakuranga West,3708,4128,4323
-491,Mount Wellington South West,2088,2160,2391
-492,Sunnyhills East,3105,3267,3420
-493,Half Moon Bay South East,2835,2931,3138
-494,Favona East,3033,3291,3843
-495,Mount Wellington South East,2745,2679,2853
-496,Otahuhu Industrial,15,27,78
-497,Bucklands Beach South,3909,4017,4194
-498,Pakuranga Central,2868,3117,3366
-499,Awhitu,2538,2511,2919
-500,Harania North,3768,3606,3762
-501,Otahuhu Central,1023,1131,1356
-502,Mangere Central,3441,3348,3612
-503,Otahuhu North,3288,3546,3870
-504,Howick West,3753,3798,4050
-505,Pakuranga Heights North West,2580,2679,2721
-506,Mellons Bay,3594,3681,4017
-507,Pakuranga Heights East,2820,2961,3126
-508,Sutton Park,3546,3471,3831
-509,Otahuhu East,1896,2088,2307
-510,Mangere South,3090,3309,3594
-511,Onetangi,1155,1134,1302
-512,Harania South,3033,3066,3375
-513,Highland Park (Auckland),4191,4278,4512
-514,Otahuhu South West,3435,3336,3888
-515,Pakuranga Heights South West,3177,3159,3393
-516,Mangere Mascot,3420,3372,3681
-517,Waiheke East,822,903,1071
-518,Massey Road West,3309,3528,3753
-519,Otahuhu South,3246,3438,3666
-520,Howick Central,2949,3291,3405
-521,Massey Road North,2583,2697,3165
-522,Botany Downs West,2721,2682,2862
-523,East Tamaki,204,213,309
-524,Howick East,3096,3423,3612
-525,Burswood,1734,1623,1695
-526,Massey Road South,1674,1800,1782
-527,Middlemore,273,105,33
-528,Mangere South East,2886,3243,3786
-529,Botany Downs East,2079,2178,2292
-530,Grange,1773,1854,2187
-531,Golflands,2388,2373,2460
-532,Aorere North,1572,1653,1713
-533,Mangere East,2934,3294,3930
-534,Cockle Bay,4116,4080,4224
-535,Otara West,3237,3015,3369
-536,Aorere Central,1902,1959,2061
-537,Northpark North,2889,2880,2931
-538,Somerville,4536,4329,4473
-539,Northpark South,2178,2100,2163
-540,Papatoetoe North,3693,4092,4779
-541,Dingwall,2730,3060,3408
-542,Aorere South,3954,4404,4944
-543,Shelly Park,2760,2811,2850
-544,Otara Central,2631,2559,2730
-545,Huntington Park,1848,1974,1902
-546,Botany Central,0,3,3
-547,Botany North,2049,2100,2532
-548,Papatoetoe West,3855,4263,4755
-549,Papatoetoe Central,3861,4335,5085
-550,Sunkist Bay,2769,2979,3207
-551,Otara East,3726,3531,3930
-552,Redcastle,2508,2499,2463
-553,Botany East,1860,1842,1914
-554,Botany South,2835,2742,2865
-555,Manukau Central,726,801,771
-556,Papatoetoe East,3597,3840,4362
-557,Otara South,3591,3300,3720
-558,Ferguson,4383,4050,4389
-559,Papatoetoe South West,2790,3294,3729
-560,Botany Junction,105,162,180
-561,Dannemora North,2217,2262,2436
-562,Papatoetoe South,3225,3567,3972
-563,East Tamaki Heights,2193,2559,2751
-564,Te Puru,648,1587,3054
-565,Puhinui North,2823,3273,3852
-566,Dannemora South,2427,2646,2706
-567,Puhinui South,1887,2256,2526
-568,Rongomai West,2331,2181,2451
-569,Baverstock,2013,3705,3990
-570,Puhinui East,2013,2331,2679
-571,Turanga,2511,2802,3015
-572,Rongomai East,2124,2106,2283
-573,Ormiston North,456,1596,2163
-574,Maraetai,1863,2199,2346
-575,Chapel Downs,2907,3114,3330
-576,Wiri West,225,363,1176
-577,Clover Park North,4362,4173,4683
-578,Mission Heights North,102,3060,3369
-579,Clover Park South,3702,3768,4239
-580,Donegal Park,1548,2367,2637
-581,Ormiston South,54,1059,5514
-582,Mission Heights South,48,1899,2805
-583,Hilltop (Auckland),1806,2346,3381
-584,Wiri East,3642,3558,4179
-585,Goodwood Heights,3834,4071,4401
-586,Ormiston East,159,258,876
-587,Clendon Park North,3003,2841,3339
-588,Burbank,3189,3360,3960
-589,Tuscany Heights,840,1146,1443
-590,Totara Heights,2394,2340,2712
-591,Homai East,2553,2772,3366
-592,Homai West,3696,3747,4605
-593,The Gardens (Auckland),3072,3471,3909
-594,Clarks Beach,1368,1359,1428
-595,Clendon Park West,3000,2889,3261
-596,Hillpark North,2049,2190,2457
-597,Clendon Park East,1962,2064,2271
-598,Karaka Creek,1266,1326,1539
-599,Rowandale West,3015,3129,3471
-600,Rowandale East,3243,3354,3813
-601,Manurewa Central,2724,3189,3678
-602,Weymouth North,3246,3351,4911
-603,Hillpark South,2517,2826,3219
-604,Alfriston,2520,3480,3807
-605,Weymouth East,3147,3294,3747
-606,Leabank,3474,3714,4350
-607,Weymouth South,2880,3045,3555
-608,Manurewa East,2310,2505,2907
-609,Manurewa South,3135,3456,3924
-610,Randwick Park East,2145,2250,2532
-611,Wattle Downs West,2616,3258,3801
-612,Wattle Downs North,2175,2169,2448
-613,Randwick Park West,3408,3525,3618
-614,Kingseat-Karaka,2496,2550,2904
-615,Wattle Downs East,2022,2031,2247
-616,Takanini North,1872,1992,2475
-617,Takanini Industrial,42,66,36
-618,Conifer Grove West,2553,2520,2478
-619,Conifer Grove East,2019,2097,2232
-620,Takanini West,1926,2460,2826
-621,Takanini South,597,1485,4347
-622,Takanini Central,1155,1071,1161
-623,Ardmore,1191,1296,1386
-624,Glenbrook,1974,2034,2193
-625,Hingaia,483,1050,2202
-626,Takanini South East,867,1005,1458
-627,Kawakawa Bay-Orere,1746,1740,1992
-628,Papakura West,1518,1662,1788
-629,Clevedon,1344,1452,1515
-630,Papakura North,3339,3810,4185
-631,Pahurehure,3033,3051,3264
-632,Papakura Central,2490,2655,3207
-633,Papakura North East,1911,1995,2535
-634,Karaka Lakes,159,612,2166
-635,Papakura Kelvin,3909,3888,4515
-636,Papakura Massey Park,2436,2562,2862
-637,Rosehill,3303,3279,4071
-638,Patumahoe,1578,1719,2334
-639,Papakura East,1863,2457,3204
-640,Opaheke,2553,2592,2868
-641,Papakura Industrial,201,195,204
-642,Red Hill,2580,2487,2796
-643,Drury,1248,1104,1197
-644,Tamakae,2118,2325,2469
-645,Hamilton Estate,2283,2280,2496
-646,Drury Rural,2484,2652,2763
-647,Waiuku Central,789,1041,1314
-648,Waiuku East,1452,1641,1830
-649,Kendallvale,816,1035,1059
-650,Puni,1461,1530,1593
-651,Ramarama,1917,1929,1977
-652,Hunua,1107,1155,1353
-653,Pukekohe North West,3687,4203,4674
-654,Anselmi Ridge,426,1266,2448
-655,Pukekohe West,4089,4386,4980
-656,Cape Hill,831,1182,1551
-657,Rosa Birch Park,1557,1965,2082
-658,Rooseville Park,2367,2427,2562
-659,Cloverlea (Auckland),1866,2244,2412
-660,Pukekohe Central,285,306,369
-661,Pukekohe Hospital,1191,1506,1653
-662,Buckland,969,1041,1173
-663,Bombay Hills,1659,1620,1974
-664,Ararimu,1689,1836,2124
-665,Colville,1371,1290,1485
-666,Islands Thames-Coromandel District,18,15,12
-667,Coromandel,1494,1518,1743
-668,Inlets Thames-Coromandel District,0,9,3
-669,Mercury Bay North,1260,1317,1611
-670,Whitianga North,1014,1062,1491
-671,Whitianga South,2790,3345,4002
-672,Thames Coast,1710,1533,1704
-673,Cooks Beach-Ferry Landing,315,348,459
-674,Mercury Bay South,1170,1092,1224
-675,Kauaeranga,531,564,588
-676,Thames North,2022,1983,1995
-677,Thames Central,861,924,1044
-678,Thames South,3363,3267,3387
-679,Hikuai,231,219,237
-680,Totora-Kopu,684,777,867
-681,Tairua,1266,1227,1479
-682,Pauanui,801,825,1005
-683,Matatoki-Puriri,1062,1002,1059
-684,Whangamata Rural,402,357,432
-685,Whangamata,3561,3516,4074
-686,Miranda-Pukorokoro,663,786,849
-687,Hauraki Plains North,1089,1098,1155
-688,Hauraki Plains East,1338,1317,1365
-689,Ngatea,1182,1269,1452
-690,Hauraki Plains South,1536,1395,1533
-691,Paeroa Rural,1755,1674,1845
-692,Paeroa,3891,3798,4269
-693,Waihi Rural,1782,1812,2148
-694,Waihi North,1431,1527,1740
-695,Waihi East,1233,1218,1386
-696,Waihi South,1956,1917,2277
-697,Aka Aka,2556,2637,3102
-698,Mangatangi,858,930,1083
-699,Tuakau Rural,1335,1461,1581
-700,Tuakau North,2013,2580,3147
-701,Onewhero,1485,1542,1605
-702,Pokeno Rural,1263,1377,1668
-703,Tuakau South,1596,1692,1866
-704,Port Waikato-Waikaretu,729,732,783
-705,Pokeno,570,600,2517
-706,Pukekawa,1233,1230,1476
-707,Maramarua,1413,1479,1767
-708,Rangiriri,1029,1836,1833
-709,Te Akau,1755,1764,1968
-710,Inlets Waikato District,3,3,0
-711,Te Kauwhata,906,1134,1617
-712,Huntly Rural,2145,2100,2271
-713,Waerenga,879,855,915
-714,Huntly West,2904,2796,3153
-715,Huntly East,3852,4053,4752
-716,Raglan,2628,2706,3279
-717,Whitikahu,1794,1884,1968
-718,Te Uku,2028,2283,2748
-719,Taupiri-Lake Kainui,1752,1935,2220
-720,Ngaruawahia North,1398,1350,1782
-721,Ngaruawahia Central,2571,2424,2886
-722,Ngaruawahia South,1365,1590,1953
-723,Kainui-Gordonton,1497,1629,1734
-724,Te Kowhai,1509,1746,2061
-725,Whatawhata West,366,414,504
-726,Horotiu,513,498,624
-727,Horsham Downs,537,687,714
-728,Whatawhata East,1869,2214,2763
-729,Rotokauri,741,912,1017
-730,Hamilton Park,1062,1329,1593
-731,Eureka-Tauwhare,1539,1917,2142
-732,Tamahere North,2499,3177,4152
-733,Pukemoremore,1866,2097,2394
-734,Tamahere South,1530,1785,1974
-735,Tahuna-Mangateparu,1419,1491,1569
-736,Mangaiti,1380,1284,1338
-737,Tatuanui,1479,1338,1377
-738,Tahuroa,1581,1695,1794
-739,Morrinsville East,3921,4290,4812
-740,Morrinsville West,2682,2703,2949
-741,Te Aroha East,2259,2202,2529
-742,Te Aroha West,1551,1803,2025
-743,Waihou-Manawaru,1170,1131,1209
-744,Waitoa-Ngarua,1296,1152,1170
-745,Richmond Downs-Wardville,1311,1221,1278
-746,Waharoa-Peria,1314,1263,1521
-747,Okauia,891,972,1041
-748,Hinuera,1110,1104,1152
-749,Matamata North,2628,2925,3174
-750,Matamata South,3669,4161,4632
-751,Te Poi,819,801,840
-752,Te Rapa North,234,186,180
-753,Flagstaff North,231,786,3192
-754,Rotokauri-Waiwhakareke,375,333,546
-755,Flagstaff South,138,1581,2829
-756,Rototuna North,126,747,912
-757,Pukete West,2100,2016,2244
-758,Flagstaff East,3576,3531,3810
-759,Rototuna Central,2463,4122,4779
-760,Pukete East,2397,2280,2361
-761,Te Manatu,657,2787,3672
-762,Rototuna South,3891,4185,4428
-763,Te Rapa South,93,120,114
-764,Saint Andrews West,2796,2739,2880
-765,Saint Andrews East,2355,2256,2481
-766,Queenwood (Hamilton City),2238,2265,2382
-767,St James,1029,1710,1938
-768,Crawshaw,2892,2889,3249
-769,Huntington,1557,2445,2574
-770,Western Heights (Hamilton City),2241,2541,2913
-771,Nawton West,3555,3546,3663
-772,Nawton East,3711,3933,4212
-773,Chartwell,2397,2361,2502
-774,Forest Lake (Hamilton City),2130,2289,2487
-775,Chedworth,1722,1716,1821
-776,Beerescourt,2034,2136,2220
-777,Miropiko,2991,3177,3186
-778,Porritt,2274,2349,2634
-779,Dinsdale North,4056,4125,4383
-780,Maeroa,3303,3336,3726
-781,Dinsdale South,3492,3639,3966
-782,Fairfield (Hamilton City),3948,3993,4383
-783,Whitiora,1797,2043,2538
-784,Enderley North,2238,2241,2523
-785,Fairview Downs,2976,2982,3201
-786,Temple View,1344,1179,1185
-787,Swarbrick,1395,1878,2400
-788,Kahikatea,2889,2841,3465
-789,Frankton Junction,504,450,639
-790,Kirikiriroa,129,150,267
-791,Enderley South,2238,2451,2736
-792,Ruakura,831,900,1158
-793,Claudelands,2772,2853,3057
-794,Hamilton Central,672,669,798
-795,Hamilton Lake,3054,3210,3483
-796,Peachgrove,3222,3468,3675
-797,Hamilton East Village,2802,3015,3204
-798,Hamilton West,1422,1488,1671
-799,Greensboro,2397,2913,3795
-800,Hamilton East Cook,1965,2025,2046
-801,Melville North,2106,2400,2772
-802,Hamilton East,3549,3654,3951
-803,Melville South,2205,2190,2451
-804,Deanwell,2004,1998,2139
-805,Bader,2235,2208,2556
-806,Hillcrest West (Hamilton City),2340,2487,2667
-807,Hillcrest East (Hamilton City),2793,2895,3093
-808,Silverdale (Hamilton City),1929,1944,2088
-809,Glenview,2103,2145,2283
-810,Resthill,1968,2031,2439
-811,Fitzroy,1881,1872,2829
-812,Riverlea,2532,2583,2775
-813,Peacockes,291,327,348
-814,Te Pahu,1194,1269,1428
-815,Ngahinapouri,1326,1461,1668
-816,Lake Ngaroto,1047,1080,1170
-817,Kaipaki,1212,1335,1581
-818,Pirongia,1047,1122,1224
-819,Hautapu Rural,585,645,699
-820,Pokuru,1167,1263,1425
-821,Te Rahu,906,978,1167
-822,Fencourt,558,669,717
-823,Hautapu,405,561,474
-824,Karapiro,1794,1950,2334
-825,Cambridge North,237,1464,1737
-826,Cambridge West,2217,2364,2481
-827,Cambridge East,2625,2703,2808
-828,Cambridge Park-River Garden,156,408,1251
-829,Oaklands-St Kilda,642,660,1440
-830,Pukerimu,732,870,900
-831,Cambridge Central,858,804,855
-832,Te Awamutu North,927,1017,1101
-833,Te Awamutu West,1182,1275,1320
-834,Leamington West,1185,1386,1467
-835,Goodfellow Park,1578,1602,1788
-836,Leamington South,1506,1692,1752
-837,Leamington Central,2214,2199,2406
-838,Leamington East,1854,1860,1983
-839,Te Awamutu Stadium,1425,1536,1749
-840,Te Awamutu Central,372,360,402
-841,Pekerau,1770,1947,2442
-842,Fraser Street,1320,1326,1416
-843,Sherwin Park,1572,1557,1980
-844,St Leger,363,450,489
-845,Rotoorangi,1401,1548,1686
-846,Tokanui,426,441,435
-847,Kihikihi Central,1998,2022,2319
-848,Maungatautari,717,750,822
-849,Rotongata,822,819,834
-850,Inlets Otorohanga District,0,0,0
-851,Pirongia Forest,897,828,966
-852,Honikiwi,1176,1356,1581
-853,Te Kawa,1068,1074,1209
-854,Otorohanga,2655,2625,3027
-855,Maihiihi,1779,1848,1833
-856,Puniu,1500,1407,1488
-857,Tirau,2196,2106,2334
-858,Putararu Rural,2238,2223,2373
-859,Putararu,3930,3945,4314
-860,Kinleith,1113,1464,1446
-861,Paraonui,1791,1734,1824
-862,Parkdale,795,750,849
-863,Matarawa,2025,1899,2163
-864,Stanley Park,2055,2034,2241
-865,Strathmore (South Waikato District),2448,2214,2412
-866,Tokoroa Central,969,873,1032
-867,Moananui,3087,2832,3057
-868,Inlet Waitomo District,0,0,0
-869,Herangi,1179,1056,990
-870,Hangatiki,1059,1101,1185
-871,Aria,1359,1194,1290
-872,Te Kuiti West,2526,2358,2598
-873,Te Kuiti East,1968,1899,1974
-874,Waipa Valley,1269,1251,1221
-875,Tiroa,84,51,42
-876,Marotiri,2310,2214,2391
-877,Ohakuri,1434,1671,1842
-878,Lake Taupo Bays,1620,1578,1566
-879,Mapara,1038,1377,1941
-880,Inland water Lake Taupo,0,0,0
-881,Wairakei-Broadlands,1092,1152,1236
-882,Acacia Bay,1233,1425,1653
-883,Brentwood (Taupo District),1398,1629,1893
-884,Nukuhau-Rangatira Park,2058,2079,2442
-885,Taupo Central West,354,402,405
-886,Tauhara,1578,1539,1803
-887,Taupo Central East,2241,2229,2439
-888,Mountview,2784,2619,2601
-889,Bird Area,2103,1980,2235
-890,Hilltop (Taupo District),2553,2520,2721
-891,Waipahihi,1764,1881,2172
-892,Richmond Heights,2151,2106,2328
-893,Wharewaka,477,714,939
-894,Kaimanawa,57,6,180
-895,Waitahanui,690,642,795
-896,Turangi,3240,2952,3444
-897,Rangataiki,162,135,132
-898,Taharua,81,57,57
-899,Te More,0,0,0
-900,Waiau,276,327,333
-901,Waihi Beach-Bowentown,2058,2148,2484
-902,Tahawai,1743,1707,1833
-903,Athenree,612,675,804
-904,Aongatete,2565,2793,3279
-905,Katikati,3624,4095,5010
-906,Inlet Tauranga Harbour North,3,0,3
-907,Matakana Island,225,255,183
-908,Pahoia,2640,2670,3198
-909,Omokoroa,1968,2334,3210
-910,Omokoroa Rural,696,639,744
-911,Te Puna,2004,2013,2262
-912,Minden,1608,1731,2133
-913,Kaimai,1701,1752,2028
-914,Kopurererua,987,1035,1167
-915,Kaitemako (Western Bay of Plenty District),1341,1473,1752
-916,Waiorohi,1953,2190,2520
-917,Otawa,1650,1716,1932
-918,Te Puke West,2796,2892,3486
-919,Rangiuru,2376,2415,2676
-920,Te Puke East,4164,4500,5202
-921,Inlets Maketu,0,0,0
-922,Maketu,1176,1047,1197
-923,Pukehina Beach,960,615,804
-924,Pongakawa,2700,2673,3081
-925,Matua North,2805,2775,2859
-926,Inlet Tauranga Harbour South,9,6,0
-927,Mount Maunganui North,2568,2853,3267
-928,Matua South,2271,2373,2535
-929,Bethlehem North,1218,2388,3429
-930,Bellevue,3399,3537,3807
-931,Otumoetai North,3729,3750,4248
-932,Otumoetai South,3357,3405,3786
-933,Brookfield West,2373,2583,2931
-934,Bethlehem Central,3339,3654,4119
-935,Brookfield East,2577,2565,2823
-936,Mount Maunganui South,2619,2709,2916
-937,Tauranga Central,2289,2322,2625
-938,Mount Maunganui Central,147,252,327
-939,Judea,2247,2343,2604
-940,Te Reti,1605,1665,1863
-941,Bethlehem South,999,1008,1086
-942,Omanu Beach,2574,2619,2919
-943,Tauranga Hospital,1953,1911,2058
-944,Tauriko,195,216,177
-945,Gate Pa,3543,3627,4023
-946,Greerton South,657,591,690
-947,Tauranga South,4302,4347,4830
-948,Arataki North,2823,2877,3075
-949,Matapihi,681,675,729
-950,Pyes Pa West,144,720,3483
-951,Greerton North,3039,3144,3438
-952,Yatton Park,2265,2238,2634
-953,Pyes Pa North,2046,3669,4632
-954,Arataki South,2745,2739,2874
-955,Pyes Pa South,609,1293,1443
-956,Poike,804,738,789
-957,Te Maunga North,2988,3018,3246
-958,Maungatapu,2625,2676,2892
-959,Hairini,2952,2949,3330
-960,Pyes Pa East,450,534,657
-961,Te Maunga South,2628,2859,4146
-962,Kaitemako (Tauranga City),1371,1419,1497
-963,Ohauiti,2100,2682,3282
-964,Baypark-Kairua,501,468,591
-965,Welcome Bay West,2700,2679,2781
-966,Welcome Bay East,2256,2304,2556
-967,Pacific View,2427,2754,3015
-968,Welcome Bay South,1200,2265,3450
-969,Palm Beach North,2811,3054,3201
-970,Palm Beach South-Gravatt,3141,3384,3750
-971,Papamoa Beach North,2490,2604,2790
-972,Doncaster,1386,2289,3159
-973,Papamoa Beach South,1878,2334,2700
-974,Motiti,2001,2799,3312
-975,Wairakei,42,126,3345
-976,Tui Ridge,1455,1521,1617
-977,Arahiwi,150,177,156
-978,Ngongotaha Valley,1464,1410,1590
-979,Hamurana,963,1005,1032
-980,Ngongotaha East,1599,1632,1926
-981,Ngongotaha West,1260,1326,1527
-982,Inland water Lake Rotorua,0,0,0
-983,Ngongotaha South,1203,1296,1419
-984,Selwyn Heights,1128,1047,1134
-985,Pleasant Heights,1953,1824,2064
-986,Rotoiti-Rotoehu,1935,1659,1965
-987,Kawaha,1641,1773,1902
-988,Fairy Springs,1626,1572,1782
-989,Western Heights (Rotorua District),2139,1998,2340
-990,Pukehangi North,2595,2511,2706
-991,Pukehangi South,2346,2376,2571
-992,Mangakakahi Central,120,84,105
-993,Koutu,1848,1830,2094
-994,Mangakakahi West,1989,1971,2139
-995,Sunnybrook,1941,1884,2067
-996,Fordlands,2307,2118,2460
-997,Kuirau,927,921,1065
-998,Utuhina,1404,1377,1491
-999,Pomare,1494,1572,1713
-1000,Rotorua Central,471,528,537
-1001,Hillcrest (Rotorua District),1716,1623,1917
-1002,Victoria,1638,1752,2094
-1003,Waiohewa,891,963,1020
-1004,Glenholme North,2313,2394,2643
-1005,Springfield South,1938,1851,1995
-1006,Springfield North,1764,1698,1785
-1007,Glenholme South,1947,1881,2022
-1008,Owhata West,2724,2763,3147
-1009,Holdens Bay-Rotokawa,1257,1164,1248
-1010,Ngapuna,327,285,357
-1011,Fenton Park,1395,1452,1698
-1012,Tihiotonga-Whakarewarewa,813,675,771
-1013,Owhata East,2715,2733,3069
-1014,Lynmore,3129,3255,3288
-1015,Ngakuru,1701,1695,1770
-1016,Kaingaroa-Whakarewarewa,1902,1881,1887
-1017,Golden Springs,1764,1797,1767
-1018,Manawahe,822,888,996
-1019,Matata-Otakiri,1608,1671,1737
-1020,Onepu Spring,1125,1086,1221
-1021,Edgecumbe,1626,1638,1644
-1022,Thornton-Awakeri,2016,2115,2289
-1023,Te Teko Lakes,1707,1449,1758
-1024,Coastlands,1479,1500,1776
-1025,Whakatane West,3087,3066,3336
-1026,Whakatane Central,3195,3054,3372
-1027,Trident,3159,3105,3402
-1028,Allandale,2451,2334,2514
-1029,Mokorua Bush,1326,1326,1395
-1030,Wainui,1347,1365,1497
-1031,Ohope,2853,2847,3177
-1032,Inlet Ohiwa Harbour West,0,0,0
-1033,Galatea,1431,1320,1407
-1034,Waingarara-Waimana,2196,2256,2361
-1035,Murupara,1872,1671,1815
-1036,Monika Reserve,3000,2838,3144
-1037,Kawerau Industrial,60,45,30
-1038,Tarawera Park,3858,3480,3972
-1039,Inlet Ohiwa Harbour East,0,0,0
-1040,Waiotahi,1368,1368,1518
-1041,Cape Runaway,1680,1533,1449
-1042,Woodlands,891,921,1047
-1043,Opotiki,3552,3150,3759
-1044,Otara-Tirohanga,1188,1167,1176
-1045,Oponae,300,294,330
-1046,East Cape,1563,1419,1389
-1047,Waipaoa,2127,1935,1953
-1048,Ruatoria-Raukumara,1287,1203,1233
-1049,Tokomaru,1056,933,954
-1050,Hangaroa,1539,1458,1539
-1051,Wharekaka,1914,1728,1851
-1052,Te Arai,1179,1056,1128
-1053,Hexton,2496,2688,2946
-1054,Lytton,522,999,1371
-1055,Makaraka-Awapuni,864,828,969
-1056,Riverdale,1116,1179,1275
-1057,Te Hapara North,1857,1950,2013
-1058,Mangapapa North,1263,1278,1425
-1059,Elgin,2301,2295,2583
-1060,Te Hapara South,1983,1971,2178
-1061,Mangapapa East,1125,1182,1179
-1062,Mangapapa South,1872,1734,1926
-1063,Te Hapara East,1821,1848,1992
-1064,Centennial Crescent,1443,1380,1566
-1065,Whataupoko East,1749,1743,1812
-1066,Whataupoko West,1959,1917,2052
-1067,Gisborne Central,267,306,300
-1068,Kaiti North,2046,1971,2178
-1069,Kaiti South,2871,2673,3060
-1070,Outer Kaiti,2607,2247,2565
-1071,Tamarau,2265,2244,2367
-1072,Wainui-Okitu,1356,1485,1716
-1073,Maungataniwha-Raupunga,1242,1167,1188
-1074,Inland water Lake Waikaremoana,0,0,0
-1075,Frasertown-Ruakituri,927,861,861
-1076,Whakaki,726,672,675
-1077,Wairoa,4314,4089,4527
-1078,Mahia,1272,1104,1119
-1079,Puketitiri-Tutira,1743,1752,1839
-1080,Sherenden-Crownthorpe,1020,1206,1317
-1081,Maraekakaho,1185,1311,1392
-1082,Puketapu-Eskdale,2052,2184,2673
-1083,Omahu-Pakowhai,1161,1092,1434
-1084,Bridge Pa,1023,1083,1140
-1085,Twyford,774,765,807
-1086,Poukawa,1293,1272,1365
-1087,Flaxmere West,2130,2205,2631
-1088,Omahu Strip,144,156,177
-1089,Lochain Park,2775,2592,2940
-1090,Flaxmere Park,2388,2289,2604
-1091,Flaxmere South,2502,2277,2790
-1092,Irongate,306,321,345
-1093,Frimley,1713,2478,2859
-1094,Camberley,2055,1917,2196
-1095,Clive,1875,2082,2247
-1096,St Leonards,2223,2259,2646
-1097,Mahora,1986,2172,2556
-1098,Raureka,2841,2712,3033
-1099,Cornwall Park,2733,2793,3048
-1100,Tomoana,270,237,306
-1101,Longlands-Pukahu,1785,1728,1908
-1102,Raceway Park,1758,1815,1920
-1103,Karamu,1179,1218,1311
-1104,Hastings Central,459,366,444
-1105,Tomoana Crossing,2307,2262,2502
-1106,Akina Park,2094,2199,2313
-1107,Queens Square,1779,1833,1968
-1108,Mayfair,2631,2688,2979
-1109,Parkhaven,2532,2622,2880
-1110,Parkvale,1890,2049,2160
-1111,Mangateretere,981,1053,1149
-1112,Haumoana-Te Awanga,1926,1923,1926
-1113,Lucknow,1362,1347,1461
-1114,Karanema-St Hill,1638,1848,1950
-1115,Havelock North-Central,384,420,441
-1116,Brookvale,1662,1980,2433
-1117,Iona,2460,2499,2667
-1118,Hereworth,2685,2802,2865
-1119,Te Mata Hills,624,870,984
-1120,Havelock Hills,1407,1401,1530
-1121,Kahuranaki,1104,1173,1413
-1122,Bay View,1773,1920,2238
-1123,Poraiti Hills,651,666,732
-1124,Poraiti Flat,6,792,1278
-1125,Westshore,1074,1059,1143
-1126,Inlet Napier City,0,0,0
-1127,Onekawa West,111,246,270
-1128,Ahuriri,858,1089,1161
-1129,Taradale West,1431,1686,1857
-1130,Greenmeadows West,1605,1935,2025
-1131,Taradale South,2421,2514,2685
-1132,Bluff Hill,2625,2610,2610
-1133,Hospital Hill,2775,2643,2892
-1134,Tamatea West,1836,1833,2001
-1135,Tamatea North,1602,1572,1683
-1136,Taradale Central,2472,2532,2607
-1137,Tamatea East,1683,1635,1731
-1138,Marewa West,1581,1671,1734
-1139,Greenmeadows Central,1437,1455,1473
-1140,Onekawa Central,1245,1320,1503
-1141,Pirimai West,1536,1476,1611
-1142,Napier Central,405,414,420
-1143,Greenmeadows South,2103,2001,2064
-1144,Nelson Park,2043,2139,2181
-1145,Bledisloe Park,2052,2181,2319
-1146,Pirimai East,2145,2121,2241
-1147,Onekawa East,1539,1458,1632
-1148,Tareha Reserve,2949,2919,2988
-1149,Marewa East,3033,3000,3387
-1150,Onekawa South,2859,2922,3183
-1151,McLean Park,2478,2406,2550
-1152,Maraenui,3537,3093,3504
-1153,Meeanee-Awatoto,1494,1932,2541
-1154,Mangaonuku,864,834,948
-1155,Makaretu,2244,2295,2430
-1156,Waipawa,1926,1971,2085
-1157,Waipukurau West,2529,2274,2517
-1158,Mangarara,2001,2076,2400
-1159,Waipukurau East,1632,1614,1869
-1160,Taurekaitai,1758,1662,1893
-1161,Port Taranaki,18,6,9
-1162,Spotswood,3468,3450,3633
-1163,Omata,771,837,939
-1164,Oakura,1377,1437,1539
-1165,Moturoa,1821,1719,1809
-1166,Kaitake,1554,1632,1932
-1167,Blagdon-Lynmouth,2415,2397,2523
-1168,Kawaroa,2250,2292,2328
-1169,New Plymouth Central,1152,1152,1110
-1170,Marfell,1605,1530,1665
-1171,Whalers Gate,1320,1869,2274
-1172,Strandon,2487,2514,2535
-1173,Westown,4227,4266,4404
-1174,Bell Block West,3054,3678,4242
-1175,Bell Block East,1524,2181,2799
-1176,Waiwhakaiho-Bell Block South,123,117,105
-1177,Lower Vogeltown,2730,2871,2865
-1178,Hurdon,1851,2088,2220
-1179,Frankleigh Park,2880,2832,2979
-1180,Merrilands,2787,2811,2925
-1181,Ferndale,669,690,738
-1182,Welbourn,2796,2997,3261
-1183,Fitzroy-Glen Avon,2880,3270,3504
-1184,Waitara West,3612,3672,4011
-1185,Upper Vogeltown,2091,2133,2745
-1186,Highlands Park (New Plymouth District),2490,3009,3318
-1187,Paraite,561,699,765
-1188,Waitara East,2679,2811,2907
-1189,Lepperton-Brixton,1296,1524,1725
-1190,Mangorei,1269,1683,1998
-1191,Mount Messenger,756,822,864
-1192,Mangaoraka,1251,1548,1818
-1193,Tikorangi,1590,1776,1902
-1194,Everett Park,1848,2052,2175
-1195,Inglewood,3087,3243,3543
-1196,Tarata,606,582,570
-1197,Pembroke,1425,1461,1542
-1198,Douglas,693,645,672
-1199,Toko,1263,1272,1350
-1200,Stratford North,1836,1857,1941
-1201,Whangamomona,168,150,126
-1202,Stratford Central,1833,1917,2061
-1203,Stratford South,1668,1695,1782
-1204,Cape Egmont,2100,2106,2067
-1205,Taungatara,1431,1380,1326
-1206,Opunake,1365,1335,1401
-1207,Kaponga-Mangatoki,1371,1281,1305
-1208,Manaia-Kapuni,1620,1647,1551
-1209,Eltham,1899,1854,1935
-1210,Okaiawa,1167,1134,1182
-1211,Te Roti-Moeroa,798,813,789
-1212,Egmont Showgrounds,1401,1542,1734
-1213,Normanby-Tawhiti,1380,1494,1755
-1214,Ohangai,588,570,537
-1215,Turuturu,1755,1779,1893
-1216,King Edward Park,1410,1407,1521
-1217,Ramanui,1872,1911,2052
-1218,Hawera Central,2379,2487,2592
-1219,Mangawhio,729,747,723
-1220,Manutahi-Waitotora,2082,1992,1980
-1221,Patea,1143,1098,1191
-1222,Otangiwai-Ohura,1233,1086,1020
-1223,Ngapuke,1356,1296,1263
-1224,Taumarunui North,1776,1566,1677
-1225,Taumarunui Central,1611,1458,1485
-1226,Taumarunui East,1608,1425,1545
-1227,National Park,1131,1065,1050
-1228,Tangiwai,1368,1227,1281
-1229,Raetihi,1035,1002,1038
-1230,Ohakune,1095,984,1182
-1231,Waiouru,1362,741,765
-1232,Upper Whanganui,1215,1152,1155
-1233,Mowhanau,1158,1302,1293
-1234,Brunswick-Papaiti,1140,1284,1371
-1235,Castlecliff West,1491,1314,1593
-1236,Otamatea (Whanganui District),1317,1563,1731
-1237,Castlecliff East,1806,1746,1917
-1238,Springvale North,228,291,348
-1239,Lower Aramoho,1824,1707,1869
-1240,St Johns Hill East,951,1059,1173
-1241,St Johns Hill West,2145,2085,2202
-1242,Titoki,2721,2568,2943
-1243,Springvale West,1422,1440,1572
-1244,Springvale East,1362,1383,1452
-1245,Upper Aramoho,2142,1986,2097
-1246,Balgownie,123,126,120
-1247,Laird Park,2145,2097,2247
-1248,Wembley Park,1767,1590,1695
-1249,College Estate,1116,1143,1284
-1250,Whanganui East-Williams Domain,2151,2160,2277
-1251,Gonville West,1677,1551,1707
-1252,Gonville North,2418,2379,2565
-1253,Cornmarket,1365,1200,1350
-1254,Whanganui East-Riverlands,2145,2070,2184
-1255,Kaitoke-Fordell,1398,1773,1770
-1256,Whanganui Central,621,489,606
-1257,Gonville South,2058,2004,2004
-1258,Bastia-Durie Hill,2139,2112,2130
-1259,Putiki,594,579,666
-1260,Mokai Patea,1911,1761,1716
-1261,Ngamatea,39,27,24
-1262,Turakina,1260,1236,1254
-1263,Otairi,1287,1227,1272
-1264,Taihape,1839,1575,1716
-1265,Marton Rural,924,963,987
-1266,Marton North,2793,2721,3030
-1267,Parewanui,786,849,855
-1268,Marton South,2139,2073,2238
-1269,Bulls,1731,1590,1935
-1270,Kiwitea,1410,1443,1515
-1271,Tokorangi,1698,1863,2061
-1272,Ohakea-Sanson,1122,1230,1290
-1273,Oroua Downs,1167,1044,1254
-1274,Awahuri,1767,1845,2046
-1275,Pohangina-Apiti,1065,1095,1227
-1276,Mount Taylor,105,264,564
-1277,Taikorea,1161,1194,1284
-1278,Makino,2493,2691,3045
-1279,Sandon,1938,2025,2169
-1280,Kimbolton North,2367,2688,3024
-1281,Warwick,1371,1467,1491
-1282,Kimbolton West,2364,2325,2559
-1283,Feilding Central,897,915,939
-1284,Kimbolton South,2037,2013,2121
-1285,Kauwhata,1872,1917,1971
-1286,Taonui,1230,1437,1599
-1287,Newbury,1806,1896,1905
-1288,Palmerston North Airport,306,294,324
-1289,Milson North,2208,2463,2478
-1290,Cloverlea (Palmerston North City),1989,1866,1893
-1291,Tremaine,426,399,471
-1292,Milson South,2778,2826,2973
-1293,Whakarongo,1170,1407,1644
-1294,Westbrook,2799,2772,2997
-1295,Takaro North,3315,3126,3294
-1296,Pioneer West,240,231,264
-1297,Palmerston North Hospital,2436,2406,2562
-1298,Highbury East,2652,2553,2958
-1299,Park West,1953,1821,1908
-1300,Takaro South,2316,2445,2454
-1301,Roslyn (Palmerston North City),2169,2229,2364
-1302,Kelvin Grove West,2547,2649,2631
-1303,Kelvin Grove North,1347,2103,2238
-1304,Papaioea North,2457,2289,2511
-1305,Palmerston North Central,1314,1218,1116
-1306,Awapuni North,3405,3321,3504
-1307,Terrace End,3171,3327,3462
-1308,Maraetarata,1311,1314,1422
-1309,Papaioea South,1890,1884,1947
-1310,Royal Oak (Palmerston North City),906,2016,2334
-1311,West End,2706,2712,2832
-1312,Awapuni South,3231,3210,3366
-1313,Milverton,1848,1878,1950
-1314,Ruamahanga,2607,2571,2715
-1315,Esplanade,1932,2004,2082
-1316,Hokowhitu Central,2199,2277,2343
-1317,Hokowhitu East,3042,3036,3111
-1318,Turitea,696,696,444
-1319,Ruahine,1560,1515,1566
-1320,Linton Camp,1752,1335,1668
-1321,Ashhurst,2433,2649,2934
-1322,Hokowhitu South,1902,1929,1980
-1323,Aokautere,567,666,765
-1324,Pihauatua,1089,1185,1227
-1325,Aokautere Rural,537,645,690
-1326,Poutoa,2700,2907,3318
-1327,Norsewood,1545,1548,1611
-1328,Papatawa,1293,1326,1302
-1329,Mangatainoka,1752,1749,1743
-1330,Woodville,1401,1401,1548
-1331,Dannevirke West,2271,2100,2148
-1332,Dannevirke East,3288,2979,3360
-1333,Waitahora,597,570,609
-1334,Kaitawa,612,606,618
-1335,Pahiatua,2547,2403,2682
-1336,Nireaha-Eketahuna,1497,1452,1566
-1337,Owhanga,825,717,750
-1338,Mara,3,6,3
-1339,Kere Kere,807,858,915
-1340,Foxton Beach,1701,1620,1884
-1341,Foxton North,1398,1296,1383
-1342,Foxton South,1560,1590,1764
-1343,Waitarere,1875,1875,2142
-1344,Waikawa (Horowhenua District),756,738,750
-1345,Miranui,1533,1587,1788
-1346,Donnelly Park,990,1083,1191
-1347,Ohau-Manakau,1791,1785,2154
-1348,Kawiu South,2259,2307,2409
-1349,Makomako,1275,1371,1413
-1350,Kawiu North,1581,1650,1770
-1351,Levin Central,945,960,1047
-1352,Tararua,900,897,1152
-1353,Shannon,1362,1236,1398
-1354,Queenwood (Horowhenua District),1962,1941,2076
-1355,Playford Park,1629,1689,1815
-1356,Fairfield (Horowhenua District),1308,1311,1473
-1357,Taitoko,1845,1743,1911
-1358,Waiopehu,1278,1305,1422
-1359,Makahika,807,858,960
-1360,Kimberley,306,399,447
-1361,Kapiti Island,12,9,0
-1362,Otaki Beach,1689,1620,1818
-1363,Forest Lakes (Kapiti Coast District),591,624,663
-1364,Otaki,2853,3099,3489
-1365,Te Horo,1116,1287,1422
-1366,Waitohu,813,927,1011
-1367,Waikanae Beach,2892,3048,3249
-1368,Peka Peka,357,504,612
-1369,Paraparaumu Beach North,3429,3780,4056
-1370,Paraparaumu Beach West,2091,2292,2364
-1371,Waikanae Park,1902,1953,2085
-1372,Paraparaumu Beach East,2490,2508,2667
-1373,Otaihanga,750,735,804
-1374,Paraparaumu North,2715,3132,3555
-1375,Waikanae West,3453,3459,4374
-1376,Otaki Forks,660,717,777
-1377,Paraparaumu Central,3675,3723,3996
-1378,Maungakotukutuku,1044,1212,1335
-1379,Raumati Beach West,2490,2709,2865
-1380,Waikanae East,1959,2142,2391
-1381,Tararua Forest Park,0,0,0
-1382,Raumati Beach East,1980,2139,2376
-1383,Paraparaumu East,2094,2223,2265
-1384,Raumati South,3546,3594,3753
-1385,Paekakariki,1602,1668,1746
-1386,Mana Island,0,3,0
-1387,Pukerua Bay,1725,1896,1962
-1388,Paekakariki Hill,351,363,375
-1389,Plimmerton,2052,2115,2142
-1390,Titahi Bay North,2433,2457,2688
-1391,Titahi Bay South,3246,3564,3744
-1392,Elsdon-Takapuwahia,2217,2157,2418
-1393,Pauatahanui,774,924,966
-1394,Onepoto,1845,1800,1917
-1395,Camborne,1665,1908,2013
-1396,Inlet Porirua Harbour,0,0,0
-1397,Paremata,2280,2373,2463
-1398,Porirua Central,366,435,261
-1399,Papakowhai,2304,2280,2268
-1400,Aotea,117,2292,3138
-1401,Postgate,2424,2493,2754
-1402,Ascot Park,2661,2625,2862
-1403,Whitby,2907,2919,3042
-1404,Porirua East,2130,2085,2235
-1405,Endeavour,3033,3432,4617
-1406,Cannons Creek North,3273,3093,3474
-1407,Waitangirua,4071,4020,4398
-1408,Ranui Heights,1347,1362,1326
-1409,Cannons Creek East,3771,3594,3879
-1410,Cannons Creek South,1560,1533,1620
-1411,Akatarawa,555,606,648
-1412,Riverstone Terraces,660,1383,1776
-1413,Heretaunga,2223,2199,2496
-1414,Birchville-Brown Owl,3339,3327,3519
-1415,Poets Block,2235,2241,2472
-1416,Brentwood (Upper Hutt City),2094,2097,2241
-1417,Silverstream (Upper Hutt City),3321,3264,3531
-1418,Elderslea,3183,3225,3429
-1419,Trentham North,2766,2940,3084
-1420,Totara Park,2853,2874,2901
-1421,Trentham South,1170,1251,1809
-1422,Mangaroa,1611,1878,2034
-1423,Ebdentown,2352,2349,2481
-1424,Wallaceville,2226,2253,2388
-1425,Maoribank,2565,2841,3318
-1426,Te Marua,918,969,975
-1427,Pinehaven,1848,1890,1983
-1428,Clouston Park,2082,2076,2289
-1429,Upper Hutt Central,417,513,615
-1430,Belmont Park,369,336,333
-1431,Maungaraki,3552,3777,3987
-1432,Korokoro,1284,1329,1482
-1433,Kelson,2619,2697,2835
-1434,Normandale,1941,1938,2010
-1435,Belmont (Lower Hutt City),2346,2478,2691
-1436,Petone Central,882,909,954
-1437,Tirohanga,1197,1164,1287
-1438,Manor Park,381,390,417
-1439,Alicetown-Melling,2535,2700,2793
-1440,Taita North,3018,2592,3075
-1441,Boulcott,2451,2487,2613
-1442,Hutt Central North,762,894,951
-1443,Avalon West,2367,2469,2628
-1444,Stokes Valley Central,1983,2067,2112
-1445,Taita South,3039,2946,3078
-1446,Petone East,3303,3279,3906
-1447,Hutt Central South,2976,3060,3225
-1448,Stokes Valley North,3183,3345,3435
-1449,Petone Esplanade,2361,2487,2631
-1450,Epuni West,3087,3015,3090
-1451,Avalon East,2295,2334,2466
-1452,Woburn,1734,1692,1752
-1453,Naenae Central,3291,3192,3420
-1454,Waterloo West,2160,2127,2283
-1455,Epuni East,2976,2871,2949
-1456,Gracefield,75,99,141
-1457,Moera,1608,1533,1626
-1458,Delaney,2424,2439,2604
-1459,Waiwhetu,3951,3963,4305
-1460,Waterloo East,2976,2997,3096
-1461,Naenae North,2463,2439,2535
-1462,Manuka,1638,1680,1725
-1463,Naenae South,2532,2553,2745
-1464,Towai,0,0,0
-1465,Arakura,2469,2445,2793
-1466,Eastern Bays,2016,1944,2079
-1467,Pencarrow,573,588,651
-1468,Wainuiomata West,3336,3432,3570
-1469,Glendale,3633,3801,4050
-1470,Wainuiomata Central,1635,1680,1803
-1471,Eastbourne,2700,2721,2709
-1472,Homedale East,3096,2895,3063
-1473,Homedale West,2475,2454,2631
-1474,Makara-Ohariu,768,852,951
-1475,Tawa North,3060,3009,3189
-1476,Linden,2814,3045,3258
-1477,Tawa South,3360,3300,3426
-1478,Tawa Central,2445,2589,2643
-1479,Grenada North,2007,2163,2286
-1480,Churton Park North,2823,3234,3858
-1481,Takapu-Horokiwi,258,246,273
-1482,Churton Park South,3030,3285,3396
-1483,Johnsonville West,2847,3171,3369
-1484,Grenada Village,981,1248,1704
-1485,Johnsonville North,2772,3006,3243
-1486,Paparangi,2664,2739,2874
-1487,Ngaio North,2289,2442,2547
-1488,Johnsonville Central,2157,2403,2802
-1489,Broadmeadows,1485,1536,1629
-1490,Crofton Downs,1410,1548,1641
-1491,Johnsonville South,1464,1656,1692
-1492,Khandallah Reserve,2070,2052,2037
-1493,Karori Park,4119,4335,4566
-1494,Newlands North,3411,3714,3846
-1495,Ngaio South,2970,3057,3087
-1496,Newlands South,3345,3561,3978
-1497,Woodridge,975,1266,1605
-1498,Karori North,2475,2553,2589
-1499,Khandallah North,2568,2604,2724
-1500,Wilton,2034,2049,2205
-1501,Khandallah South,1851,1869,2004
-1502,Wadestown,3549,3516,3753
-1503,Karori South,3900,4248,4518
-1504,Onslow,1362,1689,1818
-1505,Karori East,3510,3543,3561
-1506,Pipitea-Kaiwharawhara,597,849,960
-1507,Northland (Wellington City),3261,3357,3552
-1508,Thorndon,3477,3687,4020
-1509,Wellington Botanic Gardens,1134,1119,1119
-1510,Kelburn,1989,1959,2157
-1511,Aro Valley,3432,3621,3762
-1512,Wellington University,1164,1503,1494
-1513,Wellington Central,1992,2886,3000
-1514,Brooklyn North,2028,2112,2211
-1515,Dixon Street,2745,3651,4185
-1516,Vivian West,2268,2832,3483
-1517,Courtenay,828,1521,1761
-1518,Brooklyn East,2601,2709,2712
-1519,Mount Cook West,4203,4161,4221
-1520,Vivian East,1545,2223,2394
-1521,Brooklyn South,1494,1686,1785
-1522,Oriental Bay,1428,1383,1389
-1523,Mount Cook East,2310,2442,2637
-1524,Mount Victoria,4338,4398,4527
-1525,Roseneath,1692,1731,1788
-1526,Owhiro Bay,1824,1893,1998
-1527,Kingston-Mornington-Vogeltown,2889,2928,3165
-1528,Newtown North,1938,2019,2124
-1529,Newtown West,2694,3138,3414
-1530,Hataitai North,3819,3852,4032
-1531,Evans Bay,930,1038,1122
-1532,Berhampore,3597,3609,3870
-1533,Hataitai South,1350,1398,1461
-1534,Maupuia,1557,1599,1584
-1535,Newtown South,3249,3243,3642
-1536,Kilbirnie Central,2622,2622,2688
-1537,Island Bay West,3141,3159,3381
-1538,Melrose,1182,1212,1299
-1539,Island Bay East,3261,3447,3516
-1540,Miramar North,1278,1305,1347
-1541,Kilbirnie East,2268,2181,2154
-1542,Lyall Bay,2580,2595,2673
-1543,Miramar Central,1779,1854,1971
-1544,Southgate,1173,1176,1164
-1545,Karaka Bay-Worser Bay,1419,1443,1503
-1546,Houghton Bay,1488,1551,1677
-1547,Miramar East,2823,2868,3003
-1548,Miramar South,3330,3459,3510
-1549,Rongotai,63,63,48
-1550,Strathmore (Wellington City),3768,3702,3828
-1551,Seatoun,2139,2235,2319
-1552,Kopuaranga,771,855,915
-1553,Upper Plain,1044,1086,1224
-1554,Opaki,852,1014,1140
-1555,Ngaumutawa,1380,1377,1491
-1556,Solway North,1980,2142,2346
-1557,Lansdowne West,1416,1386,1596
-1558,Masterton Central,678,606,711
-1559,Kuripuni,1581,1638,1653
-1560,Douglas Park,1887,1905,2016
-1561,Solway South,2943,3012,3459
-1562,Lansdowne East,2451,2532,2715
-1563,Cameron and Soldiers Park,1785,1983,2160
-1564,Whareama,1290,1281,1410
-1565,Homebush-Te Ore Ore,960,942,1050
-1566,McJorrow Park,1608,1593,1677
-1567,Mount Holdsworth,1341,1527,1767
-1568,Carterton North,1950,2241,2526
-1569,Kokotau,909,1149,1221
-1570,Carterton South,2187,2499,2814
-1571,Gladstone (Carterton District),711,816,870
-1572,Tauherenikau,972,1221,1353
-1573,Kahutara,933,975,1035
-1574,Featherston,2343,2250,2487
-1575,Inland water Lake Wairarapa,0,0,0
-1576,Greytown,2103,2238,2466
-1577,Aorangi Forest,1209,1374,1464
-1578,Martinborough,1329,1473,1767
-1579,Oceanic Three Kings Islands,0,0,0
-1580,Three Kings Islands,0,0,0
-1581,Oceanic Northland Region,30,0,3
-1582,Inlet Doubtless Bay,0,0,0
-1583,Inlet Kaipara Harbour North,0,0,0
-1584,Oceanic Waikato Region East,3,0,0
-1585,Inlets Waikato Region,0,0,0
-1586,Oceanic Waikato Region West,0,0,0
-1587,Oceanic Bay of Plenty Region,0,0,0
-1588,Islands Bay of Plenty Region,27,27,27
-1589,Oceanic Taranaki Region,18,3,0
-1590,Inlet Port Taranaki,0,0,0
-1591,Oceanic Gisborne Region,39,0,0
-1592,Oceanic Manawatu-Wanganui Region West,0,0,0
-1593,Oceanic Hawke's Bay Region,0,0,0
-1594,Inlet Port Napier,24,0,0
-1595,Oceanic Wellington Region,0,0,0
-1596,Inlet Wellington Harbour,12,0,0
-1597,Bare Island,0,0,0
-1598,Oceanic Manawatu-Wanganui Region East,0,0,0
-1599,Oceanic Tasman Region,0,0,0
-1600,Golden Bay/Mohua,2256,2310,2421
-1601,Inlets Golden Bay,0,12,0
-1602,Takaka,1152,1236,1335
-1603,Pohara-Abel Tasman,1422,1443,1470
-1604,Takaka Hills,1143,1098,1185
-1605,Kaiteriteri-Riwaka,1464,1539,1761
-1606,Upper Moutere,1677,1830,1962
-1607,Lower Moutere,1374,1509,1683
-1608,Motueka North,1962,2175,2478
-1609,Motueka West,2070,2151,2523
-1610,Motueka East,2592,2784,3006
-1611,Inlets Motueka,0,0,0
-1612,Golden Downs,1740,1710,1827
-1613,Moutere Hills,2226,2613,3177
-1614,Ruby Bay-Mapua,1947,2121,2562
-1615,Murchison-Nelson Lakes,1176,1182,1290
-1616,Inlet Waimea West,3,6,3
-1617,Islands Tasman District,93,96,99
-1618,Waimea West,1038,1089,1137
-1619,Appleby,744,783,786
-1620,Wakefield,1974,2301,2448
-1621,Richmond West (Tasman District),756,750,924
-1622,Wakefield Rural,1176,1173,1248
-1623,Brightwater,1827,1794,2133
-1624,Hope,912,888,930
-1625,Richmond Central (Tasman District),1830,1791,1848
-1626,Ben Cooper Park,2253,2301,2355
-1627,Richmond South (Tasman District),540,579,618
-1628,Wilkes Park,1959,2148,2304
-1629,Templemore,1509,1761,2004
-1630,Easby Park,2541,2589,2754
-1631,Fairose,930,1002,1620
-1632,Aniseed Valley,345,396,492
-1633,Nelson Rural,1536,1704,1896
-1634,Inlets Nelson City,3,3,57
-1635,Marybank,906,1011,1068
-1636,Port Nelson,99,81,33
-1637,Nelson Airport,96,105,96
-1638,Tahunanui,2493,2589,2745
-1639,Britannia,1566,1650,1767
-1640,Atawhai,2208,2556,2790
-1641,Broadgreen-Monaco,2298,2298,2376
-1642,Washington,2526,2469,2847
-1643,Tahuna Hills,2430,2652,2847
-1644,Nelson Central-Trafalgar,483,579,675
-1645,The Wood,2790,2835,2907
-1646,Toi Toi,1548,1548,1659
-1647,Nayland,1632,1725,1899
-1648,Aldinga,2448,2580,3168
-1649,Victory,1560,1512,1611
-1650,Rutherford,2475,2490,2583
-1651,Maitlands,1932,2022,2148
-1652,Maitai,1332,1314,1362
-1653,Grampians,1941,2235,2412
-1654,Saxton,54,60,57
-1655,Suffolk,1803,2625,2721
-1656,Omaio,2310,2718,3387
-1657,Enner Glynn,2706,2760,2916
-1658,Daelyn,102,462,852
-1659,The Brook,1605,1857,1992
-1660,Marlborough Sounds West,1890,1806,1986
-1661,Marlborough Sounds Coastal Marine,51,33,21
-1662,Marlborough Sounds East,2043,1953,1923
-1663,Upper Wairau,1692,1746,1938
-1664,Waikawa (Marlborough District),1119,1272,1464
-1665,Waitohi (Marlborough District),2928,2745,3039
-1666,Tuamarina,1092,1185,1263
-1667,Awatere,1608,1626,1617
-1668,Renwick,1962,2253,2418
-1669,Lower Wairau,1176,1167,1212
-1670,Woodbourne,1914,1653,2094
-1671,Spring Creek-Grovetown,990,972,1071
-1672,Springlands,2799,3072,3321
-1673,Yelverton,2217,2304,2559
-1674,Mayfield,1470,1539,1674
-1675,Whitney West,2550,2487,2652
-1676,Blenheim Central,1110,1068,1152
-1677,Riversdale-Islington,2151,2070,2319
-1678,Whitney East,1950,2172,2394
-1679,Redwoodtown West,2418,2469,2613
-1680,Witherlea West,1881,2181,2601
-1681,Redwoodtown East,2466,2592,2742
-1682,Riverlands,390,405,465
-1683,Witherlea East,2682,2652,2808
-1684,Inlet Wairau River,0,0,0
-1685,Kaikoura Ranges,1419,1545,1689
-1686,Kaikoura,2202,2010,2223
-1687,Karamea,798,768,714
-1688,Inlets Buller District,0,3,0
-1689,Westport North,2037,2037,1893
-1690,Westport Rural,975,1230,1260
-1691,Westport South,2472,2718,2496
-1692,Buller Coalfields,939,987,909
-1693,Charleston (Buller District),516,657,522
-1694,Inangahua,981,1011,864
-1695,Reefton,981,1056,927
-1696,Barrytown,918,909,939
-1697,Runanga,1233,1248,1185
-1698,Cobden,1710,1656,1551
-1699,Blaketown,864,840,810
-1700,Greymouth Central,1224,1044,978
-1701,King Park,1176,1092,1053
-1702,Marsden,1176,1236,1221
-1703,Karoro,1008,1053,1017
-1704,Rutherglen-Camerons,1071,1197,1332
-1705,Greymouth Rural,564,663,693
-1706,Dobson,807,801,828
-1707,Nelson Creek,717,714,669
-1708,Lake Brunner,753,918,1065
-1709,Haast,300,240,258
-1710,Westland Glaciers-Bruce Bay,963,876,1074
-1711,Arahura-Kumara,954,1167,1233
-1712,Hokitika,3078,2967,2892
-1713,Inlets Westland District,0,0,0
-1714,Hokitika Rural,1287,1359,1440
-1715,Waitaha,438,471,450
-1716,Whataroa-Harihari,753,612,642
-1717,Hokitika Valley-Otira,636,612,651
-1718,Hanmer Range,216,249,261
-1719,Amuri,2001,2097,2223
-1720,Hanmer Springs,729,840,960
-1721,Upper Hurunui,1365,1425,1473
-1722,Parnassus,1272,1308,1323
-1723,Ashley Forest,522,642,669
-1724,Omihi,1194,1197,1242
-1725,Balcairn,1872,2190,2343
-1726,Amberley,1305,1581,2067
-1727,Okuku,495,648,726
-1728,Ashley Gorge,690,1002,1134
-1729,Oxford,1728,1929,2214
-1730,Starvation Hill-Cust,1389,1950,2217
-1731,Loburn,1338,1941,2175
-1732,Eyrewell,918,1521,1806
-1733,West Eyreton,1101,1374,1464
-1734,Ashley-Sefton,1710,1953,2139
-1735,Fernside,936,1224,1326
-1736,Rangiora North West,297,1341,2133
-1737,Kingsbury,1833,2115,2778
-1738,Ashgrove,1431,1479,1530
-1739,Rangiora North East,1782,1791,1812
-1740,Oxford Estate,270,873,1314
-1741,Rangiora Central,45,36,36
-1742,Rangiora South West,2298,2361,2340
-1743,Lilybrook,2913,2955,2949
-1744,Waikuku,1413,1458,1635
-1745,Mandeville-Ohoka,1827,2448,3210
-1746,Rangiora South East,558,1320,2178
-1747,Southbrook,738,798,771
-1748,Swannanoa-Eyreton,699,906,954
-1749,Tuahiwi,858,963,945
-1750,Woodend,2661,2739,2784
-1751,Pegasus,18,1017,2637
-1752,Clarkville,1122,1320,1401
-1753,Pegasus Bay,1158,1059,1047
-1754,Kaiapoi North West,2478,2178,2085
-1755,Silverstream (Waimakariri District),54,39,819
-1756,Sovereign Palms,726,1404,3405
-1757,Kaiapoi West,1254,1272,1257
-1758,Kaiapoi Central,2532,2247,2169
-1759,Kaiapoi South,1962,1842,1827
-1760,Kaiapoi East,1596,492,279
-1761,McLeans Island,138,234,198
-1762,Paparua,936,801,1002
-1763,Yaldhurst,714,1434,1602
-1764,Christchurch Airport,183,168,177
-1765,Clearwater,513,621,699
-1766,Belfast West,1740,1866,1908
-1767,Harewood,1428,1401,1386
-1768,Brooklands-Spencerville,1746,1134,735
-1769,Styx,939,1134,1092
-1770,Belfast East,1929,2034,2310
-1771,Northwood,2460,3537,3567
-1772,Russley,861,906,981
-1773,Regents Park,981,1002,1167
-1774,Hawthornden,2442,2511,2493
-1775,Bishopdale North,4035,4164,4203
-1776,Casebrook,3912,3969,4095
-1777,Bishopdale West,2799,2802,2862
-1778,Templeton,1569,1788,1797
-1779,Islington,810,906,969
-1780,Burnside Park,2982,3069,3243
-1781,Marshland,783,759,789
-1782,Avonhead North,1410,1365,1413
-1783,Redwood North,2832,2808,2781
-1784,Broomfield,1839,2046,2571
-1785,Redwood West,2277,2166,2202
-1786,Avonhead West,1869,1782,1833
-1787,Bishopdale South,2118,2091,2241
-1788,Islington-Hornby Industrial,417,381,342
-1789,Burnside,3348,3360,3489
-1790,Hei Hei,3114,3390,3471
-1791,Papanui North,1917,1983,1965
-1792,Avonhead East,2607,2622,2778
-1793,Redwood East,3222,3138,3201
-1794,Avonhead South,3060,2994,3219
-1795,Riccarton Racecourse,1170,1215,1206
-1796,Bryndwr North,3216,3396,3381
-1797,Northlands (Christchurch City),120,123,123
-1798,Papanui West,2802,2844,2910
-1799,Ilam North,3414,3468,3729
-1800,Hornby West,2235,2328,2493
-1801,Hornby Central,156,120,135
-1802,Northcote (Christchurch City),2547,2526,2622
-1803,Jellie Park,2928,2973,3009
-1804,Ilam South,2871,2958,3204
-1805,Bryndwr South,2856,2700,2898
-1806,Papanui East,2265,2403,2385
-1807,Sockburn North,3564,3852,4023
-1808,Hornby South,4068,4284,4443
-1809,Ilam University,2247,2574,2424
-1810,Prestons,162,237,3048
-1811,Strowan,3645,3399,3507
-1812,Fendalton,2079,2052,1998
-1813,Waitikiri,1707,2427,2733
-1814,Mairehau North,2094,2748,3123
-1815,Bush Inn,2406,2664,3090
-1816,Awatea North,1965,2403,2478
-1817,Upper Riccarton,1368,1659,1683
-1818,Malvern,2604,2613,2604
-1819,Rutland,3090,3045,2904
-1820,Sockburn South,348,345,375
-1821,Deans Bush,2658,2526,2517
-1822,Wigram North,0,54,633
-1823,Holmwood,2334,2085,2130
-1824,Wharenui,2409,2580,2760
-1825,Wigram West,30,378,1401
-1826,Awatea South,57,54,1041
-1827,Merivale,3219,2931,2904
-1828,Mairehau South,3687,3762,3747
-1829,Mona Vale,1425,1371,1341
-1830,Riccarton West,2646,2880,3330
-1831,Shirley West,4008,3972,4173
-1832,Middleton,174,213,189
-1833,Wigram South,0,0,1320
-1834,Queenspark,3603,3435,3489
-1835,St Albans North,2229,2145,2136
-1836,St Albans West,2520,2421,2523
-1837,Travis Wetlands,2298,2370,2391
-1838,Wigram East,0,0,777
-1839,Riccarton Central,30,21,51
-1840,Oaklands West,2502,2424,2514
-1841,Riccarton South,2844,3075,3444
-1842,Halswell West,375,381,3597
-1843,Shirley East,2571,2616,2679
-1844,Broken Run,24,387,576
-1845,St Albans East,2544,2544,2970
-1846,Hagley Park,231,138,39
-1847,Hillmorton,2160,2655,2838
-1848,Parklands,3738,3939,4020
-1849,Riccarton East,945,993,1083
-1850,Edgeware,3684,3954,4125
-1851,Aidanfield,1296,2892,3903
-1852,Tower Junction,24,39,120
-1853,Burwood,3357,3273,3270
-1854,Christchurch Central-West,1857,966,930
-1855,Christchurch Central-North,2442,1824,2379
-1856,Richmond North (Christchurch City),2880,2244,2313
-1857,Waimairi Beach,1062,1266,1308
-1858,Addington West,1959,2439,2409
-1859,Otakaro-Avon River Corridor,10386,1263,99
-1860,Oaklands East,3207,3255,3342
-1861,Addington North,15,57,12
-1862,Dallington,2691,2220,2361
-1863,Christchurch Central,396,27,99
-1864,Hoon Hay West,3105,3123,3210
-1865,Richmond South (Christchurch City),2526,2067,1998
-1866,Spreydon West,2886,2964,3063
-1867,Christchurch Central-East,2151,1419,1929
-1868,Christchurch Central-South,573,531,549
-1869,North Beach,4083,4002,4071
-1870,Halswell North,1461,1779,2055
-1871,Addington East,2328,2592,2937
-1872,Avondale (Christchurch City),2733,2352,2373
-1873,Spreydon North,3432,3552,3780
-1874,Hoon Hay East,3033,3087,3213
-1875,Avonside,1899,1695,1671
-1876,Linwood West,4590,4290,4962
-1877,Halswell South,2313,2286,2487
-1878,Sydenham Central,126,114,138
-1879,Spreydon South,2181,2208,2364
-1880,Rawhiti,3237,2685,2769
-1881,Wainoni,2859,2694,2799
-1882,Linwood North,2544,2406,2709
-1883,Aranui,4260,3777,4200
-1884,Sydenham West,1074,1152,1320
-1885,Lancaster Park,258,219,243
-1886,Phillipstown,3315,3618,4014
-1887,Kennedys Bush,684,849,906
-1888,Somerfield East,3543,3660,3723
-1889,Somerfield West,2973,3114,3060
-1890,Linwood East,1881,1926,2112
-1891,Sydenham North,1779,1869,1998
-1892,Hoon Hay South,2073,2112,2172
-1893,Charleston (Christchurch City),1314,1392,1401
-1894,Sydenham South,2304,2535,2787
-1895,Bexley,2565,2244,2553
-1896,Waltham,1608,1620,1938
-1897,Westmorland,1674,1932,2196
-1898,Woolston North,3339,3405,3390
-1899,New Brighton,3360,3261,3330
-1900,Cashmere West,3015,2922,3060
-1901,Bromley South,2940,2922,2949
-1902,Ensors,2193,2250,2298
-1903,Beckenham,2451,2442,2403
-1904,Bromley North,48,63,57
-1905,St Martins,2751,2652,2721
-1906,Opawa,1434,1302,1365
-1907,Woolston West,1251,1161,1218
-1908,Woolston East,2706,3000,3225
-1909,Huntsbury,2121,2028,2268
-1910,Cashmere East,3318,3213,3393
-1911,Hillsborough (Christchurch City),2532,2226,2370
-1912,Woolston South,474,519,507
-1913,Port Hills,84,90,72
-1914,South New Brighton,3645,3228,3234
-1915,Brookhaven-Ferrymead,1071,1017,1074
-1916,Heathcote Valley,2172,2118,2229
-1917,Mount Pleasant,3984,3024,3567
-1918,Redcliffs,2079,1776,1971
-1919,Governors Bay,801,816,864
-1920,Inlets other Christchurch City,0,3,0
-1921,Clifton Hill,1851,1479,1647
-1922,Lyttelton,2991,2766,2982
-1923,Inlet Port Lyttelton,12,0,0
-1924,Sumner,3768,3483,3519
-1925,Teddington,207,192,234
-1926,Diamond Harbour,1209,1305,1497
-1927,Inland water Lake Ellesmere/Te Waihora South,0,0,0
-1928,Banks Peninsula South,1026,1101,1167
-1929,Eastern Bays-Banks Peninsula,606,654,615
-1930,Akaroa Harbour,711,756,729
-1931,Inlet Akaroa Harbour,0,0,3
-1932,Akaroa,591,645,756
-1933,Glenroy-Hororata,987,1086,1194
-1934,Glentunnel,891,1107,1191
-1935,Darfield,1974,2397,2724
-1936,Kirwee,918,1101,1275
-1937,Bankside,1365,1605,1656
-1938,Charing Cross,696,843,885
-1939,Halkett,1287,1545,1656
-1940,Newtons Road,2604,3207,3342
-1941,West Melton,327,780,2085
-1942,Burnham Camp,1206,1089,1146
-1943,Rolleston Izone,63,51,33
-1944,Rolleston North West,582,1800,3777
-1945,Springston,1653,2031,2157
-1946,Rolleston Central,2316,2976,3258
-1947,Rolleston North East,1143,2235,4554
-1948,Rolleston South West,561,2094,2874
-1949,Southbridge,2163,2430,2490
-1950,Rolleston South East,357,450,3036
-1951,Trents,1482,1854,1917
-1952,Prebbleton,2001,2772,4515
-1953,Irwell,1182,1275,1278
-1954,Ladbrooks,1299,1578,1701
-1955,Lincoln West,2091,2370,2943
-1956,Lincoln East,729,1497,3567
-1957,Leeston,1326,1539,2208
-1958,Tai Tapu,762,948,1173
-1959,Motukarara,588,693,612
-1960,Inland water Lake Ellesmere/Te Waihora North,0,0,0
-1961,Ashburton Lakes,90,102,96
-1962,Cairnbrae,1236,1404,1449
-1963,Ashburton Forks,1686,2007,2214
-1964,Methven,1404,1719,1779
-1965,Ealing-Lowcliffe,1197,1395,1551
-1966,Eiffelton,1788,2226,2466
-1967,Chertsey,1422,1602,1611
-1968,Winchmore-Wakanui,1284,1422,1536
-1969,Allenton North,1884,2172,2547
-1970,Allenton South,1857,2052,2121
-1971,Rakaia,1071,1272,1440
-1972,Ashburton North,954,996,1050
-1973,Allenton East,1947,2106,2121
-1974,Tinwald North,999,1068,1185
-1975,Ashburton Central,162,147,141
-1976,Ashburton West,912,921,957
-1977,Tinwald South,1995,2178,2373
-1978,Ashburton East,1518,1689,1749
-1979,Netherby,1488,1821,2130
-1980,Hampstead,2472,2733,2910
-1981,Ben McLeod,111,162,132
-1982,Arundel,1122,1308,1368
-1983,Levels Valley,945,1014,1044
-1984,Geraldine,2397,2400,2706
-1985,Rangitata,1221,1500,1653
-1986,Waitohi (Timaru District),1602,1737,1761
-1987,Pleasant Point,1194,1302,1371
-1988,Temuka West,2043,2016,2163
-1989,Hadlow,1194,1272,1434
-1990,Levels,1128,1134,1209
-1991,Temuka East,2202,2238,2307
-1992,Gleniti North,1098,1215,1491
-1993,Washdyke,1044,942,1017
-1994,Fairview,1587,1581,1641
-1995,Gleniti South,2106,2292,2433
-1996,Glenwood,1656,1755,1788
-1997,Marchwiel West,1485,1476,1527
-1998,Marchwiel East,1746,1791,1980
-1999,Highfield North,2259,2223,2358
-2000,Highfield South,1269,1197,1251
-2001,Waimataitai-Maori Hill,1887,1902,2043
-2002,Fraser Park,2679,2685,2751
-2003,Seaview,2178,2028,2088
-2004,Inlet Port Timaru,3,3,0
-2005,Watlington,2253,2298,2253
-2006,Timaru Central,420,426,405
-2007,Timaru East,300,258,273
-2008,Parkside,2295,2358,2376
-2009,Kensington (Timaru District),1443,1416,1464
-2010,Mackenzie Lakes,783,882,1182
-2011,Inland water Lake Pukaki,0,0,0
-2012,Inland water Lake Tekapo,3,0,0
-2013,Twizel,1041,1152,1455
-2014,Opua (Mackenzie District),1107,1263,1347
-2015,Fairlie,867,861,885
-2016,Hakataramea,732,756,831
-2017,Maungati,675,732,738
-2018,Lyalldale,588,636,687
-2019,Makikihi-Willowbridge,984,993,1008
-2020,Waimate North,450,504,507
-2021,Morven-Glenavy-Ikawai,939,1131,1095
-2022,Waimate West,1335,1254,1335
-2023,Waimate East,1503,1527,1614
-2024,Oceanic Chatham Islands,0,0,0
-2025,Chatham Islands,612,600,663
-2026,Aviemore,669,702,765
-2027,Inland water Lake Ohau,9,0,0
-2028,Danseys Pass,864,915,987
-2029,Ngapara,1536,1611,1806
-2030,Lower Waitaki,1047,1266,1389
-2031,Waihemo,1272,1320,1341
-2032,Maheno,1875,1818,1968
-2033,Weston,897,984,1050
-2034,Oamaru North Milner Park,2184,2313,2529
-2035,Oamaru North Orana Park,2658,2661,2907
-2036,Oamaru Gardens,1008,1080,1179
-2037,Glen Warren,1524,1512,1632
-2038,Holmes Hill,1251,1284,1332
-2039,Oamaru Central,249,273,294
-2040,South Hill,2259,2199,2184
-2041,Inlet Port Oamaru,6,0,0
-2042,Palmerston,921,891,948
-2043,Lindis-Nevis Valleys,1149,1677,2391
-2044,Cromwell West,1854,2220,3048
-2045,Cromwell East,1893,2121,2562
-2046,Manuherikia-Ida Valleys,960,1020,1119
-2047,Earnscleugh,576,609,699
-2048,Dunstan-Galloway,1233,1329,1695
-2049,Clyde,906,999,1161
-2050,Alexandra North,2373,2445,2856
-2051,Alexandra South,2454,2358,2616
-2052,Maniototo,1566,1554,1635
-2053,Teviot Valley,1683,1563,1779
-2054,Outer Wanaka,336,378,399
-2055,Glenorchy,273,363,450
-2056,Inland water Lake Wanaka,0,0,0
-2057,Outer Wakatipu,537,657,822
-2058,Inland water Lake Hawea,0,0,0
-2059,Cardrona,429,507,633
-2060,Inland water Lake Wakatipu,6,0,0
-2061,Wanaka Waterfront,1224,1374,2121
-2062,Wanaka North,1311,1614,2412
-2063,Wanaka West,993,1323,1725
-2064,Albert Town,705,1287,2031
-2065,Wanaka Central,810,876,1263
-2066,Lake Hawea,552,798,1200
-2067,Upper Clutha Valley,651,879,1257
-2068,Kingston,201,237,348
-2069,Arthurs Point,411,807,1128
-2070,Wakatipu Basin,1020,1158,1356
-2071,Queenstown Hill,0,3,6
-2072,Warren Park,1041,1131,1485
-2073,Sunshine Bay-Fernhill,2256,2358,2931
-2074,Arrowtown,2148,2445,2814
-2075,Quail Rise,351,543,708
-2076,Queenstown Central,1164,1053,1017
-2077,Queenstown East,1182,1362,1416
-2078,Frankton Arm,1317,1569,1917
-2079,Frankton,2154,2307,2895
-2080,Lake Hayes,252,318,354
-2081,Kelvin Heights,963,1011,1170
-2082,Shotover Country,45,42,2187
-2083,Lake Hayes Estate,570,1599,2139
-2084,Jacks Point,63,237,969
-2085,Strath Taieri,714,714,666
-2086,Bucklands Crossing,1230,1425,1482
-2087,Waikouaiti,1095,1122,1194
-2088,Momona,2130,2205,2322
-2089,Taieri,1170,1410,1506
-2090,Inlets other Dunedin City,18,0,0
-2091,Mount Cargill,1755,1776,2016
-2092,Bush Road,2277,2343,2358
-2093,Mosgiel East,1803,1983,2730
-2094,Mosgiel Central,2568,2601,2607
-2095,Seddon Park,2640,2631,2868
-2096,Wingatui,708,765,891
-2097,Saddle Hill-Chain Hills,1071,1191,1224
-2098,East Taieri,1653,1935,2181
-2099,Halfway Bush,1824,1743,1830
-2100,Helensburgh,1071,1173,1188
-2101,Glenleith,1152,1113,1239
-2102,Fairfield (Dunedin City),2268,2415,2511
-2103,Inlet Otago Harbour,15,3,0
-2104,Brockville,2439,2295,2409
-2105,Wakari,3693,3822,4098
-2106,Abbotsford,2400,2496,2817
-2107,Brighton,1509,1446,1473
-2108,Pine Hill-Dalmore,2340,2226,2289
-2109,Kaikorai-Bradford,1122,1176,1182
-2110,Maori Hill,2328,2367,2448
-2111,Roslyn (Dunedin City),2940,3060,3048
-2112,North East Valley Chingford,1587,1578,1653
-2113,Roseneath-Sawyers Bay,1395,1317,1449
-2114,Normanby,1374,1392,1425
-2115,North East Valley Knox,2196,2388,2523
-2116,Belleknowes,2280,2229,2220
-2117,Gardens (Dunedin City),3276,3300,3741
-2118,Kenmure,1926,1878,1944
-2119,Campus West,1494,1686,1728
-2120,Waldronville,861,1128,1299
-2121,Green Island,2283,2235,2319
-2122,Port Chalmers,1380,1419,1407
-2123,Royal Terrace,1473,1605,1719
-2124,Arthur Street,1323,1353,1494
-2125,Opoho,1236,1200,1218
-2126,Campus North,2634,2616,2535
-2127,Campus South,2184,2046,2031
-2128,Mornington,2820,2703,2802
-2129,Dunedin Central,1902,1914,1962
-2130,Maryhill,2232,2127,2277
-2131,Ravensbourne-St Leonards,1893,1896,1878
-2132,Harbourside,60,48,45
-2133,Fernhill,1563,1398,1608
-2134,Otago Peninsula,819,780,852
-2135,Concord,1485,1464,1512
-2136,Calton Hill,1524,1434,1482
-2137,Caversham,2253,2181,2265
-2138,Hillside-Portsmouth Drive,105,75,99
-2139,Kew (Dunedin City),1650,1740,1734
-2140,Corstorphine,1707,1770,1884
-2141,Forbury,1302,1293,1326
-2142,Bathgate Park,2358,2310,2439
-2143,St Clair,2355,2346,2346
-2144,Waverley,2646,2574,2646
-2145,Macandrew Bay-Company Bay,1473,1518,1572
-2146,Broad Bay-Portobello,1071,1074,1155
-2147,St Kilda South,2817,2829,2964
-2148,Musselburgh,1524,1569,1515
-2149,Shiel Hill,1536,1599,1701
-2150,St Kilda North,2442,2469,2538
-2151,Andersons Bay,2391,2340,2379
-2152,Tainui,1917,1983,1980
-2153,West Otago,2232,2169,2289
-2154,Tuapeka,1179,1077,1155
-2155,Clinton,1170,1200,1230
-2156,Clutha Valley,1560,1524,1608
-2157,Bruce,1572,2043,2250
-2158,Catlins,1332,1254,1305
-2159,Milton,2046,2070,2157
-2160,Balclutha South,2532,2448,2523
-2161,Balclutha North,1605,1539,1587
-2162,Benhar-Stirling,468,462,471
-2163,Kaitangata-Matau,1137,1104,1092
-2164,Inlet Catlins,0,0,0
-2165,Fiordland,144,123,111
-2166,Inlets Fiordland,15,15,12
-2167,Inland water Lake Te Anau,6,0,0
-2168,Mararoa,789,714,774
-2169,Inland water Lake Manapouri,0,0,0
-2170,Te Anau,1935,2001,2538
-2171,Whitestone,378,540,618
-2172,Mossburn,1110,1197,1209
-2173,Inland water Lake Hauroko,0,0,0
-2174,Longwood Forest,1947,1995,1995
-2175,Ohai-Nightcaps,1533,1500,1482
-2176,Riversdale-Piano Flat,1299,1341,1374
-2177,Lumsden-Balfour,1212,1266,1320
-2178,Oreti River,1926,2169,2100
-2179,Otautau,2784,2793,2808
-2180,Hedgehope,1044,1110,1179
-2181,Winton,2094,2220,2337
-2182,Waianiwa,1038,1155,1170
-2183,Riverton,1542,1470,1620
-2184,Wallacetown,1056,1158,1173
-2185,Grove Bush,975,1065,1158
-2186,Edendale-Woodlands,2130,2193,2262
-2187,Inlets other Southland District,3,3,0
-2188,Stewart Island,402,378,408
-2189,Awarua Plains,963,1026,1020
-2190,Wyndham-Catlins,2130,2178,2196
-2191,Waikaka,1560,1554,1560
-2192,Waimumu-Kaiwera,1233,1278,1302
-2193,Gore North,1572,1557,1713
-2194,Gore West,2754,2703,2697
-2195,East Gore,1401,1440,1443
-2196,Gore Central,222,195,180
-2197,Gore Main,1224,1200,1251
-2198,Gore South,582,597,627
-2199,Mataura,1560,1509,1629
-2200,West Plains-Makarewa,1365,1509,1608
-2201,Prestonville-Grasmere,3453,3513,3720
-2202,Donovan Park,2058,2355,2484
-2203,Myross Bush,963,1050,1134
-2204,Otatara,2742,3036,3144
-2205,Invercargill Central,1155,1125,1365
-2206,Gladstone (Invercargill City),2484,2385,2376
-2207,Rosedale,1866,1833,1872
-2208,Avenal,1158,1131,1263
-2209,Hargest,2019,1995,2070
-2210,Windsor,3033,2949,3090
-2211,Richmond (Invercargill City),3336,3342,3480
-2212,Glengarry,2307,2352,2637
-2213,Inlet New River Estuary,0,3,0
-2214,Turnbull Thompson Park,1725,1731,1764
-2215,Crinan,1434,1584,1734
-2216,Georgetown,1884,1935,2040
-2217,Kew (Invercargill City),1800,1914,1965
-2218,Kennington-Tisbury,1092,1317,1443
-2219,Newfield,2757,2754,2787
-2220,Strathern,2181,2088,2217
-2221,Elizabeth Park,1236,1254,1272
-2222,Aurora,1224,1293,1329
-2223,Moulson,1152,1308,1284
-2224,Kingswell,2034,2082,2232
-2225,Clifton,1458,1449,1500
-2226,Woodend-Greenhills,612,603,597
-2227,Inlet Bluff Harbour,0,0,0
-2228,Bluff,1797,1803,1797
-2229,Oceanic West Coast Region,0,0,0
-2230,Oceanic Nelson Region,0,0,0
-2231,Oceanic Marlborough Region,9,0,0
-2232,Oceanic Southland Region,0,0,3
-2233,Oceanic Canterbury Region,0,12,0
-2234,Oceanic Otago Region,0,6,0
-2235,New Zealand Economic Zone,0,0,6
-2236,Oceanic Kermadec Islands,0,0,0
-2237,Kermadec Islands,6,0,0
-2238,Oceanic Oil Rig Taranaki,0,0,0
-2239,Oceanic Campbell Island,0,0,0
-2240,Campbell Island,0,0,0
-2241,Oceanic Oil Rig Southland,3,0,0
-2242,Oceanic Auckland Islands,0,0,0
-2243,Auckland Islands,0,0,0
-2244,Oceanic Bounty Islands,0,0,0
-2245,Bounty Islands,0,0,0
-2246,Oceanic Snares Islands,0,0,0
-2247,Snares Islands,0,0,0
-2248,Oceanic Antipodes Islands,0,0,0
-2249,Antipodes Islands,0,0,0
-2250,Ross Dependency,0,0,0
-2251,Lake Cameron,1170,1278,1479
-2252,Craigieburn,198,222,159
-2253,Torlesse,900,1014,1164
+SA22018_V1_NAME,Pop_Total_2006,Pop_Total_2013,Pop_Total_2018
+North Cape,1338,1371,1602
+Rangaunu Harbour,2010,2028,2310
+Inlets Far North District,63,63,45
+Karikari Peninsula,942,1164,1251
+Tangonge,1041,1131,1134
+Ahipara,1095,1032,1230
+Kaitaia East,2130,1983,2388
+Kaitaia West,3072,2904,3483
+Rangitihi,810,819,936
+Oruru-Parapara,690,687,846
+Taumarumaru,1680,1812,2193
+Herekino-Takahue,966,927,963
+Peria,1011,951,1107
+Taemaro-Oruaiti,729,666,867
+Whakapaku,705,708,744
+Hokianga North,813,744,795
+Kohukohu-Broadwood,747,624,726
+Whakarara,1104,1026,1344
+Kaeo,1077,1005,1191
+Omahuta Forest-Horeke,1017,888,1056
+Hokianga South,1065,1239,1236
+Lake Manuwai-Kapiro,1644,1896,2133
+Okaihau,1077,1131,1236
+Rangitane-Purerua,1182,1164,1506
+Waipapa,537,714,870
+Puketotara,1293,1380,1677
+Waima Forest,1029,873,1095
+Riverview,1776,1791,2109
+Waipoua Forest,1119,1035,1215
+Kerikeri Central,2049,2130,2502
+Kerikeri South,1665,2094,2553
+Ohaeawai-Waimate North,864,933,1140
+Puketona-Waitangi,1107,1140,1335
+Ngapuhi,1506,1371,1797
+Kaikohe,4041,3855,4437
+Pakaraka,507,555,666
+Haruru,786,867,1077
+Russell,786,702,762
+Paihia,1299,1290,1512
+Mataraua Forest,546,477,507
+Matawaia-Taumarere,1224,1146,1374
+Russell Peninsula,492,525,606
+Opua (Far North District),1107,1008,1137
+Russell Forest-Rawhiti,648,660,690
+Moerewa,1410,1344,1632
+Kawakawa,1326,1215,1464
+Maromaku,714,666,774
+Mangakahia-Hukerenui,1683,1641,1923
+Whangaruru,2067,2100,2520
+Inlets other Whangarei District,9,24,9
+Matarau,2277,2553,2979
+Hikurangi,1419,1410,1617
+Kauri,1338,1488,1746
+Maungatapere,2757,2994,3477
+Kamo West,1752,1983,2205
+Matapouri-Tutukaka,1203,1347,1692
+Kiripaka,717,888,993
+Kamo East,1926,2268,2871
+Granfield Reserve,2268,2856,3099
+Kamo Central,1530,1494,1680
+Whau Valley,2601,2538,2799
+Tikipunga North,2331,2097,3003
+Pukenui,1302,1638,2040
+Otangarei,2139,1635,2109
+Tikipunga South,3432,3387,3903
+Kensington (Whangarei District),3201,3012,3240
+Abbey Caves-Glenbervie,1002,1137,1329
+Mairtown,2205,2265,2475
+Maunu-Horahora,2931,3003,3276
+Woodhill-Vinetown,2490,2439,2847
+Whangarei Central,894,759,954
+Riverside,1947,1791,2085
+Raumanga,2994,2817,3330
+Tarewa,1749,1635,1962
+Morningside (Whangarei District),2127,2067,2340
+Ngunguru,879,918,1164
+Otaika-Portland,1107,1146,1338
+Oakleigh-Mangapai,2007,2205,2310
+Port-Limeburners,51,39,102
+Pataua,1131,1278,1584
+Onerahi Park,1248,1419,1584
+Sherwood Rise,2316,2226,2457
+Onerahi,2178,2145,2457
+Inlet Whangarei Harbour,36,6,12
+Parua Bay,1926,2013,2460
+Bream Bay,1494,1641,2073
+Marsden Bay,999,1494,2208
+Ruakaka,1917,2007,2586
+Bream Head,1062,1110,1392
+Waipu,1818,2082,2715
+Kaipara Coastal,3447,3429,3690
+Maungaru,1713,1686,1800
+Dargaville,4455,4251,4794
+Ruawai-Matakohe,2235,2289,2436
+Otamatea (Kaipara District),1407,1482,1713
+Maungaturoto,1113,1089,1269
+Kaiwaka,1452,1599,2139
+Mangawhai Rural,1032,1398,2100
+Mangawhai Heads,927,1239,1995
+Inlet Mangawhai Harbour,0,0,0
+Mangawhai,348,507,936
+Okahukura Peninsula,1380,1359,1491
+Inlet Kaipara Harbour South,0,0,0
+Cape Rodney,2760,3096,3525
+Wellsford,1671,1713,1929
+Oceanic Auckland Region East,33,21,9
+South Head,1878,2040,2595
+Kaipara Hills,1473,1686,1965
+Dome Valley-Matakana,1122,1284,1530
+Oceanic Auckland Region West,3,0,0
+Warkworth West,1464,1779,2481
+Puhoi Valley,2727,3141,3702
+Warkworth East,1998,2490,3105
+Sandspit,801,879,969
+Tawharanui Peninsula,1365,1620,1962
+Te Kuru,1695,2010,2484
+Snells Beach,2727,2931,3405
+Barrier Islands,867,933,930
+Algies Bay-Scotts Landing,933,1041,1185
+Inlets other Auckland,45,12,12
+Wainui-Waiwera,1326,1413,1674
+Parakai,831,1020,1098
+Helensville Rural,1209,1335,1524
+Helensville,2532,2643,2787
+Waitoki,1278,1320,1530
+Waikoukou Valley,1401,1518,1728
+Orewa North,1905,2766,4098
+Hatfields Beach,1194,1380,1554
+Orewa South,2796,2898,3048
+Orewa Central,2670,2925,3096
+Millwater North,42,732,3642
+Waipatukahu,1188,1239,1461
+Millwater South,57,135,2304
+Dairy Flat North,1452,1620,1788
+Dairy Flat West,1164,1287,1422
+Kingsway,1218,1830,2187
+Riverhead Forest,3,9,3
+Silverdale Central (Auckland),267,273,282
+Red Beach West,1581,1944,2136
+Red Beach East,3624,3777,4023
+Silverdale South (Auckland),1557,1812,2001
+Waimauku,1014,1173,1338
+Gulf Islands,141,120,111
+Vipond,2466,2766,2925
+Muriwai,1044,1131,1248
+Stanmore Bay West,2625,2550,2721
+Kumeu Rural West,1467,1530,1626
+Okura Bush,1125,1284,1332
+Whangaparoa Central,2688,3228,3786
+Kumeu-Huapai,1386,1410,3432
+Stanmore Bay East,2385,2562,2733
+Manly West,2196,2289,2349
+Muriwai Valley-Bethells Beach,825,945,1104
+Tindalls-Matakatia,1548,1749,1977
+Coatesville,1974,2223,2328
+Dairy Flat South,1140,1521,1617
+Gulf Harbour North,1977,2463,2934
+Manly East,3057,3354,3555
+Riverhead,1305,1362,2802
+Army Bay,1284,1410,1566
+Kumeu Rural East,1587,1785,2028
+Gulf Harbour South,1317,1839,2664
+Paremoremo West,675,804,978
+Taupaki,1452,1518,1617
+Long Bay,147,183,1365
+Paremoremo East,2019,2439,2382
+Albany Heights,1725,2277,3153
+Awaruku,4149,4185,4416
+Fairview Heights,1116,2931,3897
+Whenuapai,3639,3729,3888
+Waitakere Ranges North,1074,1140,1281
+Torbay,3942,4065,4305
+Albany Central,126,276,525
+Albany West,2088,2430,2811
+Glamorgan,3018,3108,3291
+Oteha East,2313,3042,3210
+Northcross,3132,3219,3276
+Oteha West,720,1467,1902
+Waiake,3615,3720,3885
+Waitakere,1755,1812,1935
+Albany South,3306,3267,3405
+Browns Bay South West,3909,3996,4221
+Browns Bay Central,2454,2688,2844
+Schnapper Rock,1431,3699,3939
+Pinehill,2700,3954,4275
+North Harbour,450,564,816
+Browns Bay South East,2427,2745,2931
+Westgate Central,87,78,42
+Greenhithe West,2997,3483,3501
+Rothesay Bay,2613,2706,2886
+Greenhithe East,1839,2787,3093
+Hobsonville,723,780,1173
+Inlet Waitemata Harbour,21,24,84
+Greenhithe South,1065,1413,1998
+Murrays Bay West,2532,2562,2628
+Westgate South,1299,1569,1770
+Windsor Park,1500,1614,1683
+West Harbour West,4086,4113,4332
+Unsworth Heights West,2079,2316,2322
+Murrays Bay East,2049,2142,2136
+Birdwood West,507,564,606
+Hobsonville Point,885,810,3765
+West Harbour Clearwater Cove,4068,4077,4344
+Unsworth Heights East,3171,3186,3567
+Mairangi Bay North,2697,2700,2901
+Massey Central,2880,2985,3363
+West Harbour Luckens Point,2673,2661,2697
+Mairangi Bay South,2580,2646,2745
+Massey Royal Road West,2664,2853,3021
+Bayview East,2976,3228,3618
+Swanson Rural,2037,2130,2355
+Sunnynook South,2382,2448,2673
+Sunnynook North,2652,2673,2865
+Bayview West,2151,2280,2376
+Totara Vale North,2898,2937,3174
+Royal Heights North,3306,3363,3501
+Massey West,579,1110,1428
+Beach Haven West,3111,3294,3417
+Totara Vale South,3405,3576,3867
+Swanson,1386,1650,2241
+Bayview South,2742,2898,3063
+Campbells Bay,2688,2835,2889
+Royal Heights South,3159,3405,3777
+Beach Haven East,3789,3816,3984
+Massey East,2991,3285,3540
+Forrest Hill North,2163,2325,2490
+Glenfield North,2892,3051,3333
+Birkdale North,3789,3996,4173
+Massey South,4020,4203,4554
+Ranui North,3744,3870,4053
+Glenfield West,2550,2760,3084
+Te Atatu Peninsula North West,2787,3048,3282
+Glenfield South West,3258,3618,4032
+Forrest Hill West,3432,3780,4014
+Wairau Valley,105,168,204
+Forrest Hill East,3117,3366,3516
+Castor Bay,4116,4305,4509
+Ranui Domain,3192,3297,3537
+Beach Haven South,2931,3027,3165
+Glenfield Central,3693,3888,4101
+Piha,822,858,984
+Ranui South West,1623,2163,2634
+Henderson Larnoch,3495,3840,4188
+Birkdale South,4107,4341,4725
+Te Atatu Peninsula Central,2877,2946,3351
+Glenfield East,1977,2097,2322
+Henderson Valley,1341,1353,1440
+Te Atatu Peninsula West,3225,3603,3780
+Henderson Lincoln West,2784,2955,3213
+Ranui South East,1770,2001,2925
+Henderson Lincoln East,306,309,138
+Birkenhead West,3900,4026,4653
+Te Atatu Peninsula East,2799,2889,2931
+Milford West,2823,2856,3072
+Westlake,2523,2796,2994
+Hillcrest North (Auckland),2979,3201,3387
+Henderson Lincoln South,2166,2268,2550
+Hillcrest West (Auckland),2898,2946,3240
+Milford Central,1950,1911,1947
+Summerland South,2298,3081,3213
+Summerland North,2256,2391,2580
+Hillcrest East (Auckland),3645,3669,3921
+Chatswood,3426,3402,3531
+Te Atatu South-Edmonton,3201,3459,3756
+Birkenhead North,2592,2748,2865
+Takapuna West,3402,4065,4509
+Henderson North,3060,3402,3771
+Takapuna Central,2046,2244,2370
+Western Heights (Auckland),3402,3861,4479
+Te Atatu South-Central,3765,3873,4257
+Northcote Central (Auckland),2427,2403,2358
+Akoranga,1143,1221,1167
+Northcote South (Auckland),2313,2340,2496
+Birkenhead South,2814,2868,3018
+Henderson Central,753,1131,1260
+Waiatarua,1989,2076,2148
+Te Atatu South-McLeod North,2382,3057,3312
+Henderson Valley Park,1704,1776,1914
+Henderson North East,2364,2409,2658
+Waitakere Ranges South,963,1011,1104
+Northcote Tuff Crater,1980,2070,2214
+Northcote Point (Auckland),2916,3009,3246
+McLaren Park,3894,4083,4350
+Henderson East,2208,2613,2874
+Te Atatu South-McLeod South,3111,3408,3813
+Takapuna South,1416,1440,1464
+Rosebank Peninsula,30,15,30
+Hauraki,3792,3969,4131
+Glendene North,4035,4224,4686
+Sunnyvale West-Parrs Park,1695,2340,2553
+Sunnyvale East,3723,3960,4773
+Point Chevalier West,3513,3765,3858
+Belmont (Auckland),2808,2946,3027
+Bayswater,2643,2823,2865
+Glendene South,2586,2697,2877
+Glen Eden West,3447,3573,3801
+Herne Bay,2982,2940,3036
+Westmere North,2148,2295,2343
+Point Chevalier East,4119,4404,4602
+Oratia,1839,2037,2151
+Glen Eden Rosier,2955,3138,3537
+Saint Marys Bay,2169,2286,2205
+Westmere South-Western Springs,2784,3039,3099
+Ponsonby West,2244,2265,2337
+Kelston North,2433,2541,2766
+Avondale Rosebank,3903,3927,4320
+Narrow Neck,3852,3984,4098
+Glen Eden North,2103,2373,2388
+Glen Eden Woodglen,3714,4041,4263
+Kelston South,2235,2361,2589
+Waterview,3345,3303,3375
+Ponsonby East,3243,3312,3393
+Wynyard-Viaduct,699,975,1008
+Stanley Point,2028,2040,2025
+Glen Eden Central,3177,3315,3573
+Grey Lynn North,2934,3078,3099
+Avondale West (Auckland),3795,3816,4017
+Freemans Bay,3831,4206,4407
+Mount Albert West,2502,2589,2685
+Avondale North (Auckland),3753,4020,4488
+Grey Lynn West,2613,2790,3156
+Mount Albert North,3864,3933,4044
+New Lynn North,2751,2946,3270
+Victoria Park,1050,1374,2070
+Konini,3393,3492,3555
+New Lynn North West,2472,2751,3120
+Hobson Ridge North,1827,2301,2475
+Grey Lynn Central,3315,3315,3588
+Fruitvale,2703,2745,2952
+Devonport,3417,3414,3348
+Avondale Central (Auckland),2379,2583,3030
+Queen Street,1074,1686,2193
+Quay Street-Customs Street,1104,2256,2274
+Hobson Ridge Central,1761,3210,3756
+Grey Lynn East,1380,1659,1890
+Morningside (Auckland),3606,3825,3981
+Shortland Street,816,1722,1602
+Hobson Ridge South,945,1587,1959
+New Lynn Central,243,150,543
+Cheltenham,2082,2073,2013
+Queen Street South West,1206,1482,1614
+Mount Albert Central,3378,3390,3669
+Karangahape,1413,1803,2307
+Kingsland,2967,3216,3372
+Anzac Avenue,2124,2568,2748
+Waima-Woodlands Park,2463,2526,2682
+Kaurilands,2970,3051,3177
+Auckland-University,96,111,105
+New Lynn Seabrook,2412,2634,2886
+Avondale South (Auckland),3735,3948,4227
+Symonds Street North West,2199,2622,2922
+Mount Albert South,2292,2316,2415
+Symonds Street West,1293,2292,2856
+West Lynn,2751,2871,3177
+Owairaka West,3096,2985,3222
+New Lynn Central South,2730,2841,2793
+The Strand,1188,1482,1353
+St Lukes,1653,2256,2391
+Symonds Street East,1209,2235,1980
+Eden Terrace,2898,3729,3933
+Grafton,1722,1878,1686
+Eden Park,1626,1659,1710
+Sandringham North,3552,3630,3897
+Parnell West,3270,3636,4158
+New Lynn South,3957,4167,4650
+New Windsor North,2976,3024,3249
+Titirangi South,3624,3771,4026
+Owairaka East,1845,1965,2046
+Eden Valley,2058,2022,2235
+Sandringham Central,2073,2202,2385
+Glenavon,2325,2787,2907
+Blockhouse Bay North,3156,3387,3873
+Green Bay North,1662,1683,1782
+Parnell East,3249,3456,3405
+Laingholm,2334,2265,2385
+Sandringham West,2028,2133,2337
+Mount Eden North East,1290,1035,1107
+Mount Eden North,3150,3180,3474
+Wesley West,3135,3240,3429
+Green Bay South,2688,2913,3006
+Balmoral,3015,3066,3204
+Sandringham East,3258,3273,3441
+New Windsor South,4119,4257,4509
+Mount Eden West,3162,3228,3279
+Newmarket,2262,3684,3993
+Blockhouse Bay North East,2007,2064,2181
+Epsom North,3213,3351,3420
+Wesley South,60,48,60
+Blockhouse Bay South,3648,3915,4236
+Mount Eden East,2832,2754,2892
+Wesley East,1968,2082,2163
+Orakei West,2718,2742,2787
+Maungawhau,2685,2850,3009
+Remuera West,2508,2544,2805
+Blockhouse Bay East,2211,2217,2550
+Lynfield North,2547,2712,3030
+Mount Roskill North,3537,3624,3813
+Mount Roskill White Swan,3918,4095,4596
+Mount Eden South,3687,3804,3951
+Remuera Waitaramoa,3888,3930,3969
+Orakei East,2634,2733,2838
+Epsom Central-North,3585,3783,3870
+Mount St John,3135,3735,3567
+Mount Roskill Central North,2943,3081,3324
+Remuera North,3426,3444,3582
+Three Kings West,2001,2049,2301
+Mount Roskill Central South,2268,2493,2412
+Epsom Central-South,3711,3903,3945
+Lynfield South,4023,4050,4473
+Remuera South,3879,3903,3915
+Mission Bay,4134,4191,4341
+Three Kings East,1272,1284,1344
+Mount Roskill South,2670,2838,3174
+Inlet Manukau Harbour,3,18,0
+Epsom East,2334,2445,2391
+Remuera Waiata,2706,2802,2802
+Epsom South,2127,2175,2235
+Kohimarama,4035,4143,4350
+Meadowbank West,2406,2556,2730
+Hillsborough North (Auckland),3270,3327,3768
+Hillsborough West (Auckland),3033,3330,3555
+Greenlane North,3993,4233,4392
+Waikowhai North,3198,3210,3402
+Remuera East,2805,2937,2739
+Waikowhai South,1635,1746,2037
+Royal Oak West (Auckland),2316,2349,2502
+Saint Heliers West,3291,3390,3525
+One Tree Hill,4125,4161,4506
+Hillsborough East (Auckland),1833,1992,2391
+Saint Heliers North,3645,3705,3924
+Remuera Abbotts Park,3456,3693,3774
+Meadowbank East,2289,2493,2598
+Ellerslie Central,2871,3087,3306
+Royal Oak East (Auckland),2415,2568,2832
+Saint Heliers South,3648,3903,4080
+Hillsborough South (Auckland),2439,2469,2775
+Saint Johns West,2832,2880,3078
+Greenlane South,3081,3309,3618
+Remuera Waiatarua,2073,2181,2307
+Glendowie North,4047,4302,4398
+Onehunga West,3351,3492,3855
+Ellerslie West,99,144,147
+Onehunga North,3276,3513,3798
+Ellerslie East,2853,3084,3153
+Saint Johns East,2610,2616,2838
+Oneroa West,1287,1425,1434
+Glen Innes West,3819,3603,4413
+Ellerslie South,2214,2415,2580
+Stonefields West,0,1473,1980
+Onehunga Central,2991,3204,3249
+Glendowie South,3924,4149,4434
+Oranga,2805,2952,3198
+Mount Wellington North West,2049,2904,3129
+Panmure Glen Innes Industrial,153,252,321
+Onehunga-Te Papapa Industrial,618,840,870
+Te Papapa,2877,3060,3237
+Stonefields East,0,570,1812
+Glen Innes East-Wai O Taiki Bay,3855,3537,3447
+Penrose,675,645,843
+Mount Wellington North East,1797,2022,2067
+Mangere Bridge Ambury,3255,3309,3510
+Mount Wellington Ferndale,3450,3672,4158
+Point England,4227,4305,4923
+Bucklands Beach North,2889,2943,3000
+Mount Wellington East,2343,2556,2676
+Mount Wellington West,2601,2862,2985
+Panmure West,216,204,225
+Mangere Bridge,2601,2589,3051
+Oneroa East-Palm Beach,1137,1179,1254
+Tamaki,3933,3954,4278
+Panmure East,2703,3054,3426
+Mount Wellington Central,3987,4299,4827
+Bays Waiheke Island,9,24,0
+Sylvia Park,96,129,132
+Mangere Mountain View,2946,3363,3735
+Surfdale,1698,1881,2067
+Mount Wellington Industrial,6,9,18
+Half Moon Bay West,2601,2793,2844
+Auckland Airport,810,567,630
+Eastern Beach,2181,2136,2190
+Sunnyhills West-Pakuranga North,3279,3348,3465
+Favona North,2292,2553,2736
+Bucklands Beach Central,1800,1857,1848
+Farm Cove,2472,2508,2583
+Mangere North,1971,2046,2349
+Favona West,2163,2670,3105
+Ostend,1617,1734,1905
+Half Moon Bay North East,1989,2082,2124
+Mangere West,3942,3978,4341
+Pakuranga West,3708,4128,4323
+Mount Wellington South West,2088,2160,2391
+Sunnyhills East,3105,3267,3420
+Half Moon Bay South East,2835,2931,3138
+Favona East,3033,3291,3843
+Mount Wellington South East,2745,2679,2853
+Otahuhu Industrial,15,27,78
+Bucklands Beach South,3909,4017,4194
+Pakuranga Central,2868,3117,3366
+Awhitu,2538,2511,2919
+Harania North,3768,3606,3762
+Otahuhu Central,1023,1131,1356
+Mangere Central,3441,3348,3612
+Otahuhu North,3288,3546,3870
+Howick West,3753,3798,4050
+Pakuranga Heights North West,2580,2679,2721
+Mellons Bay,3594,3681,4017
+Pakuranga Heights East,2820,2961,3126
+Sutton Park,3546,3471,3831
+Otahuhu East,1896,2088,2307
+Mangere South,3090,3309,3594
+Onetangi,1155,1134,1302
+Harania South,3033,3066,3375
+Highland Park (Auckland),4191,4278,4512
+Otahuhu South West,3435,3336,3888
+Pakuranga Heights South West,3177,3159,3393
+Mangere Mascot,3420,3372,3681
+Waiheke East,822,903,1071
+Massey Road West,3309,3528,3753
+Otahuhu South,3246,3438,3666
+Howick Central,2949,3291,3405
+Massey Road North,2583,2697,3165
+Botany Downs West,2721,2682,2862
+East Tamaki,204,213,309
+Howick East,3096,3423,3612
+Burswood,1734,1623,1695
+Massey Road South,1674,1800,1782
+Middlemore,273,105,33
+Mangere South East,2886,3243,3786
+Botany Downs East,2079,2178,2292
+Grange,1773,1854,2187
+Golflands,2388,2373,2460
+Aorere North,1572,1653,1713
+Mangere East,2934,3294,3930
+Cockle Bay,4116,4080,4224
+Otara West,3237,3015,3369
+Aorere Central,1902,1959,2061
+Northpark North,2889,2880,2931
+Somerville,4536,4329,4473
+Northpark South,2178,2100,2163
+Papatoetoe North,3693,4092,4779
+Dingwall,2730,3060,3408
+Aorere South,3954,4404,4944
+Shelly Park,2760,2811,2850
+Otara Central,2631,2559,2730
+Huntington Park,1848,1974,1902
+Botany Central,0,3,3
+Botany North,2049,2100,2532
+Papatoetoe West,3855,4263,4755
+Papatoetoe Central,3861,4335,5085
+Sunkist Bay,2769,2979,3207
+Otara East,3726,3531,3930
+Redcastle,2508,2499,2463
+Botany East,1860,1842,1914
+Botany South,2835,2742,2865
+Manukau Central,726,801,771
+Papatoetoe East,3597,3840,4362
+Otara South,3591,3300,3720
+Ferguson,4383,4050,4389
+Papatoetoe South West,2790,3294,3729
+Botany Junction,105,162,180
+Dannemora North,2217,2262,2436
+Papatoetoe South,3225,3567,3972
+East Tamaki Heights,2193,2559,2751
+Te Puru,648,1587,3054
+Puhinui North,2823,3273,3852
+Dannemora South,2427,2646,2706
+Puhinui South,1887,2256,2526
+Rongomai West,2331,2181,2451
+Baverstock,2013,3705,3990
+Puhinui East,2013,2331,2679
+Turanga,2511,2802,3015
+Rongomai East,2124,2106,2283
+Ormiston North,456,1596,2163
+Maraetai,1863,2199,2346
+Chapel Downs,2907,3114,3330
+Wiri West,225,363,1176
+Clover Park North,4362,4173,4683
+Mission Heights North,102,3060,3369
+Clover Park South,3702,3768,4239
+Donegal Park,1548,2367,2637
+Ormiston South,54,1059,5514
+Mission Heights South,48,1899,2805
+Hilltop (Auckland),1806,2346,3381
+Wiri East,3642,3558,4179
+Goodwood Heights,3834,4071,4401
+Ormiston East,159,258,876
+Clendon Park North,3003,2841,3339
+Burbank,3189,3360,3960
+Tuscany Heights,840,1146,1443
+Totara Heights,2394,2340,2712
+Homai East,2553,2772,3366
+Homai West,3696,3747,4605
+The Gardens (Auckland),3072,3471,3909
+Clarks Beach,1368,1359,1428
+Clendon Park West,3000,2889,3261
+Hillpark North,2049,2190,2457
+Clendon Park East,1962,2064,2271
+Karaka Creek,1266,1326,1539
+Rowandale West,3015,3129,3471
+Rowandale East,3243,3354,3813
+Manurewa Central,2724,3189,3678
+Weymouth North,3246,3351,4911
+Hillpark South,2517,2826,3219
+Alfriston,2520,3480,3807
+Weymouth East,3147,3294,3747
+Leabank,3474,3714,4350
+Weymouth South,2880,3045,3555
+Manurewa East,2310,2505,2907
+Manurewa South,3135,3456,3924
+Randwick Park East,2145,2250,2532
+Wattle Downs West,2616,3258,3801
+Wattle Downs North,2175,2169,2448
+Randwick Park West,3408,3525,3618
+Kingseat-Karaka,2496,2550,2904
+Wattle Downs East,2022,2031,2247
+Takanini North,1872,1992,2475
+Takanini Industrial,42,66,36
+Conifer Grove West,2553,2520,2478
+Conifer Grove East,2019,2097,2232
+Takanini West,1926,2460,2826
+Takanini South,597,1485,4347
+Takanini Central,1155,1071,1161
+Ardmore,1191,1296,1386
+Glenbrook,1974,2034,2193
+Hingaia,483,1050,2202
+Takanini South East,867,1005,1458
+Kawakawa Bay-Orere,1746,1740,1992
+Papakura West,1518,1662,1788
+Clevedon,1344,1452,1515
+Papakura North,3339,3810,4185
+Pahurehure,3033,3051,3264
+Papakura Central,2490,2655,3207
+Papakura North East,1911,1995,2535
+Karaka Lakes,159,612,2166
+Papakura Kelvin,3909,3888,4515
+Papakura Massey Park,2436,2562,2862
+Rosehill,3303,3279,4071
+Patumahoe,1578,1719,2334
+Papakura East,1863,2457,3204
+Opaheke,2553,2592,2868
+Papakura Industrial,201,195,204
+Red Hill,2580,2487,2796
+Drury,1248,1104,1197
+Tamakae,2118,2325,2469
+Hamilton Estate,2283,2280,2496
+Drury Rural,2484,2652,2763
+Waiuku Central,789,1041,1314
+Waiuku East,1452,1641,1830
+Kendallvale,816,1035,1059
+Puni,1461,1530,1593
+Ramarama,1917,1929,1977
+Hunua,1107,1155,1353
+Pukekohe North West,3687,4203,4674
+Anselmi Ridge,426,1266,2448
+Pukekohe West,4089,4386,4980
+Cape Hill,831,1182,1551
+Rosa Birch Park,1557,1965,2082
+Rooseville Park,2367,2427,2562
+Cloverlea (Auckland),1866,2244,2412
+Pukekohe Central,285,306,369
+Pukekohe Hospital,1191,1506,1653
+Buckland,969,1041,1173
+Bombay Hills,1659,1620,1974
+Ararimu,1689,1836,2124
+Colville,1371,1290,1485
+Islands Thames-Coromandel District,18,15,12
+Coromandel,1494,1518,1743
+Inlets Thames-Coromandel District,0,9,3
+Mercury Bay North,1260,1317,1611
+Whitianga North,1014,1062,1491
+Whitianga South,2790,3345,4002
+Thames Coast,1710,1533,1704
+Cooks Beach-Ferry Landing,315,348,459
+Mercury Bay South,1170,1092,1224
+Kauaeranga,531,564,588
+Thames North,2022,1983,1995
+Thames Central,861,924,1044
+Thames South,3363,3267,3387
+Hikuai,231,219,237
+Totora-Kopu,684,777,867
+Tairua,1266,1227,1479
+Pauanui,801,825,1005
+Matatoki-Puriri,1062,1002,1059
+Whangamata Rural,402,357,432
+Whangamata,3561,3516,4074
+Miranda-Pukorokoro,663,786,849
+Hauraki Plains North,1089,1098,1155
+Hauraki Plains East,1338,1317,1365
+Ngatea,1182,1269,1452
+Hauraki Plains South,1536,1395,1533
+Paeroa Rural,1755,1674,1845
+Paeroa,3891,3798,4269
+Waihi Rural,1782,1812,2148
+Waihi North,1431,1527,1740
+Waihi East,1233,1218,1386
+Waihi South,1956,1917,2277
+Aka Aka,2556,2637,3102
+Mangatangi,858,930,1083
+Tuakau Rural,1335,1461,1581
+Tuakau North,2013,2580,3147
+Onewhero,1485,1542,1605
+Pokeno Rural,1263,1377,1668
+Tuakau South,1596,1692,1866
+Port Waikato-Waikaretu,729,732,783
+Pokeno,570,600,2517
+Pukekawa,1233,1230,1476
+Maramarua,1413,1479,1767
+Rangiriri,1029,1836,1833
+Te Akau,1755,1764,1968
+Inlets Waikato District,3,3,0
+Te Kauwhata,906,1134,1617
+Huntly Rural,2145,2100,2271
+Waerenga,879,855,915
+Huntly West,2904,2796,3153
+Huntly East,3852,4053,4752
+Raglan,2628,2706,3279
+Whitikahu,1794,1884,1968
+Te Uku,2028,2283,2748
+Taupiri-Lake Kainui,1752,1935,2220
+Ngaruawahia North,1398,1350,1782
+Ngaruawahia Central,2571,2424,2886
+Ngaruawahia South,1365,1590,1953
+Kainui-Gordonton,1497,1629,1734
+Te Kowhai,1509,1746,2061
+Whatawhata West,366,414,504
+Horotiu,513,498,624
+Horsham Downs,537,687,714
+Whatawhata East,1869,2214,2763
+Rotokauri,741,912,1017
+Hamilton Park,1062,1329,1593
+Eureka-Tauwhare,1539,1917,2142
+Tamahere North,2499,3177,4152
+Pukemoremore,1866,2097,2394
+Tamahere South,1530,1785,1974
+Tahuna-Mangateparu,1419,1491,1569
+Mangaiti,1380,1284,1338
+Tatuanui,1479,1338,1377
+Tahuroa,1581,1695,1794
+Morrinsville East,3921,4290,4812
+Morrinsville West,2682,2703,2949
+Te Aroha East,2259,2202,2529
+Te Aroha West,1551,1803,2025
+Waihou-Manawaru,1170,1131,1209
+Waitoa-Ngarua,1296,1152,1170
+Richmond Downs-Wardville,1311,1221,1278
+Waharoa-Peria,1314,1263,1521
+Okauia,891,972,1041
+Hinuera,1110,1104,1152
+Matamata North,2628,2925,3174
+Matamata South,3669,4161,4632
+Te Poi,819,801,840
+Te Rapa North,234,186,180
+Flagstaff North,231,786,3192
+Rotokauri-Waiwhakareke,375,333,546
+Flagstaff South,138,1581,2829
+Rototuna North,126,747,912
+Pukete West,2100,2016,2244
+Flagstaff East,3576,3531,3810
+Rototuna Central,2463,4122,4779
+Pukete East,2397,2280,2361
+Te Manatu,657,2787,3672
+Rototuna South,3891,4185,4428
+Te Rapa South,93,120,114
+Saint Andrews West,2796,2739,2880
+Saint Andrews East,2355,2256,2481
+Queenwood (Hamilton City),2238,2265,2382
+St James,1029,1710,1938
+Crawshaw,2892,2889,3249
+Huntington,1557,2445,2574
+Western Heights (Hamilton City),2241,2541,2913
+Nawton West,3555,3546,3663
+Nawton East,3711,3933,4212
+Chartwell,2397,2361,2502
+Forest Lake (Hamilton City),2130,2289,2487
+Chedworth,1722,1716,1821
+Beerescourt,2034,2136,2220
+Miropiko,2991,3177,3186
+Porritt,2274,2349,2634
+Dinsdale North,4056,4125,4383
+Maeroa,3303,3336,3726
+Dinsdale South,3492,3639,3966
+Fairfield (Hamilton City),3948,3993,4383
+Whitiora,1797,2043,2538
+Enderley North,2238,2241,2523
+Fairview Downs,2976,2982,3201
+Temple View,1344,1179,1185
+Swarbrick,1395,1878,2400
+Kahikatea,2889,2841,3465
+Frankton Junction,504,450,639
+Kirikiriroa,129,150,267
+Enderley South,2238,2451,2736
+Ruakura,831,900,1158
+Claudelands,2772,2853,3057
+Hamilton Central,672,669,798
+Hamilton Lake,3054,3210,3483
+Peachgrove,3222,3468,3675
+Hamilton East Village,2802,3015,3204
+Hamilton West,1422,1488,1671
+Greensboro,2397,2913,3795
+Hamilton East Cook,1965,2025,2046
+Melville North,2106,2400,2772
+Hamilton East,3549,3654,3951
+Melville South,2205,2190,2451
+Deanwell,2004,1998,2139
+Bader,2235,2208,2556
+Hillcrest West (Hamilton City),2340,2487,2667
+Hillcrest East (Hamilton City),2793,2895,3093
+Silverdale (Hamilton City),1929,1944,2088
+Glenview,2103,2145,2283
+Resthill,1968,2031,2439
+Fitzroy,1881,1872,2829
+Riverlea,2532,2583,2775
+Peacockes,291,327,348
+Te Pahu,1194,1269,1428
+Ngahinapouri,1326,1461,1668
+Lake Ngaroto,1047,1080,1170
+Kaipaki,1212,1335,1581
+Pirongia,1047,1122,1224
+Hautapu Rural,585,645,699
+Pokuru,1167,1263,1425
+Te Rahu,906,978,1167
+Fencourt,558,669,717
+Hautapu,405,561,474
+Karapiro,1794,1950,2334
+Cambridge North,237,1464,1737
+Cambridge West,2217,2364,2481
+Cambridge East,2625,2703,2808
+Cambridge Park-River Garden,156,408,1251
+Oaklands-St Kilda,642,660,1440
+Pukerimu,732,870,900
+Cambridge Central,858,804,855
+Te Awamutu North,927,1017,1101
+Te Awamutu West,1182,1275,1320
+Leamington West,1185,1386,1467
+Goodfellow Park,1578,1602,1788
+Leamington South,1506,1692,1752
+Leamington Central,2214,2199,2406
+Leamington East,1854,1860,1983
+Te Awamutu Stadium,1425,1536,1749
+Te Awamutu Central,372,360,402
+Pekerau,1770,1947,2442
+Fraser Street,1320,1326,1416
+Sherwin Park,1572,1557,1980
+St Leger,363,450,489
+Rotoorangi,1401,1548,1686
+Tokanui,426,441,435
+Kihikihi Central,1998,2022,2319
+Maungatautari,717,750,822
+Rotongata,822,819,834
+Inlets Otorohanga District,0,0,0
+Pirongia Forest,897,828,966
+Honikiwi,1176,1356,1581
+Te Kawa,1068,1074,1209
+Otorohanga,2655,2625,3027
+Maihiihi,1779,1848,1833
+Puniu,1500,1407,1488
+Tirau,2196,2106,2334
+Putararu Rural,2238,2223,2373
+Putararu,3930,3945,4314
+Kinleith,1113,1464,1446
+Paraonui,1791,1734,1824
+Parkdale,795,750,849
+Matarawa,2025,1899,2163
+Stanley Park,2055,2034,2241
+Strathmore (South Waikato District),2448,2214,2412
+Tokoroa Central,969,873,1032
+Moananui,3087,2832,3057
+Inlet Waitomo District,0,0,0
+Herangi,1179,1056,990
+Hangatiki,1059,1101,1185
+Aria,1359,1194,1290
+Te Kuiti West,2526,2358,2598
+Te Kuiti East,1968,1899,1974
+Waipa Valley,1269,1251,1221
+Tiroa,84,51,42
+Marotiri,2310,2214,2391
+Ohakuri,1434,1671,1842
+Lake Taupo Bays,1620,1578,1566
+Mapara,1038,1377,1941
+Inland water Lake Taupo,0,0,0
+Wairakei-Broadlands,1092,1152,1236
+Acacia Bay,1233,1425,1653
+Brentwood (Taupo District),1398,1629,1893
+Nukuhau-Rangatira Park,2058,2079,2442
+Taupo Central West,354,402,405
+Tauhara,1578,1539,1803
+Taupo Central East,2241,2229,2439
+Mountview,2784,2619,2601
+Bird Area,2103,1980,2235
+Hilltop (Taupo District),2553,2520,2721
+Waipahihi,1764,1881,2172
+Richmond Heights,2151,2106,2328
+Wharewaka,477,714,939
+Kaimanawa,57,6,180
+Waitahanui,690,642,795
+Turangi,3240,2952,3444
+Rangataiki,162,135,132
+Taharua,81,57,57
+Te More,0,0,0
+Waiau,276,327,333
+Waihi Beach-Bowentown,2058,2148,2484
+Tahawai,1743,1707,1833
+Athenree,612,675,804
+Aongatete,2565,2793,3279
+Katikati,3624,4095,5010
+Inlet Tauranga Harbour North,3,0,3
+Matakana Island,225,255,183
+Pahoia,2640,2670,3198
+Omokoroa,1968,2334,3210
+Omokoroa Rural,696,639,744
+Te Puna,2004,2013,2262
+Minden,1608,1731,2133
+Kaimai,1701,1752,2028
+Kopurererua,987,1035,1167
+Kaitemako (Western Bay of Plenty District),1341,1473,1752
+Waiorohi,1953,2190,2520
+Otawa,1650,1716,1932
+Te Puke West,2796,2892,3486
+Rangiuru,2376,2415,2676
+Te Puke East,4164,4500,5202
+Inlets Maketu,0,0,0
+Maketu,1176,1047,1197
+Pukehina Beach,960,615,804
+Pongakawa,2700,2673,3081
+Matua North,2805,2775,2859
+Inlet Tauranga Harbour South,9,6,0
+Mount Maunganui North,2568,2853,3267
+Matua South,2271,2373,2535
+Bethlehem North,1218,2388,3429
+Bellevue,3399,3537,3807
+Otumoetai North,3729,3750,4248
+Otumoetai South,3357,3405,3786
+Brookfield West,2373,2583,2931
+Bethlehem Central,3339,3654,4119
+Brookfield East,2577,2565,2823
+Mount Maunganui South,2619,2709,2916
+Tauranga Central,2289,2322,2625
+Mount Maunganui Central,147,252,327
+Judea,2247,2343,2604
+Te Reti,1605,1665,1863
+Bethlehem South,999,1008,1086
+Omanu Beach,2574,2619,2919
+Tauranga Hospital,1953,1911,2058
+Tauriko,195,216,177
+Gate Pa,3543,3627,4023
+Greerton South,657,591,690
+Tauranga South,4302,4347,4830
+Arataki North,2823,2877,3075
+Matapihi,681,675,729
+Pyes Pa West,144,720,3483
+Greerton North,3039,3144,3438
+Yatton Park,2265,2238,2634
+Pyes Pa North,2046,3669,4632
+Arataki South,2745,2739,2874
+Pyes Pa South,609,1293,1443
+Poike,804,738,789
+Te Maunga North,2988,3018,3246
+Maungatapu,2625,2676,2892
+Hairini,2952,2949,3330
+Pyes Pa East,450,534,657
+Te Maunga South,2628,2859,4146
+Kaitemako (Tauranga City),1371,1419,1497
+Ohauiti,2100,2682,3282
+Baypark-Kairua,501,468,591
+Welcome Bay West,2700,2679,2781
+Welcome Bay East,2256,2304,2556
+Pacific View,2427,2754,3015
+Welcome Bay South,1200,2265,3450
+Palm Beach North,2811,3054,3201
+Palm Beach South-Gravatt,3141,3384,3750
+Papamoa Beach North,2490,2604,2790
+Doncaster,1386,2289,3159
+Papamoa Beach South,1878,2334,2700
+Motiti,2001,2799,3312
+Wairakei,42,126,3345
+Tui Ridge,1455,1521,1617
+Arahiwi,150,177,156
+Ngongotaha Valley,1464,1410,1590
+Hamurana,963,1005,1032
+Ngongotaha East,1599,1632,1926
+Ngongotaha West,1260,1326,1527
+Inland water Lake Rotorua,0,0,0
+Ngongotaha South,1203,1296,1419
+Selwyn Heights,1128,1047,1134
+Pleasant Heights,1953,1824,2064
+Rotoiti-Rotoehu,1935,1659,1965
+Kawaha,1641,1773,1902
+Fairy Springs,1626,1572,1782
+Western Heights (Rotorua District),2139,1998,2340
+Pukehangi North,2595,2511,2706
+Pukehangi South,2346,2376,2571
+Mangakakahi Central,120,84,105
+Koutu,1848,1830,2094
+Mangakakahi West,1989,1971,2139
+Sunnybrook,1941,1884,2067
+Fordlands,2307,2118,2460
+Kuirau,927,921,1065
+Utuhina,1404,1377,1491
+Pomare,1494,1572,1713
+Rotorua Central,471,528,537
+Hillcrest (Rotorua District),1716,1623,1917
+Victoria,1638,1752,2094
+Waiohewa,891,963,1020
+Glenholme North,2313,2394,2643
+Springfield South,1938,1851,1995
+Springfield North,1764,1698,1785
+Glenholme South,1947,1881,2022
+Owhata West,2724,2763,3147
+Holdens Bay-Rotokawa,1257,1164,1248
+Ngapuna,327,285,357
+Fenton Park,1395,1452,1698
+Tihiotonga-Whakarewarewa,813,675,771
+Owhata East,2715,2733,3069
+Lynmore,3129,3255,3288
+Ngakuru,1701,1695,1770
+Kaingaroa-Whakarewarewa,1902,1881,1887
+Golden Springs,1764,1797,1767
+Manawahe,822,888,996
+Matata-Otakiri,1608,1671,1737
+Onepu Spring,1125,1086,1221
+Edgecumbe,1626,1638,1644
+Thornton-Awakeri,2016,2115,2289
+Te Teko Lakes,1707,1449,1758
+Coastlands,1479,1500,1776
+Whakatane West,3087,3066,3336
+Whakatane Central,3195,3054,3372
+Trident,3159,3105,3402
+Allandale,2451,2334,2514
+Mokorua Bush,1326,1326,1395
+Wainui,1347,1365,1497
+Ohope,2853,2847,3177
+Inlet Ohiwa Harbour West,0,0,0
+Galatea,1431,1320,1407
+Waingarara-Waimana,2196,2256,2361
+Murupara,1872,1671,1815
+Monika Reserve,3000,2838,3144
+Kawerau Industrial,60,45,30
+Tarawera Park,3858,3480,3972
+Inlet Ohiwa Harbour East,0,0,0
+Waiotahi,1368,1368,1518
+Cape Runaway,1680,1533,1449
+Woodlands,891,921,1047
+Opotiki,3552,3150,3759
+Otara-Tirohanga,1188,1167,1176
+Oponae,300,294,330
+East Cape,1563,1419,1389
+Waipaoa,2127,1935,1953
+Ruatoria-Raukumara,1287,1203,1233
+Tokomaru,1056,933,954
+Hangaroa,1539,1458,1539
+Wharekaka,1914,1728,1851
+Te Arai,1179,1056,1128
+Hexton,2496,2688,2946
+Lytton,522,999,1371
+Makaraka-Awapuni,864,828,969
+Riverdale,1116,1179,1275
+Te Hapara North,1857,1950,2013
+Mangapapa North,1263,1278,1425
+Elgin,2301,2295,2583
+Te Hapara South,1983,1971,2178
+Mangapapa East,1125,1182,1179
+Mangapapa South,1872,1734,1926
+Te Hapara East,1821,1848,1992
+Centennial Crescent,1443,1380,1566
+Whataupoko East,1749,1743,1812
+Whataupoko West,1959,1917,2052
+Gisborne Central,267,306,300
+Kaiti North,2046,1971,2178
+Kaiti South,2871,2673,3060
+Outer Kaiti,2607,2247,2565
+Tamarau,2265,2244,2367
+Wainui-Okitu,1356,1485,1716
+Maungataniwha-Raupunga,1242,1167,1188
+Inland water Lake Waikaremoana,0,0,0
+Frasertown-Ruakituri,927,861,861
+Whakaki,726,672,675
+Wairoa,4314,4089,4527
+Mahia,1272,1104,1119
+Puketitiri-Tutira,1743,1752,1839
+Sherenden-Crownthorpe,1020,1206,1317
+Maraekakaho,1185,1311,1392
+Puketapu-Eskdale,2052,2184,2673
+Omahu-Pakowhai,1161,1092,1434
+Bridge Pa,1023,1083,1140
+Twyford,774,765,807
+Poukawa,1293,1272,1365
+Flaxmere West,2130,2205,2631
+Omahu Strip,144,156,177
+Lochain Park,2775,2592,2940
+Flaxmere Park,2388,2289,2604
+Flaxmere South,2502,2277,2790
+Irongate,306,321,345
+Frimley,1713,2478,2859
+Camberley,2055,1917,2196
+Clive,1875,2082,2247
+St Leonards,2223,2259,2646
+Mahora,1986,2172,2556
+Raureka,2841,2712,3033
+Cornwall Park,2733,2793,3048
+Tomoana,270,237,306
+Longlands-Pukahu,1785,1728,1908
+Raceway Park,1758,1815,1920
+Karamu,1179,1218,1311
+Hastings Central,459,366,444
+Tomoana Crossing,2307,2262,2502
+Akina Park,2094,2199,2313
+Queens Square,1779,1833,1968
+Mayfair,2631,2688,2979
+Parkhaven,2532,2622,2880
+Parkvale,1890,2049,2160
+Mangateretere,981,1053,1149
+Haumoana-Te Awanga,1926,1923,1926
+Lucknow,1362,1347,1461
+Karanema-St Hill,1638,1848,1950
+Havelock North-Central,384,420,441
+Brookvale,1662,1980,2433
+Iona,2460,2499,2667
+Hereworth,2685,2802,2865
+Te Mata Hills,624,870,984
+Havelock Hills,1407,1401,1530
+Kahuranaki,1104,1173,1413
+Bay View,1773,1920,2238
+Poraiti Hills,651,666,732
+Poraiti Flat,6,792,1278
+Westshore,1074,1059,1143
+Inlet Napier City,0,0,0
+Onekawa West,111,246,270
+Ahuriri,858,1089,1161
+Taradale West,1431,1686,1857
+Greenmeadows West,1605,1935,2025
+Taradale South,2421,2514,2685
+Bluff Hill,2625,2610,2610
+Hospital Hill,2775,2643,2892
+Tamatea West,1836,1833,2001
+Tamatea North,1602,1572,1683
+Taradale Central,2472,2532,2607
+Tamatea East,1683,1635,1731
+Marewa West,1581,1671,1734
+Greenmeadows Central,1437,1455,1473
+Onekawa Central,1245,1320,1503
+Pirimai West,1536,1476,1611
+Napier Central,405,414,420
+Greenmeadows South,2103,2001,2064
+Nelson Park,2043,2139,2181
+Bledisloe Park,2052,2181,2319
+Pirimai East,2145,2121,2241
+Onekawa East,1539,1458,1632
+Tareha Reserve,2949,2919,2988
+Marewa East,3033,3000,3387
+Onekawa South,2859,2922,3183
+McLean Park,2478,2406,2550
+Maraenui,3537,3093,3504
+Meeanee-Awatoto,1494,1932,2541
+Mangaonuku,864,834,948
+Makaretu,2244,2295,2430
+Waipawa,1926,1971,2085
+Waipukurau West,2529,2274,2517
+Mangarara,2001,2076,2400
+Waipukurau East,1632,1614,1869
+Taurekaitai,1758,1662,1893
+Port Taranaki,18,6,9
+Spotswood,3468,3450,3633
+Omata,771,837,939
+Oakura,1377,1437,1539
+Moturoa,1821,1719,1809
+Kaitake,1554,1632,1932
+Blagdon-Lynmouth,2415,2397,2523
+Kawaroa,2250,2292,2328
+New Plymouth Central,1152,1152,1110
+Marfell,1605,1530,1665
+Whalers Gate,1320,1869,2274
+Strandon,2487,2514,2535
+Westown,4227,4266,4404
+Bell Block West,3054,3678,4242
+Bell Block East,1524,2181,2799
+Waiwhakaiho-Bell Block South,123,117,105
+Lower Vogeltown,2730,2871,2865
+Hurdon,1851,2088,2220
+Frankleigh Park,2880,2832,2979
+Merrilands,2787,2811,2925
+Ferndale,669,690,738
+Welbourn,2796,2997,3261
+Fitzroy-Glen Avon,2880,3270,3504
+Waitara West,3612,3672,4011
+Upper Vogeltown,2091,2133,2745
+Highlands Park (New Plymouth District),2490,3009,3318
+Paraite,561,699,765
+Waitara East,2679,2811,2907
+Lepperton-Brixton,1296,1524,1725
+Mangorei,1269,1683,1998
+Mount Messenger,756,822,864
+Mangaoraka,1251,1548,1818
+Tikorangi,1590,1776,1902
+Everett Park,1848,2052,2175
+Inglewood,3087,3243,3543
+Tarata,606,582,570
+Pembroke,1425,1461,1542
+Douglas,693,645,672
+Toko,1263,1272,1350
+Stratford North,1836,1857,1941
+Whangamomona,168,150,126
+Stratford Central,1833,1917,2061
+Stratford South,1668,1695,1782
+Cape Egmont,2100,2106,2067
+Taungatara,1431,1380,1326
+Opunake,1365,1335,1401
+Kaponga-Mangatoki,1371,1281,1305
+Manaia-Kapuni,1620,1647,1551
+Eltham,1899,1854,1935
+Okaiawa,1167,1134,1182
+Te Roti-Moeroa,798,813,789
+Egmont Showgrounds,1401,1542,1734
+Normanby-Tawhiti,1380,1494,1755
+Ohangai,588,570,537
+Turuturu,1755,1779,1893
+King Edward Park,1410,1407,1521
+Ramanui,1872,1911,2052
+Hawera Central,2379,2487,2592
+Mangawhio,729,747,723
+Manutahi-Waitotora,2082,1992,1980
+Patea,1143,1098,1191
+Otangiwai-Ohura,1233,1086,1020
+Ngapuke,1356,1296,1263
+Taumarunui North,1776,1566,1677
+Taumarunui Central,1611,1458,1485
+Taumarunui East,1608,1425,1545
+National Park,1131,1065,1050
+Tangiwai,1368,1227,1281
+Raetihi,1035,1002,1038
+Ohakune,1095,984,1182
+Waiouru,1362,741,765
+Upper Whanganui,1215,1152,1155
+Mowhanau,1158,1302,1293
+Brunswick-Papaiti,1140,1284,1371
+Castlecliff West,1491,1314,1593
+Otamatea (Whanganui District),1317,1563,1731
+Castlecliff East,1806,1746,1917
+Springvale North,228,291,348
+Lower Aramoho,1824,1707,1869
+St Johns Hill East,951,1059,1173
+St Johns Hill West,2145,2085,2202
+Titoki,2721,2568,2943
+Springvale West,1422,1440,1572
+Springvale East,1362,1383,1452
+Upper Aramoho,2142,1986,2097
+Balgownie,123,126,120
+Laird Park,2145,2097,2247
+Wembley Park,1767,1590,1695
+College Estate,1116,1143,1284
+Whanganui East-Williams Domain,2151,2160,2277
+Gonville West,1677,1551,1707
+Gonville North,2418,2379,2565
+Cornmarket,1365,1200,1350
+Whanganui East-Riverlands,2145,2070,2184
+Kaitoke-Fordell,1398,1773,1770
+Whanganui Central,621,489,606
+Gonville South,2058,2004,2004
+Bastia-Durie Hill,2139,2112,2130
+Putiki,594,579,666
+Mokai Patea,1911,1761,1716
+Ngamatea,39,27,24
+Turakina,1260,1236,1254
+Otairi,1287,1227,1272
+Taihape,1839,1575,1716
+Marton Rural,924,963,987
+Marton North,2793,2721,3030
+Parewanui,786,849,855
+Marton South,2139,2073,2238
+Bulls,1731,1590,1935
+Kiwitea,1410,1443,1515
+Tokorangi,1698,1863,2061
+Ohakea-Sanson,1122,1230,1290
+Oroua Downs,1167,1044,1254
+Awahuri,1767,1845,2046
+Pohangina-Apiti,1065,1095,1227
+Mount Taylor,105,264,564
+Taikorea,1161,1194,1284
+Makino,2493,2691,3045
+Sandon,1938,2025,2169
+Kimbolton North,2367,2688,3024
+Warwick,1371,1467,1491
+Kimbolton West,2364,2325,2559
+Feilding Central,897,915,939
+Kimbolton South,2037,2013,2121
+Kauwhata,1872,1917,1971
+Taonui,1230,1437,1599
+Newbury,1806,1896,1905
+Palmerston North Airport,306,294,324
+Milson North,2208,2463,2478
+Cloverlea (Palmerston North City),1989,1866,1893
+Tremaine,426,399,471
+Milson South,2778,2826,2973
+Whakarongo,1170,1407,1644
+Westbrook,2799,2772,2997
+Takaro North,3315,3126,3294
+Pioneer West,240,231,264
+Palmerston North Hospital,2436,2406,2562
+Highbury East,2652,2553,2958
+Park West,1953,1821,1908
+Takaro South,2316,2445,2454
+Roslyn (Palmerston North City),2169,2229,2364
+Kelvin Grove West,2547,2649,2631
+Kelvin Grove North,1347,2103,2238
+Papaioea North,2457,2289,2511
+Palmerston North Central,1314,1218,1116
+Awapuni North,3405,3321,3504
+Terrace End,3171,3327,3462
+Maraetarata,1311,1314,1422
+Papaioea South,1890,1884,1947
+Royal Oak (Palmerston North City),906,2016,2334
+West End,2706,2712,2832
+Awapuni South,3231,3210,3366
+Milverton,1848,1878,1950
+Ruamahanga,2607,2571,2715
+Esplanade,1932,2004,2082
+Hokowhitu Central,2199,2277,2343
+Hokowhitu East,3042,3036,3111
+Turitea,696,696,444
+Ruahine,1560,1515,1566
+Linton Camp,1752,1335,1668
+Ashhurst,2433,2649,2934
+Hokowhitu South,1902,1929,1980
+Aokautere,567,666,765
+Pihauatua,1089,1185,1227
+Aokautere Rural,537,645,690
+Poutoa,2700,2907,3318
+Norsewood,1545,1548,1611
+Papatawa,1293,1326,1302
+Mangatainoka,1752,1749,1743
+Woodville,1401,1401,1548
+Dannevirke West,2271,2100,2148
+Dannevirke East,3288,2979,3360
+Waitahora,597,570,609
+Kaitawa,612,606,618
+Pahiatua,2547,2403,2682
+Nireaha-Eketahuna,1497,1452,1566
+Owhanga,825,717,750
+Mara,3,6,3
+Kere Kere,807,858,915
+Foxton Beach,1701,1620,1884
+Foxton North,1398,1296,1383
+Foxton South,1560,1590,1764
+Waitarere,1875,1875,2142
+Waikawa (Horowhenua District),756,738,750
+Miranui,1533,1587,1788
+Donnelly Park,990,1083,1191
+Ohau-Manakau,1791,1785,2154
+Kawiu South,2259,2307,2409
+Makomako,1275,1371,1413
+Kawiu North,1581,1650,1770
+Levin Central,945,960,1047
+Tararua,900,897,1152
+Shannon,1362,1236,1398
+Queenwood (Horowhenua District),1962,1941,2076
+Playford Park,1629,1689,1815
+Fairfield (Horowhenua District),1308,1311,1473
+Taitoko,1845,1743,1911
+Waiopehu,1278,1305,1422
+Makahika,807,858,960
+Kimberley,306,399,447
+Kapiti Island,12,9,0
+Otaki Beach,1689,1620,1818
+Forest Lakes (Kapiti Coast District),591,624,663
+Otaki,2853,3099,3489
+Te Horo,1116,1287,1422
+Waitohu,813,927,1011
+Waikanae Beach,2892,3048,3249
+Peka Peka,357,504,612
+Paraparaumu Beach North,3429,3780,4056
+Paraparaumu Beach West,2091,2292,2364
+Waikanae Park,1902,1953,2085
+Paraparaumu Beach East,2490,2508,2667
+Otaihanga,750,735,804
+Paraparaumu North,2715,3132,3555
+Waikanae West,3453,3459,4374
+Otaki Forks,660,717,777
+Paraparaumu Central,3675,3723,3996
+Maungakotukutuku,1044,1212,1335
+Raumati Beach West,2490,2709,2865
+Waikanae East,1959,2142,2391
+Tararua Forest Park,0,0,0
+Raumati Beach East,1980,2139,2376
+Paraparaumu East,2094,2223,2265
+Raumati South,3546,3594,3753
+Paekakariki,1602,1668,1746
+Mana Island,0,3,0
+Pukerua Bay,1725,1896,1962
+Paekakariki Hill,351,363,375
+Plimmerton,2052,2115,2142
+Titahi Bay North,2433,2457,2688
+Titahi Bay South,3246,3564,3744
+Elsdon-Takapuwahia,2217,2157,2418
+Pauatahanui,774,924,966
+Onepoto,1845,1800,1917
+Camborne,1665,1908,2013
+Inlet Porirua Harbour,0,0,0
+Paremata,2280,2373,2463
+Porirua Central,366,435,261
+Papakowhai,2304,2280,2268
+Aotea,117,2292,3138
+Postgate,2424,2493,2754
+Ascot Park,2661,2625,2862
+Whitby,2907,2919,3042
+Porirua East,2130,2085,2235
+Endeavour,3033,3432,4617
+Cannons Creek North,3273,3093,3474
+Waitangirua,4071,4020,4398
+Ranui Heights,1347,1362,1326
+Cannons Creek East,3771,3594,3879
+Cannons Creek South,1560,1533,1620
+Akatarawa,555,606,648
+Riverstone Terraces,660,1383,1776
+Heretaunga,2223,2199,2496
+Birchville-Brown Owl,3339,3327,3519
+Poets Block,2235,2241,2472
+Brentwood (Upper Hutt City),2094,2097,2241
+Silverstream (Upper Hutt City),3321,3264,3531
+Elderslea,3183,3225,3429
+Trentham North,2766,2940,3084
+Totara Park,2853,2874,2901
+Trentham South,1170,1251,1809
+Mangaroa,1611,1878,2034
+Ebdentown,2352,2349,2481
+Wallaceville,2226,2253,2388
+Maoribank,2565,2841,3318
+Te Marua,918,969,975
+Pinehaven,1848,1890,1983
+Clouston Park,2082,2076,2289
+Upper Hutt Central,417,513,615
+Belmont Park,369,336,333
+Maungaraki,3552,3777,3987
+Korokoro,1284,1329,1482
+Kelson,2619,2697,2835
+Normandale,1941,1938,2010
+Belmont (Lower Hutt City),2346,2478,2691
+Petone Central,882,909,954
+Tirohanga,1197,1164,1287
+Manor Park,381,390,417
+Alicetown-Melling,2535,2700,2793
+Taita North,3018,2592,3075
+Boulcott,2451,2487,2613
+Hutt Central North,762,894,951
+Avalon West,2367,2469,2628
+Stokes Valley Central,1983,2067,2112
+Taita South,3039,2946,3078
+Petone East,3303,3279,3906
+Hutt Central South,2976,3060,3225
+Stokes Valley North,3183,3345,3435
+Petone Esplanade,2361,2487,2631
+Epuni West,3087,3015,3090
+Avalon East,2295,2334,2466
+Woburn,1734,1692,1752
+Naenae Central,3291,3192,3420
+Waterloo West,2160,2127,2283
+Epuni East,2976,2871,2949
+Gracefield,75,99,141
+Moera,1608,1533,1626
+Delaney,2424,2439,2604
+Waiwhetu,3951,3963,4305
+Waterloo East,2976,2997,3096
+Naenae North,2463,2439,2535
+Manuka,1638,1680,1725
+Naenae South,2532,2553,2745
+Towai,0,0,0
+Arakura,2469,2445,2793
+Eastern Bays,2016,1944,2079
+Pencarrow,573,588,651
+Wainuiomata West,3336,3432,3570
+Glendale,3633,3801,4050
+Wainuiomata Central,1635,1680,1803
+Eastbourne,2700,2721,2709
+Homedale East,3096,2895,3063
+Homedale West,2475,2454,2631
+Makara-Ohariu,768,852,951
+Tawa North,3060,3009,3189
+Linden,2814,3045,3258
+Tawa South,3360,3300,3426
+Tawa Central,2445,2589,2643
+Grenada North,2007,2163,2286
+Churton Park North,2823,3234,3858
+Takapu-Horokiwi,258,246,273
+Churton Park South,3030,3285,3396
+Johnsonville West,2847,3171,3369
+Grenada Village,981,1248,1704
+Johnsonville North,2772,3006,3243
+Paparangi,2664,2739,2874
+Ngaio North,2289,2442,2547
+Johnsonville Central,2157,2403,2802
+Broadmeadows,1485,1536,1629
+Crofton Downs,1410,1548,1641
+Johnsonville South,1464,1656,1692
+Khandallah Reserve,2070,2052,2037
+Karori Park,4119,4335,4566
+Newlands North,3411,3714,3846
+Ngaio South,2970,3057,3087
+Newlands South,3345,3561,3978
+Woodridge,975,1266,1605
+Karori North,2475,2553,2589
+Khandallah North,2568,2604,2724
+Wilton,2034,2049,2205
+Khandallah South,1851,1869,2004
+Wadestown,3549,3516,3753
+Karori South,3900,4248,4518
+Onslow,1362,1689,1818
+Karori East,3510,3543,3561
+Pipitea-Kaiwharawhara,597,849,960
+Northland (Wellington City),3261,3357,3552
+Thorndon,3477,3687,4020
+Wellington Botanic Gardens,1134,1119,1119
+Kelburn,1989,1959,2157
+Aro Valley,3432,3621,3762
+Wellington University,1164,1503,1494
+Wellington Central,1992,2886,3000
+Brooklyn North,2028,2112,2211
+Dixon Street,2745,3651,4185
+Vivian West,2268,2832,3483
+Courtenay,828,1521,1761
+Brooklyn East,2601,2709,2712
+Mount Cook West,4203,4161,4221
+Vivian East,1545,2223,2394
+Brooklyn South,1494,1686,1785
+Oriental Bay,1428,1383,1389
+Mount Cook East,2310,2442,2637
+Mount Victoria,4338,4398,4527
+Roseneath,1692,1731,1788
+Owhiro Bay,1824,1893,1998
+Kingston-Mornington-Vogeltown,2889,2928,3165
+Newtown North,1938,2019,2124
+Newtown West,2694,3138,3414
+Hataitai North,3819,3852,4032
+Evans Bay,930,1038,1122
+Berhampore,3597,3609,3870
+Hataitai South,1350,1398,1461
+Maupuia,1557,1599,1584
+Newtown South,3249,3243,3642
+Kilbirnie Central,2622,2622,2688
+Island Bay West,3141,3159,3381
+Melrose,1182,1212,1299
+Island Bay East,3261,3447,3516
+Miramar North,1278,1305,1347
+Kilbirnie East,2268,2181,2154
+Lyall Bay,2580,2595,2673
+Miramar Central,1779,1854,1971
+Southgate,1173,1176,1164
+Karaka Bay-Worser Bay,1419,1443,1503
+Houghton Bay,1488,1551,1677
+Miramar East,2823,2868,3003
+Miramar South,3330,3459,3510
+Rongotai,63,63,48
+Strathmore (Wellington City),3768,3702,3828
+Seatoun,2139,2235,2319
+Kopuaranga,771,855,915
+Upper Plain,1044,1086,1224
+Opaki,852,1014,1140
+Ngaumutawa,1380,1377,1491
+Solway North,1980,2142,2346
+Lansdowne West,1416,1386,1596
+Masterton Central,678,606,711
+Kuripuni,1581,1638,1653
+Douglas Park,1887,1905,2016
+Solway South,2943,3012,3459
+Lansdowne East,2451,2532,2715
+Cameron and Soldiers Park,1785,1983,2160
+Whareama,1290,1281,1410
+Homebush-Te Ore Ore,960,942,1050
+McJorrow Park,1608,1593,1677
+Mount Holdsworth,1341,1527,1767
+Carterton North,1950,2241,2526
+Kokotau,909,1149,1221
+Carterton South,2187,2499,2814
+Gladstone (Carterton District),711,816,870
+Tauherenikau,972,1221,1353
+Kahutara,933,975,1035
+Featherston,2343,2250,2487
+Inland water Lake Wairarapa,0,0,0
+Greytown,2103,2238,2466
+Aorangi Forest,1209,1374,1464
+Martinborough,1329,1473,1767
+Oceanic Three Kings Islands,0,0,0
+Three Kings Islands,0,0,0
+Oceanic Northland Region,30,0,3
+Inlet Doubtless Bay,0,0,0
+Inlet Kaipara Harbour North,0,0,0
+Oceanic Waikato Region East,3,0,0
+Inlets Waikato Region,0,0,0
+Oceanic Waikato Region West,0,0,0
+Oceanic Bay of Plenty Region,0,0,0
+Islands Bay of Plenty Region,27,27,27
+Oceanic Taranaki Region,18,3,0
+Inlet Port Taranaki,0,0,0
+Oceanic Gisborne Region,39,0,0
+Oceanic Manawatu-Wanganui Region West,0,0,0
+Oceanic Hawke's Bay Region,0,0,0
+Inlet Port Napier,24,0,0
+Oceanic Wellington Region,0,0,0
+Inlet Wellington Harbour,12,0,0
+Bare Island,0,0,0
+Oceanic Manawatu-Wanganui Region East,0,0,0
+Oceanic Tasman Region,0,0,0
+Golden Bay/Mohua,2256,2310,2421
+Inlets Golden Bay,0,12,0
+Takaka,1152,1236,1335
+Pohara-Abel Tasman,1422,1443,1470
+Takaka Hills,1143,1098,1185
+Kaiteriteri-Riwaka,1464,1539,1761
+Upper Moutere,1677,1830,1962
+Lower Moutere,1374,1509,1683
+Motueka North,1962,2175,2478
+Motueka West,2070,2151,2523
+Motueka East,2592,2784,3006
+Inlets Motueka,0,0,0
+Golden Downs,1740,1710,1827
+Moutere Hills,2226,2613,3177
+Ruby Bay-Mapua,1947,2121,2562
+Murchison-Nelson Lakes,1176,1182,1290
+Inlet Waimea West,3,6,3
+Islands Tasman District,93,96,99
+Waimea West,1038,1089,1137
+Appleby,744,783,786
+Wakefield,1974,2301,2448
+Richmond West (Tasman District),756,750,924
+Wakefield Rural,1176,1173,1248
+Brightwater,1827,1794,2133
+Hope,912,888,930
+Richmond Central (Tasman District),1830,1791,1848
+Ben Cooper Park,2253,2301,2355
+Richmond South (Tasman District),540,579,618
+Wilkes Park,1959,2148,2304
+Templemore,1509,1761,2004
+Easby Park,2541,2589,2754
+Fairose,930,1002,1620
+Aniseed Valley,345,396,492
+Nelson Rural,1536,1704,1896
+Inlets Nelson City,3,3,57
+Marybank,906,1011,1068
+Port Nelson,99,81,33
+Nelson Airport,96,105,96
+Tahunanui,2493,2589,2745
+Britannia,1566,1650,1767
+Atawhai,2208,2556,2790
+Broadgreen-Monaco,2298,2298,2376
+Washington,2526,2469,2847
+Tahuna Hills,2430,2652,2847
+Nelson Central-Trafalgar,483,579,675
+The Wood,2790,2835,2907
+Toi Toi,1548,1548,1659
+Nayland,1632,1725,1899
+Aldinga,2448,2580,3168
+Victory,1560,1512,1611
+Rutherford,2475,2490,2583
+Maitlands,1932,2022,2148
+Maitai,1332,1314,1362
+Grampians,1941,2235,2412
+Saxton,54,60,57
+Suffolk,1803,2625,2721
+Omaio,2310,2718,3387
+Enner Glynn,2706,2760,2916
+Daelyn,102,462,852
+The Brook,1605,1857,1992
+Marlborough Sounds West,1890,1806,1986
+Marlborough Sounds Coastal Marine,51,33,21
+Marlborough Sounds East,2043,1953,1923
+Upper Wairau,1692,1746,1938
+Waikawa (Marlborough District),1119,1272,1464
+Waitohi (Marlborough District),2928,2745,3039
+Tuamarina,1092,1185,1263
+Awatere,1608,1626,1617
+Renwick,1962,2253,2418
+Lower Wairau,1176,1167,1212
+Woodbourne,1914,1653,2094
+Spring Creek-Grovetown,990,972,1071
+Springlands,2799,3072,3321
+Yelverton,2217,2304,2559
+Mayfield,1470,1539,1674
+Whitney West,2550,2487,2652
+Blenheim Central,1110,1068,1152
+Riversdale-Islington,2151,2070,2319
+Whitney East,1950,2172,2394
+Redwoodtown West,2418,2469,2613
+Witherlea West,1881,2181,2601
+Redwoodtown East,2466,2592,2742
+Riverlands,390,405,465
+Witherlea East,2682,2652,2808
+Inlet Wairau River,0,0,0
+Kaikoura Ranges,1419,1545,1689
+Kaikoura,2202,2010,2223
+Karamea,798,768,714
+Inlets Buller District,0,3,0
+Westport North,2037,2037,1893
+Westport Rural,975,1230,1260
+Westport South,2472,2718,2496
+Buller Coalfields,939,987,909
+Charleston (Buller District),516,657,522
+Inangahua,981,1011,864
+Reefton,981,1056,927
+Barrytown,918,909,939
+Runanga,1233,1248,1185
+Cobden,1710,1656,1551
+Blaketown,864,840,810
+Greymouth Central,1224,1044,978
+King Park,1176,1092,1053
+Marsden,1176,1236,1221
+Karoro,1008,1053,1017
+Rutherglen-Camerons,1071,1197,1332
+Greymouth Rural,564,663,693
+Dobson,807,801,828
+Nelson Creek,717,714,669
+Lake Brunner,753,918,1065
+Haast,300,240,258
+Westland Glaciers-Bruce Bay,963,876,1074
+Arahura-Kumara,954,1167,1233
+Hokitika,3078,2967,2892
+Inlets Westland District,0,0,0
+Hokitika Rural,1287,1359,1440
+Waitaha,438,471,450
+Whataroa-Harihari,753,612,642
+Hokitika Valley-Otira,636,612,651
+Hanmer Range,216,249,261
+Amuri,2001,2097,2223
+Hanmer Springs,729,840,960
+Upper Hurunui,1365,1425,1473
+Parnassus,1272,1308,1323
+Ashley Forest,522,642,669
+Omihi,1194,1197,1242
+Balcairn,1872,2190,2343
+Amberley,1305,1581,2067
+Okuku,495,648,726
+Ashley Gorge,690,1002,1134
+Oxford,1728,1929,2214
+Starvation Hill-Cust,1389,1950,2217
+Loburn,1338,1941,2175
+Eyrewell,918,1521,1806
+West Eyreton,1101,1374,1464
+Ashley-Sefton,1710,1953,2139
+Fernside,936,1224,1326
+Rangiora North West,297,1341,2133
+Kingsbury,1833,2115,2778
+Ashgrove,1431,1479,1530
+Rangiora North East,1782,1791,1812
+Oxford Estate,270,873,1314
+Rangiora Central,45,36,36
+Rangiora South West,2298,2361,2340
+Lilybrook,2913,2955,2949
+Waikuku,1413,1458,1635
+Mandeville-Ohoka,1827,2448,3210
+Rangiora South East,558,1320,2178
+Southbrook,738,798,771
+Swannanoa-Eyreton,699,906,954
+Tuahiwi,858,963,945
+Woodend,2661,2739,2784
+Pegasus,18,1017,2637
+Clarkville,1122,1320,1401
+Pegasus Bay,1158,1059,1047
+Kaiapoi North West,2478,2178,2085
+Silverstream (Waimakariri District),54,39,819
+Sovereign Palms,726,1404,3405
+Kaiapoi West,1254,1272,1257
+Kaiapoi Central,2532,2247,2169
+Kaiapoi South,1962,1842,1827
+Kaiapoi East,1596,492,279
+McLeans Island,138,234,198
+Paparua,936,801,1002
+Yaldhurst,714,1434,1602
+Christchurch Airport,183,168,177
+Clearwater,513,621,699
+Belfast West,1740,1866,1908
+Harewood,1428,1401,1386
+Brooklands-Spencerville,1746,1134,735
+Styx,939,1134,1092
+Belfast East,1929,2034,2310
+Northwood,2460,3537,3567
+Russley,861,906,981
+Regents Park,981,1002,1167
+Hawthornden,2442,2511,2493
+Bishopdale North,4035,4164,4203
+Casebrook,3912,3969,4095
+Bishopdale West,2799,2802,2862
+Templeton,1569,1788,1797
+Islington,810,906,969
+Burnside Park,2982,3069,3243
+Marshland,783,759,789
+Avonhead North,1410,1365,1413
+Redwood North,2832,2808,2781
+Broomfield,1839,2046,2571
+Redwood West,2277,2166,2202
+Avonhead West,1869,1782,1833
+Bishopdale South,2118,2091,2241
+Islington-Hornby Industrial,417,381,342
+Burnside,3348,3360,3489
+Hei Hei,3114,3390,3471
+Papanui North,1917,1983,1965
+Avonhead East,2607,2622,2778
+Redwood East,3222,3138,3201
+Avonhead South,3060,2994,3219
+Riccarton Racecourse,1170,1215,1206
+Bryndwr North,3216,3396,3381
+Northlands (Christchurch City),120,123,123
+Papanui West,2802,2844,2910
+Ilam North,3414,3468,3729
+Hornby West,2235,2328,2493
+Hornby Central,156,120,135
+Northcote (Christchurch City),2547,2526,2622
+Jellie Park,2928,2973,3009
+Ilam South,2871,2958,3204
+Bryndwr South,2856,2700,2898
+Papanui East,2265,2403,2385
+Sockburn North,3564,3852,4023
+Hornby South,4068,4284,4443
+Ilam University,2247,2574,2424
+Prestons,162,237,3048
+Strowan,3645,3399,3507
+Fendalton,2079,2052,1998
+Waitikiri,1707,2427,2733
+Mairehau North,2094,2748,3123
+Bush Inn,2406,2664,3090
+Awatea North,1965,2403,2478
+Upper Riccarton,1368,1659,1683
+Malvern,2604,2613,2604
+Rutland,3090,3045,2904
+Sockburn South,348,345,375
+Deans Bush,2658,2526,2517
+Wigram North,0,54,633
+Holmwood,2334,2085,2130
+Wharenui,2409,2580,2760
+Wigram West,30,378,1401
+Awatea South,57,54,1041
+Merivale,3219,2931,2904
+Mairehau South,3687,3762,3747
+Mona Vale,1425,1371,1341
+Riccarton West,2646,2880,3330
+Shirley West,4008,3972,4173
+Middleton,174,213,189
+Wigram South,0,0,1320
+Queenspark,3603,3435,3489
+St Albans North,2229,2145,2136
+St Albans West,2520,2421,2523
+Travis Wetlands,2298,2370,2391
+Wigram East,0,0,777
+Riccarton Central,30,21,51
+Oaklands West,2502,2424,2514
+Riccarton South,2844,3075,3444
+Halswell West,375,381,3597
+Shirley East,2571,2616,2679
+Broken Run,24,387,576
+St Albans East,2544,2544,2970
+Hagley Park,231,138,39
+Hillmorton,2160,2655,2838
+Parklands,3738,3939,4020
+Riccarton East,945,993,1083
+Edgeware,3684,3954,4125
+Aidanfield,1296,2892,3903
+Tower Junction,24,39,120
+Burwood,3357,3273,3270
+Christchurch Central-West,1857,966,930
+Christchurch Central-North,2442,1824,2379
+Richmond North (Christchurch City),2880,2244,2313
+Waimairi Beach,1062,1266,1308
+Addington West,1959,2439,2409
+Otakaro-Avon River Corridor,10386,1263,99
+Oaklands East,3207,3255,3342
+Addington North,15,57,12
+Dallington,2691,2220,2361
+Christchurch Central,396,27,99
+Hoon Hay West,3105,3123,3210
+Richmond South (Christchurch City),2526,2067,1998
+Spreydon West,2886,2964,3063
+Christchurch Central-East,2151,1419,1929
+Christchurch Central-South,573,531,549
+North Beach,4083,4002,4071
+Halswell North,1461,1779,2055
+Addington East,2328,2592,2937
+Avondale (Christchurch City),2733,2352,2373
+Spreydon North,3432,3552,3780
+Hoon Hay East,3033,3087,3213
+Avonside,1899,1695,1671
+Linwood West,4590,4290,4962
+Halswell South,2313,2286,2487
+Sydenham Central,126,114,138
+Spreydon South,2181,2208,2364
+Rawhiti,3237,2685,2769
+Wainoni,2859,2694,2799
+Linwood North,2544,2406,2709
+Aranui,4260,3777,4200
+Sydenham West,1074,1152,1320
+Lancaster Park,258,219,243
+Phillipstown,3315,3618,4014
+Kennedys Bush,684,849,906
+Somerfield East,3543,3660,3723
+Somerfield West,2973,3114,3060
+Linwood East,1881,1926,2112
+Sydenham North,1779,1869,1998
+Hoon Hay South,2073,2112,2172
+Charleston (Christchurch City),1314,1392,1401
+Sydenham South,2304,2535,2787
+Bexley,2565,2244,2553
+Waltham,1608,1620,1938
+Westmorland,1674,1932,2196
+Woolston North,3339,3405,3390
+New Brighton,3360,3261,3330
+Cashmere West,3015,2922,3060
+Bromley South,2940,2922,2949
+Ensors,2193,2250,2298
+Beckenham,2451,2442,2403
+Bromley North,48,63,57
+St Martins,2751,2652,2721
+Opawa,1434,1302,1365
+Woolston West,1251,1161,1218
+Woolston East,2706,3000,3225
+Huntsbury,2121,2028,2268
+Cashmere East,3318,3213,3393
+Hillsborough (Christchurch City),2532,2226,2370
+Woolston South,474,519,507
+Port Hills,84,90,72
+South New Brighton,3645,3228,3234
+Brookhaven-Ferrymead,1071,1017,1074
+Heathcote Valley,2172,2118,2229
+Mount Pleasant,3984,3024,3567
+Redcliffs,2079,1776,1971
+Governors Bay,801,816,864
+Inlets other Christchurch City,0,3,0
+Clifton Hill,1851,1479,1647
+Lyttelton,2991,2766,2982
+Inlet Port Lyttelton,12,0,0
+Sumner,3768,3483,3519
+Teddington,207,192,234
+Diamond Harbour,1209,1305,1497
+Inland water Lake Ellesmere/Te Waihora South,0,0,0
+Banks Peninsula South,1026,1101,1167
+Eastern Bays-Banks Peninsula,606,654,615
+Akaroa Harbour,711,756,729
+Inlet Akaroa Harbour,0,0,3
+Akaroa,591,645,756
+Glenroy-Hororata,987,1086,1194
+Glentunnel,891,1107,1191
+Darfield,1974,2397,2724
+Kirwee,918,1101,1275
+Bankside,1365,1605,1656
+Charing Cross,696,843,885
+Halkett,1287,1545,1656
+Newtons Road,2604,3207,3342
+West Melton,327,780,2085
+Burnham Camp,1206,1089,1146
+Rolleston Izone,63,51,33
+Rolleston North West,582,1800,3777
+Springston,1653,2031,2157
+Rolleston Central,2316,2976,3258
+Rolleston North East,1143,2235,4554
+Rolleston South West,561,2094,2874
+Southbridge,2163,2430,2490
+Rolleston South East,357,450,3036
+Trents,1482,1854,1917
+Prebbleton,2001,2772,4515
+Irwell,1182,1275,1278
+Ladbrooks,1299,1578,1701
+Lincoln West,2091,2370,2943
+Lincoln East,729,1497,3567
+Leeston,1326,1539,2208
+Tai Tapu,762,948,1173
+Motukarara,588,693,612
+Inland water Lake Ellesmere/Te Waihora North,0,0,0
+Ashburton Lakes,90,102,96
+Cairnbrae,1236,1404,1449
+Ashburton Forks,1686,2007,2214
+Methven,1404,1719,1779
+Ealing-Lowcliffe,1197,1395,1551
+Eiffelton,1788,2226,2466
+Chertsey,1422,1602,1611
+Winchmore-Wakanui,1284,1422,1536
+Allenton North,1884,2172,2547
+Allenton South,1857,2052,2121
+Rakaia,1071,1272,1440
+Ashburton North,954,996,1050
+Allenton East,1947,2106,2121
+Tinwald North,999,1068,1185
+Ashburton Central,162,147,141
+Ashburton West,912,921,957
+Tinwald South,1995,2178,2373
+Ashburton East,1518,1689,1749
+Netherby,1488,1821,2130
+Hampstead,2472,2733,2910
+Ben McLeod,111,162,132
+Arundel,1122,1308,1368
+Levels Valley,945,1014,1044
+Geraldine,2397,2400,2706
+Rangitata,1221,1500,1653
+Waitohi (Timaru District),1602,1737,1761
+Pleasant Point,1194,1302,1371
+Temuka West,2043,2016,2163
+Hadlow,1194,1272,1434
+Levels,1128,1134,1209
+Temuka East,2202,2238,2307
+Gleniti North,1098,1215,1491
+Washdyke,1044,942,1017
+Fairview,1587,1581,1641
+Gleniti South,2106,2292,2433
+Glenwood,1656,1755,1788
+Marchwiel West,1485,1476,1527
+Marchwiel East,1746,1791,1980
+Highfield North,2259,2223,2358
+Highfield South,1269,1197,1251
+Waimataitai-Maori Hill,1887,1902,2043
+Fraser Park,2679,2685,2751
+Seaview,2178,2028,2088
+Inlet Port Timaru,3,3,0
+Watlington,2253,2298,2253
+Timaru Central,420,426,405
+Timaru East,300,258,273
+Parkside,2295,2358,2376
+Kensington (Timaru District),1443,1416,1464
+Mackenzie Lakes,783,882,1182
+Inland water Lake Pukaki,0,0,0
+Inland water Lake Tekapo,3,0,0
+Twizel,1041,1152,1455
+Opua (Mackenzie District),1107,1263,1347
+Fairlie,867,861,885
+Hakataramea,732,756,831
+Maungati,675,732,738
+Lyalldale,588,636,687
+Makikihi-Willowbridge,984,993,1008
+Waimate North,450,504,507
+Morven-Glenavy-Ikawai,939,1131,1095
+Waimate West,1335,1254,1335
+Waimate East,1503,1527,1614
+Oceanic Chatham Islands,0,0,0
+Chatham Islands,612,600,663
+Aviemore,669,702,765
+Inland water Lake Ohau,9,0,0
+Danseys Pass,864,915,987
+Ngapara,1536,1611,1806
+Lower Waitaki,1047,1266,1389
+Waihemo,1272,1320,1341
+Maheno,1875,1818,1968
+Weston,897,984,1050
+Oamaru North Milner Park,2184,2313,2529
+Oamaru North Orana Park,2658,2661,2907
+Oamaru Gardens,1008,1080,1179
+Glen Warren,1524,1512,1632
+Holmes Hill,1251,1284,1332
+Oamaru Central,249,273,294
+South Hill,2259,2199,2184
+Inlet Port Oamaru,6,0,0
+Palmerston,921,891,948
+Lindis-Nevis Valleys,1149,1677,2391
+Cromwell West,1854,2220,3048
+Cromwell East,1893,2121,2562
+Manuherikia-Ida Valleys,960,1020,1119
+Earnscleugh,576,609,699
+Dunstan-Galloway,1233,1329,1695
+Clyde,906,999,1161
+Alexandra North,2373,2445,2856
+Alexandra South,2454,2358,2616
+Maniototo,1566,1554,1635
+Teviot Valley,1683,1563,1779
+Outer Wanaka,336,378,399
+Glenorchy,273,363,450
+Inland water Lake Wanaka,0,0,0
+Outer Wakatipu,537,657,822
+Inland water Lake Hawea,0,0,0
+Cardrona,429,507,633
+Inland water Lake Wakatipu,6,0,0
+Wanaka Waterfront,1224,1374,2121
+Wanaka North,1311,1614,2412
+Wanaka West,993,1323,1725
+Albert Town,705,1287,2031
+Wanaka Central,810,876,1263
+Lake Hawea,552,798,1200
+Upper Clutha Valley,651,879,1257
+Kingston,201,237,348
+Arthurs Point,411,807,1128
+Wakatipu Basin,1020,1158,1356
+Queenstown Hill,0,3,6
+Warren Park,1041,1131,1485
+Sunshine Bay-Fernhill,2256,2358,2931
+Arrowtown,2148,2445,2814
+Quail Rise,351,543,708
+Queenstown Central,1164,1053,1017
+Queenstown East,1182,1362,1416
+Frankton Arm,1317,1569,1917
+Frankton,2154,2307,2895
+Lake Hayes,252,318,354
+Kelvin Heights,963,1011,1170
+Shotover Country,45,42,2187
+Lake Hayes Estate,570,1599,2139
+Jacks Point,63,237,969
+Strath Taieri,714,714,666
+Bucklands Crossing,1230,1425,1482
+Waikouaiti,1095,1122,1194
+Momona,2130,2205,2322
+Taieri,1170,1410,1506
+Inlets other Dunedin City,18,0,0
+Mount Cargill,1755,1776,2016
+Bush Road,2277,2343,2358
+Mosgiel East,1803,1983,2730
+Mosgiel Central,2568,2601,2607
+Seddon Park,2640,2631,2868
+Wingatui,708,765,891
+Saddle Hill-Chain Hills,1071,1191,1224
+East Taieri,1653,1935,2181
+Halfway Bush,1824,1743,1830
+Helensburgh,1071,1173,1188
+Glenleith,1152,1113,1239
+Fairfield (Dunedin City),2268,2415,2511
+Inlet Otago Harbour,15,3,0
+Brockville,2439,2295,2409
+Wakari,3693,3822,4098
+Abbotsford,2400,2496,2817
+Brighton,1509,1446,1473
+Pine Hill-Dalmore,2340,2226,2289
+Kaikorai-Bradford,1122,1176,1182
+Maori Hill,2328,2367,2448
+Roslyn (Dunedin City),2940,3060,3048
+North East Valley Chingford,1587,1578,1653
+Roseneath-Sawyers Bay,1395,1317,1449
+Normanby,1374,1392,1425
+North East Valley Knox,2196,2388,2523
+Belleknowes,2280,2229,2220
+Gardens (Dunedin City),3276,3300,3741
+Kenmure,1926,1878,1944
+Campus West,1494,1686,1728
+Waldronville,861,1128,1299
+Green Island,2283,2235,2319
+Port Chalmers,1380,1419,1407
+Royal Terrace,1473,1605,1719
+Arthur Street,1323,1353,1494
+Opoho,1236,1200,1218
+Campus North,2634,2616,2535
+Campus South,2184,2046,2031
+Mornington,2820,2703,2802
+Dunedin Central,1902,1914,1962
+Maryhill,2232,2127,2277
+Ravensbourne-St Leonards,1893,1896,1878
+Harbourside,60,48,45
+Fernhill,1563,1398,1608
+Otago Peninsula,819,780,852
+Concord,1485,1464,1512
+Calton Hill,1524,1434,1482
+Caversham,2253,2181,2265
+Hillside-Portsmouth Drive,105,75,99
+Kew (Dunedin City),1650,1740,1734
+Corstorphine,1707,1770,1884
+Forbury,1302,1293,1326
+Bathgate Park,2358,2310,2439
+St Clair,2355,2346,2346
+Waverley,2646,2574,2646
+Macandrew Bay-Company Bay,1473,1518,1572
+Broad Bay-Portobello,1071,1074,1155
+St Kilda South,2817,2829,2964
+Musselburgh,1524,1569,1515
+Shiel Hill,1536,1599,1701
+St Kilda North,2442,2469,2538
+Andersons Bay,2391,2340,2379
+Tainui,1917,1983,1980
+West Otago,2232,2169,2289
+Tuapeka,1179,1077,1155
+Clinton,1170,1200,1230
+Clutha Valley,1560,1524,1608
+Bruce,1572,2043,2250
+Catlins,1332,1254,1305
+Milton,2046,2070,2157
+Balclutha South,2532,2448,2523
+Balclutha North,1605,1539,1587
+Benhar-Stirling,468,462,471
+Kaitangata-Matau,1137,1104,1092
+Inlet Catlins,0,0,0
+Fiordland,144,123,111
+Inlets Fiordland,15,15,12
+Inland water Lake Te Anau,6,0,0
+Mararoa,789,714,774
+Inland water Lake Manapouri,0,0,0
+Te Anau,1935,2001,2538
+Whitestone,378,540,618
+Mossburn,1110,1197,1209
+Inland water Lake Hauroko,0,0,0
+Longwood Forest,1947,1995,1995
+Ohai-Nightcaps,1533,1500,1482
+Riversdale-Piano Flat,1299,1341,1374
+Lumsden-Balfour,1212,1266,1320
+Oreti River,1926,2169,2100
+Otautau,2784,2793,2808
+Hedgehope,1044,1110,1179
+Winton,2094,2220,2337
+Waianiwa,1038,1155,1170
+Riverton,1542,1470,1620
+Wallacetown,1056,1158,1173
+Grove Bush,975,1065,1158
+Edendale-Woodlands,2130,2193,2262
+Inlets other Southland District,3,3,0
+Stewart Island,402,378,408
+Awarua Plains,963,1026,1020
+Wyndham-Catlins,2130,2178,2196
+Waikaka,1560,1554,1560
+Waimumu-Kaiwera,1233,1278,1302
+Gore North,1572,1557,1713
+Gore West,2754,2703,2697
+East Gore,1401,1440,1443
+Gore Central,222,195,180
+Gore Main,1224,1200,1251
+Gore South,582,597,627
+Mataura,1560,1509,1629
+West Plains-Makarewa,1365,1509,1608
+Prestonville-Grasmere,3453,3513,3720
+Donovan Park,2058,2355,2484
+Myross Bush,963,1050,1134
+Otatara,2742,3036,3144
+Invercargill Central,1155,1125,1365
+Gladstone (Invercargill City),2484,2385,2376
+Rosedale,1866,1833,1872
+Avenal,1158,1131,1263
+Hargest,2019,1995,2070
+Windsor,3033,2949,3090
+Richmond (Invercargill City),3336,3342,3480
+Glengarry,2307,2352,2637
+Inlet New River Estuary,0,3,0
+Turnbull Thompson Park,1725,1731,1764
+Crinan,1434,1584,1734
+Georgetown,1884,1935,2040
+Kew (Invercargill City),1800,1914,1965
+Kennington-Tisbury,1092,1317,1443
+Newfield,2757,2754,2787
+Strathern,2181,2088,2217
+Elizabeth Park,1236,1254,1272
+Aurora,1224,1293,1329
+Moulson,1152,1308,1284
+Kingswell,2034,2082,2232
+Clifton,1458,1449,1500
+Woodend-Greenhills,612,603,597
+Inlet Bluff Harbour,0,0,0
+Bluff,1797,1803,1797
+Oceanic West Coast Region,0,0,0
+Oceanic Nelson Region,0,0,0
+Oceanic Marlborough Region,9,0,0
+Oceanic Southland Region,0,0,3
+Oceanic Canterbury Region,0,12,0
+Oceanic Otago Region,0,6,0
+New Zealand Economic Zone,0,0,6
+Oceanic Kermadec Islands,0,0,0
+Kermadec Islands,6,0,0
+Oceanic Oil Rig Taranaki,0,0,0
+Oceanic Campbell Island,0,0,0
+Campbell Island,0,0,0
+Oceanic Oil Rig Southland,3,0,0
+Oceanic Auckland Islands,0,0,0
+Auckland Islands,0,0,0
+Oceanic Bounty Islands,0,0,0
+Bounty Islands,0,0,0
+Oceanic Snares Islands,0,0,0
+Snares Islands,0,0,0
+Oceanic Antipodes Islands,0,0,0
+Antipodes Islands,0,0,0
+Ross Dependency,0,0,0
+Lake Cameron,1170,1278,1479
+Craigieburn,198,222,159
+Torlesse,900,1014,1164
