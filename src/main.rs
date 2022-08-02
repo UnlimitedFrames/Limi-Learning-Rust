@@ -1,5 +1,5 @@
 fn main() {
-    for num in 'a'..'z' {
-        println!("{num}")
-    }
+let s = String::from("hey");
+println!("{s}");
+
 }
