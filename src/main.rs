@@ -1,5 +1,5 @@
 fn main() {
-    for num in (1..77).rev() {
+    for num in 'a'..'z' {
         println!("{num}")
     }
 }
